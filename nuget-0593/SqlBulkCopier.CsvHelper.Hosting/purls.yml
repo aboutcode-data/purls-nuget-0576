@@ -1,0 +1,4 @@
+- pkg:nuget/SqlBulkCopier.CsvHelper.Hosting@0.0.8
+- pkg:nuget/SqlBulkCopier.CsvHelper.Hosting@1.0.0
+- pkg:nuget/SqlBulkCopier.CsvHelper.Hosting@1.1.0
+- pkg:nuget/SqlBulkCopier.CsvHelper.Hosting@1.2.0
