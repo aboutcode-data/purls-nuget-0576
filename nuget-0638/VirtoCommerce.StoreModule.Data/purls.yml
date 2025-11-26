@@ -233,6 +233,7 @@
 - pkg:nuget/VirtoCommerce.StoreModule.Data@3.819.0
 - pkg:nuget/VirtoCommerce.StoreModule.Data@3.820.0
 - pkg:nuget/VirtoCommerce.StoreModule.Data@3.821.0
+- pkg:nuget/VirtoCommerce.StoreModule.Data@3.823.0-alpha.766-vcst-4203-cleanup
 - pkg:nuget/VirtoCommerce.StoreModule.Data@3.9.0
 - pkg:nuget/VirtoCommerce.StoreModule.Data@3.9.0-alpha.482
 - pkg:nuget/VirtoCommerce.StoreModule.Data@3.9.0-alpha.485
