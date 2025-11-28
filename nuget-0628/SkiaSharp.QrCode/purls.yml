@@ -1,4 +1,5 @@
 - pkg:nuget/SkiaSharp.QrCode@0.1.0
+- pkg:nuget/SkiaSharp.QrCode@0.12.0
 - pkg:nuget/SkiaSharp.QrCode@0.2.0
 - pkg:nuget/SkiaSharp.QrCode@0.3.0
 - pkg:nuget/SkiaSharp.QrCode@0.3.1
