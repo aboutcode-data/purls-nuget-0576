@@ -89,6 +89,7 @@
 - pkg:nuget/BrigitSoftware.Brigit.Api.Client@1.1.141
 - pkg:nuget/BrigitSoftware.Brigit.Api.Client@1.1.15
 - pkg:nuget/BrigitSoftware.Brigit.Api.Client@1.1.16
+- pkg:nuget/BrigitSoftware.Brigit.Api.Client@1.1.163
 - pkg:nuget/BrigitSoftware.Brigit.Api.Client@1.1.17
 - pkg:nuget/BrigitSoftware.Brigit.Api.Client@1.1.18
 - pkg:nuget/BrigitSoftware.Brigit.Api.Client@1.1.19
