@@ -8,6 +8,7 @@
 - pkg:nuget/CK.Observable.Device@15.0.0
 - pkg:nuget/CK.Observable.Device@15.0.1
 - pkg:nuget/CK.Observable.Device@15.1.0
+- pkg:nuget/CK.Observable.Device@17.1.1
 - pkg:nuget/CK.Observable.Device@7.0.0
 - pkg:nuget/CK.Observable.Device@7.0.1
 - pkg:nuget/CK.Observable.Device@7.0.2
