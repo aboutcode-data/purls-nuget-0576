@@ -7,4 +7,5 @@
 - pkg:nuget/CK.Testing.SqliteEngine@13.0.0
 - pkg:nuget/CK.Testing.SqliteEngine@13.0.1
 - pkg:nuget/CK.Testing.SqliteEngine@13.0.2
+- pkg:nuget/CK.Testing.SqliteEngine@14.1.1
 - pkg:nuget/CK.Testing.SqliteEngine@9.0.0
