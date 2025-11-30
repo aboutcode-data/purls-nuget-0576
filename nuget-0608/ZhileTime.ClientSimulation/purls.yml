@@ -132,3 +132,4 @@
 - pkg:nuget/ZhileTime.ClientSimulation@5.8.0
 - pkg:nuget/ZhileTime.ClientSimulation@5.8.2
 - pkg:nuget/ZhileTime.ClientSimulation@6.0.2
+- pkg:nuget/ZhileTime.ClientSimulation@6.0.5
