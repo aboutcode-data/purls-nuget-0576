@@ -130,6 +130,7 @@
 - pkg:nuget/Ecng.Data.Linq2db@1.0.23
 - pkg:nuget/Ecng.Data.Linq2db@1.0.236
 - pkg:nuget/Ecng.Data.Linq2db@1.0.24
+- pkg:nuget/Ecng.Data.Linq2db@1.0.240
 - pkg:nuget/Ecng.Data.Linq2db@1.0.25
 - pkg:nuget/Ecng.Data.Linq2db@1.0.26
 - pkg:nuget/Ecng.Data.Linq2db@1.0.27
