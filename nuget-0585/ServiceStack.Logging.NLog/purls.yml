@@ -7,6 +7,7 @@
 - pkg:nuget/ServiceStack.Logging.NLog@1.0.5
 - pkg:nuget/ServiceStack.Logging.NLog@1.0.6
 - pkg:nuget/ServiceStack.Logging.NLog@1.0.8
+- pkg:nuget/ServiceStack.Logging.NLog@10.0.0
 - pkg:nuget/ServiceStack.Logging.NLog@3.9.60
 - pkg:nuget/ServiceStack.Logging.NLog@3.9.61
 - pkg:nuget/ServiceStack.Logging.NLog@3.9.62

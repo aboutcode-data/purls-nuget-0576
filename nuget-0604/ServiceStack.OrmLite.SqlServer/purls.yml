@@ -1,3 +1,4 @@
+- pkg:nuget/ServiceStack.OrmLite.SqlServer@10.0.0
 - pkg:nuget/ServiceStack.OrmLite.SqlServer@2.9.0
 - pkg:nuget/ServiceStack.OrmLite.SqlServer@3.0.3
 - pkg:nuget/ServiceStack.OrmLite.SqlServer@3.0.5

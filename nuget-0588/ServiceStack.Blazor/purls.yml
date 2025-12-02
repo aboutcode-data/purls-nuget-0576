@@ -1,3 +1,4 @@
+- pkg:nuget/ServiceStack.Blazor@10.0.0
 - pkg:nuget/ServiceStack.Blazor@5.14.0
 - pkg:nuget/ServiceStack.Blazor@6.0.0
 - pkg:nuget/ServiceStack.Blazor@6.0.2
