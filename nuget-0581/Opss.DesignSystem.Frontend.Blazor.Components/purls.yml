@@ -27,6 +27,7 @@
 - pkg:nuget/Opss.DesignSystem.Frontend.Blazor.Components@0.34.1-rc-d11c7a10d00255a2b13564a1026036e15539dd3e
 - pkg:nuget/Opss.DesignSystem.Frontend.Blazor.Components@0.34.2-rc-f74178d8e99c2860fd5302fc6a45b8df34183344
 - pkg:nuget/Opss.DesignSystem.Frontend.Blazor.Components@0.35.5-rc-dfedbf01fe1c6f04aa0dfae3a17df7ad4527cef7
+- pkg:nuget/Opss.DesignSystem.Frontend.Blazor.Components@0.35.9-rc-e33e8713d84f0ec46c675956845a18bae29fe005
 - pkg:nuget/Opss.DesignSystem.Frontend.Blazor.Components@0.4.0
 - pkg:nuget/Opss.DesignSystem.Frontend.Blazor.Components@0.5.0
 - pkg:nuget/Opss.DesignSystem.Frontend.Blazor.Components@0.6.0
