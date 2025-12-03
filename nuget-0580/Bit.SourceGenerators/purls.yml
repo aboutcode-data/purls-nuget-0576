@@ -2,6 +2,7 @@
 - pkg:nuget/Bit.SourceGenerators@1.0.1
 - pkg:nuget/Bit.SourceGenerators@1.0.2
 - pkg:nuget/Bit.SourceGenerators@10.0.0-pre-01
+- pkg:nuget/Bit.SourceGenerators@10.2.0
 - pkg:nuget/Bit.SourceGenerators@12.0.0-pre-09
 - pkg:nuget/Bit.SourceGenerators@12.0.0-pre-10
 - pkg:nuget/Bit.SourceGenerators@12.0.0-pre-11

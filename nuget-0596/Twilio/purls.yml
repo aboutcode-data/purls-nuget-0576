@@ -359,6 +359,7 @@
 - pkg:nuget/Twilio@7.12.2
 - pkg:nuget/Twilio@7.13.0
 - pkg:nuget/Twilio@7.13.3
+- pkg:nuget/Twilio@7.13.8
 - pkg:nuget/Twilio@7.2.0
 - pkg:nuget/Twilio@7.2.1
 - pkg:nuget/Twilio@7.2.2

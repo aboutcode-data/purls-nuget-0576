@@ -44,6 +44,7 @@
 - pkg:nuget/Bonliva.AsyncApi.PubSub@2.5.0-rc1
 - pkg:nuget/Bonliva.AsyncApi.PubSub@2.5.0-rc3
 - pkg:nuget/Bonliva.AsyncApi.PubSub@2.5.1
+- pkg:nuget/Bonliva.AsyncApi.PubSub@2.5.10
 - pkg:nuget/Bonliva.AsyncApi.PubSub@2.5.2
 - pkg:nuget/Bonliva.AsyncApi.PubSub@2.5.5
 - pkg:nuget/Bonliva.AsyncApi.PubSub@2.5.7
