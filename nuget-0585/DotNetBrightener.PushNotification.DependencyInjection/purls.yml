@@ -1,1 +1,2 @@
 - pkg:nuget/DotNetBrightener.PushNotification.DependencyInjection@2025.0.10-preview-628
+- pkg:nuget/DotNetBrightener.PushNotification.DependencyInjection@2026.0.1-preview-676
