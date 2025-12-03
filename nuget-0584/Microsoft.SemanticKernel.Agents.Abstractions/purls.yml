@@ -68,5 +68,6 @@
 - pkg:nuget/Microsoft.SemanticKernel.Agents.Abstractions@1.63.0
 - pkg:nuget/Microsoft.SemanticKernel.Agents.Abstractions@1.64.0
 - pkg:nuget/Microsoft.SemanticKernel.Agents.Abstractions@1.65.0
+- pkg:nuget/Microsoft.SemanticKernel.Agents.Abstractions@1.68.0
 - pkg:nuget/Microsoft.SemanticKernel.Agents.Abstractions@1.8.0
 - pkg:nuget/Microsoft.SemanticKernel.Agents.Abstractions@1.9.0-alpha

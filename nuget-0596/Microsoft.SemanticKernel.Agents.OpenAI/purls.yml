@@ -69,4 +69,5 @@
 - pkg:nuget/Microsoft.SemanticKernel.Agents.OpenAI@1.63.0-preview
 - pkg:nuget/Microsoft.SemanticKernel.Agents.OpenAI@1.64.0-preview
 - pkg:nuget/Microsoft.SemanticKernel.Agents.OpenAI@1.65.0-preview
+- pkg:nuget/Microsoft.SemanticKernel.Agents.OpenAI@1.68.0-preview
 - pkg:nuget/Microsoft.SemanticKernel.Agents.OpenAI@1.9.0-alpha
