@@ -1,1 +1,2 @@
 - pkg:nuget/AWSSDK.PartnerCentralAccount@3.7.500
+- pkg:nuget/AWSSDK.PartnerCentralAccount@3.7.500.1
