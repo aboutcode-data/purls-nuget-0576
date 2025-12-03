@@ -572,6 +572,7 @@
 - pkg:nuget/AWSSDK.ConnectCases@3.7.503.7
 - pkg:nuget/AWSSDK.ConnectCases@3.7.505.5
 - pkg:nuget/AWSSDK.ConnectCases@3.7.505.7
+- pkg:nuget/AWSSDK.ConnectCases@3.7.505.9
 - pkg:nuget/AWSSDK.ConnectCases@4.0.0
 - pkg:nuget/AWSSDK.ConnectCases@4.0.0-preview
 - pkg:nuget/AWSSDK.ConnectCases@4.0.0-preview.10

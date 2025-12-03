@@ -151,3 +151,4 @@
 - pkg:nuget/Indiko.Common.Utils@1.7.5
 - pkg:nuget/Indiko.Common.Utils@1.7.8
 - pkg:nuget/Indiko.Common.Utils@1.7.9
+- pkg:nuget/Indiko.Common.Utils@2.1.1
