@@ -16,4 +16,5 @@
 - pkg:nuget/OneForAll.EFCore@1.2.2.6
 - pkg:nuget/OneForAll.EFCore@2.0.0-net8
 - pkg:nuget/OneForAll.EFCore@2.0.1
+- pkg:nuget/OneForAll.EFCore@2.0.3
 - pkg:nuget/OneForAll.EFCore@2.8.0-net6
