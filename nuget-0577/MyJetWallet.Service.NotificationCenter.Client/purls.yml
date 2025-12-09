@@ -6,3 +6,5 @@
 - pkg:nuget/MyJetWallet.Service.NotificationCenter.Client@1.0.5
 - pkg:nuget/MyJetWallet.Service.NotificationCenter.Client@1.0.6
 - pkg:nuget/MyJetWallet.Service.NotificationCenter.Client@1.0.7
+- pkg:nuget/MyJetWallet.Service.NotificationCenter.Client@2.1.18
+- pkg:nuget/MyJetWallet.Service.NotificationCenter.Client@2.1.19
