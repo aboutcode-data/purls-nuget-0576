@@ -54,3 +54,4 @@
 - pkg:nuget/NewRelic.Agent.Internal.Profiler@10.43.0.7
 - pkg:nuget/NewRelic.Agent.Internal.Profiler@10.43.0.8
 - pkg:nuget/NewRelic.Agent.Internal.Profiler@10.44.0.7
+- pkg:nuget/NewRelic.Agent.Internal.Profiler@10.47.0.11
