@@ -65,3 +65,4 @@
 - pkg:nuget/Infometeos.Api.Common@6.0.0
 - pkg:nuget/Infometeos.Api.Common@6.0.1
 - pkg:nuget/Infometeos.Api.Common@6.0.2
+- pkg:nuget/Infometeos.Api.Common@7.0.4
