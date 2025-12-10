@@ -1098,6 +1098,7 @@
 - pkg:nuget/AWSSDK.FSx@3.7.503.7
 - pkg:nuget/AWSSDK.FSx@3.7.506
 - pkg:nuget/AWSSDK.FSx@3.7.506.2
+- pkg:nuget/AWSSDK.FSx@3.7.507.2
 - pkg:nuget/AWSSDK.FSx@3.7.6
 - pkg:nuget/AWSSDK.FSx@3.7.6.1
 - pkg:nuget/AWSSDK.FSx@3.7.6.10
