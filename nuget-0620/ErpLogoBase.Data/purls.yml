@@ -1,6 +1,7 @@
 - pkg:nuget/ErpLogoBase.Data@1.0.0
 - pkg:nuget/ErpLogoBase.Data@1.0.1
 - pkg:nuget/ErpLogoBase.Data@1.0.2
+- pkg:nuget/ErpLogoBase.Data@10.0.5
 - pkg:nuget/ErpLogoBase.Data@2.0.0
 - pkg:nuget/ErpLogoBase.Data@2.0.1
 - pkg:nuget/ErpLogoBase.Data@2.0.2
