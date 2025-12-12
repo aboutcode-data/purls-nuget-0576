@@ -151,3 +151,4 @@
 - pkg:nuget/Workleap.Extensions.OpenAPI@1.0.9-preview.2
 - pkg:nuget/Workleap.Extensions.OpenAPI@1.0.9-preview.3
 - pkg:nuget/Workleap.Extensions.OpenAPI@1.0.9-preview.4
+- pkg:nuget/Workleap.Extensions.OpenAPI@1.1.0
