@@ -1,4 +1,5 @@
 - pkg:nuget/Rystem.PlayFramework@10.0.2
+- pkg:nuget/Rystem.PlayFramework@10.0.5
 - pkg:nuget/Rystem.PlayFramework@9.0.0
 - pkg:nuget/Rystem.PlayFramework@9.0.0-rc.1
 - pkg:nuget/Rystem.PlayFramework@9.0.0-rc.2
