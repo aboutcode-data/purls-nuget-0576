@@ -40,6 +40,7 @@
 - pkg:nuget/Rescope.Commerce.BackOffice@13.2.7
 - pkg:nuget/Rescope.Commerce.BackOffice@13.2.8
 - pkg:nuget/Rescope.Commerce.BackOffice@13.2.9
+- pkg:nuget/Rescope.Commerce.BackOffice@13.3.9
 - pkg:nuget/Rescope.Commerce.BackOffice@15.0.0
 - pkg:nuget/Rescope.Commerce.BackOffice@15.0.0-beta001
 - pkg:nuget/Rescope.Commerce.BackOffice@15.0.1
