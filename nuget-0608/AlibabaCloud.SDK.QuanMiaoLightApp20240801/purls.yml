@@ -10,6 +10,7 @@
 - pkg:nuget/AlibabaCloud.SDK.QuanMiaoLightApp20240801@2.10.1
 - pkg:nuget/AlibabaCloud.SDK.QuanMiaoLightApp20240801@2.11.0
 - pkg:nuget/AlibabaCloud.SDK.QuanMiaoLightApp20240801@2.12.1
+- pkg:nuget/AlibabaCloud.SDK.QuanMiaoLightApp20240801@2.12.2
 - pkg:nuget/AlibabaCloud.SDK.QuanMiaoLightApp20240801@2.2.0
 - pkg:nuget/AlibabaCloud.SDK.QuanMiaoLightApp20240801@2.3.0
 - pkg:nuget/AlibabaCloud.SDK.QuanMiaoLightApp20240801@2.4.0
