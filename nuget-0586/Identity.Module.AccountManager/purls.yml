@@ -5,6 +5,7 @@
 - pkg:nuget/Identity.Module.AccountManager@2.5.19
 - pkg:nuget/Identity.Module.AccountManager@2.5.42
 - pkg:nuget/Identity.Module.AccountManager@2.5.46
+- pkg:nuget/Identity.Module.AccountManager@2.5.61
 - pkg:nuget/Identity.Module.AccountManager@2.5.7
 - pkg:nuget/Identity.Module.AccountManager@2.5.8
 - pkg:nuget/Identity.Module.AccountManager@2.5.9
