@@ -95,3 +95,4 @@
 - pkg:nuget/FEBTW.Shared.Host@8.0.0
 - pkg:nuget/FEBTW.Shared.Host@8.1.0
 - pkg:nuget/FEBTW.Shared.Host@8.1.1
+- pkg:nuget/FEBTW.Shared.Host@8.1.4

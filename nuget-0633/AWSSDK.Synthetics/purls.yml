@@ -883,6 +883,7 @@
 - pkg:nuget/AWSSDK.Synthetics@3.7.502.7
 - pkg:nuget/AWSSDK.Synthetics@3.7.503.10
 - pkg:nuget/AWSSDK.Synthetics@3.7.503.12
+- pkg:nuget/AWSSDK.Synthetics@3.7.503.19
 - pkg:nuget/AWSSDK.Synthetics@3.7.6
 - pkg:nuget/AWSSDK.Synthetics@3.7.6.1
 - pkg:nuget/AWSSDK.Synthetics@3.7.6.10
