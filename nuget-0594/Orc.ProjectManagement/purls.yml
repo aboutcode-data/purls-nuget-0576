@@ -170,3 +170,4 @@
 - pkg:nuget/Orc.ProjectManagement@5.1.0-alpha0458
 - pkg:nuget/Orc.ProjectManagement@5.1.1-ci0003
 - pkg:nuget/Orc.ProjectManagement@5.1.2
+- pkg:nuget/Orc.ProjectManagement@5.2.0
