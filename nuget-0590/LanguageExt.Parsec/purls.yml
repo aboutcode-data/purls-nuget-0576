@@ -491,3 +491,4 @@
 - pkg:nuget/LanguageExt.Parsec@5.0.0-beta-52
 - pkg:nuget/LanguageExt.Parsec@5.0.0-beta-53
 - pkg:nuget/LanguageExt.Parsec@5.0.0-beta-54
+- pkg:nuget/LanguageExt.Parsec@5.0.0-beta-62
