@@ -350,3 +350,5 @@
 - pkg:nuget/Redpoint.ThirdParty.React.AspNet.Middleware@2025.1251.740
 - pkg:nuget/Redpoint.ThirdParty.React.AspNet.Middleware@2025.1253.415
 - pkg:nuget/Redpoint.ThirdParty.React.AspNet.Middleware@2025.1289.355
+- pkg:nuget/Redpoint.ThirdParty.React.AspNet.Middleware@2025.1355.582
+- pkg:nuget/Redpoint.ThirdParty.React.AspNet.Middleware@2025.1355.597
