@@ -1,1 +1,3 @@
 - pkg:nuget/LayeredCraft.SourceGeneratorTools@0.0.1-beta.3
+- pkg:nuget/LayeredCraft.SourceGeneratorTools@0.1.0-alpha.6
+- pkg:nuget/LayeredCraft.SourceGeneratorTools@0.1.0-alpha.7
