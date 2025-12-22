@@ -7,5 +7,8 @@
 - pkg:nuget/Giana.Api@0.0.7
 - pkg:nuget/Giana.Api@0.0.8
 - pkg:nuget/Giana.Api@0.0.8-alpha
+- pkg:nuget/Giana.Api@0.0.8-preview.36
 - pkg:nuget/Giana.Api@0.0.8-preview30
+- pkg:nuget/Giana.Api@0.0.8-preview34
 - pkg:nuget/Giana.Api@0.0.8.31-alpha
+- pkg:nuget/Giana.Api@0.0.8.35-alpha
