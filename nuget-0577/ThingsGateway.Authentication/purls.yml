@@ -6,6 +6,7 @@
 - pkg:nuget/ThingsGateway.Authentication@10.11.5
 - pkg:nuget/ThingsGateway.Authentication@10.11.6
 - pkg:nuget/ThingsGateway.Authentication@12.4.14
+- pkg:nuget/ThingsGateway.Authentication@12.4.30
 - pkg:nuget/ThingsGateway.Authentication@2.1.1
 - pkg:nuget/ThingsGateway.Authentication@2.1.3
 - pkg:nuget/ThingsGateway.Authentication@2.1.6
