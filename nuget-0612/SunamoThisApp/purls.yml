@@ -28,5 +28,6 @@
 - pkg:nuget/SunamoThisApp@24.7.9.1
 - pkg:nuget/SunamoThisApp@24.8.6.1
 - pkg:nuget/SunamoThisApp@24.9.20.1
+- pkg:nuget/SunamoThisApp@25.12.21.1
 - pkg:nuget/SunamoThisApp@25.3.29.1
 - pkg:nuget/SunamoThisApp@25.6.7.1
