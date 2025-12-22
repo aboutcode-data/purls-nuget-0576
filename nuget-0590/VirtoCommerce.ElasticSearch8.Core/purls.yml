@@ -43,3 +43,4 @@
 - pkg:nuget/VirtoCommerce.ElasticSearch8.Core@3.819.0
 - pkg:nuget/VirtoCommerce.ElasticSearch8.Core@3.820.0
 - pkg:nuget/VirtoCommerce.ElasticSearch8.Core@3.821.0
+- pkg:nuget/VirtoCommerce.ElasticSearch8.Core@3.825.0-alpha.150-vcst-dense-vector
