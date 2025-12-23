@@ -3,6 +3,7 @@
 - pkg:nuget/NGitLab.Mock@10.2.0
 - pkg:nuget/NGitLab.Mock@10.3.0
 - pkg:nuget/NGitLab.Mock@10.4.1
+- pkg:nuget/NGitLab.Mock@11.2.0
 - pkg:nuget/NGitLab.Mock@6.10.0
 - pkg:nuget/NGitLab.Mock@6.10.1
 - pkg:nuget/NGitLab.Mock@6.10.10
