@@ -77,3 +77,4 @@
 - pkg:nuget/H.Necessaire.Runtime.Azure.CosmosDB@2.45.4
 - pkg:nuget/H.Necessaire.Runtime.Azure.CosmosDB@3.0.3
 - pkg:nuget/H.Necessaire.Runtime.Azure.CosmosDB@3.0.4
+- pkg:nuget/H.Necessaire.Runtime.Azure.CosmosDB@3.0.7
