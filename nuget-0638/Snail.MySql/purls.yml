@@ -1,2 +1,3 @@
 - pkg:nuget/Snail.MySql@1.1.1
 - pkg:nuget/Snail.MySql@1.10.0
+- pkg:nuget/Snail.MySql@1.10.12
