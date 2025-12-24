@@ -914,6 +914,7 @@
 - pkg:nuget/AWSSDK.CodeGuruReviewer@3.7.502.11
 - pkg:nuget/AWSSDK.CodeGuruReviewer@3.7.502.13
 - pkg:nuget/AWSSDK.CodeGuruReviewer@3.7.502.15
+- pkg:nuget/AWSSDK.CodeGuruReviewer@3.7.502.24
 - pkg:nuget/AWSSDK.CodeGuruReviewer@3.7.6
 - pkg:nuget/AWSSDK.CodeGuruReviewer@3.7.6.1
 - pkg:nuget/AWSSDK.CodeGuruReviewer@3.7.6.10

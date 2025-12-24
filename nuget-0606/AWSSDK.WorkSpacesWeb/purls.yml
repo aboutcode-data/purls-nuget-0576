@@ -686,6 +686,7 @@
 - pkg:nuget/AWSSDK.WorkSpacesWeb@3.7.503.5
 - pkg:nuget/AWSSDK.WorkSpacesWeb@3.7.503.9
 - pkg:nuget/AWSSDK.WorkSpacesWeb@3.7.504.1
+- pkg:nuget/AWSSDK.WorkSpacesWeb@3.7.505.1
 - pkg:nuget/AWSSDK.WorkSpacesWeb@4.0.0
 - pkg:nuget/AWSSDK.WorkSpacesWeb@4.0.0-preview
 - pkg:nuget/AWSSDK.WorkSpacesWeb@4.0.0-preview.10
