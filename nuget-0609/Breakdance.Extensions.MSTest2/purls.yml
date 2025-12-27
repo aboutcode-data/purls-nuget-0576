@@ -53,3 +53,5 @@
 - pkg:nuget/Breakdance.Extensions.MSTest2@7.0.0-CI-20241113-113744
 - pkg:nuget/Breakdance.Extensions.MSTest2@7.0.0-CI-20241122-022305
 - pkg:nuget/Breakdance.Extensions.MSTest2@7.0.1-CI-20250404-031338
+- pkg:nuget/Breakdance.Extensions.MSTest2@8.0.0-CI-20251226-164344
+- pkg:nuget/Breakdance.Extensions.MSTest2@8.0.2
