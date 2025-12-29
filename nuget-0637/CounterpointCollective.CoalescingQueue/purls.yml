@@ -1,4 +1,8 @@
 - pkg:nuget/CounterpointCollective.CoalescingQueue@10.1.103
+- pkg:nuget/CounterpointCollective.CoalescingQueue@10.1.118
+- pkg:nuget/CounterpointCollective.CoalescingQueue@10.1.120
+- pkg:nuget/CounterpointCollective.CoalescingQueue@10.1.122
+- pkg:nuget/CounterpointCollective.CoalescingQueue@10.1.124
 - pkg:nuget/CounterpointCollective.CoalescingQueue@10.1.77
 - pkg:nuget/CounterpointCollective.CoalescingQueue@10.1.82
 - pkg:nuget/CounterpointCollective.CoalescingQueue@10.1.93
