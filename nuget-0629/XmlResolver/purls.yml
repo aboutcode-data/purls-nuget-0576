@@ -30,4 +30,5 @@
 - pkg:nuget/XmlResolver@2.1.1
 - pkg:nuget/XmlResolver@6.0.0
 - pkg:nuget/XmlResolver@6.0.2
+- pkg:nuget/XmlResolver@6.0.20
 - pkg:nuget/XmlResolver@6.0.3
