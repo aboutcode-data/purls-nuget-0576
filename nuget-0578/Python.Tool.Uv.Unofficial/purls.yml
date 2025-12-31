@@ -76,5 +76,6 @@
 - pkg:nuget/Python.Tool.Uv.Unofficial@0.8.8
 - pkg:nuget/Python.Tool.Uv.Unofficial@0.8.9
 - pkg:nuget/Python.Tool.Uv.Unofficial@0.9.12
+- pkg:nuget/Python.Tool.Uv.Unofficial@0.9.21
 - pkg:nuget/Python.Tool.Uv.Unofficial@0.9.6
 - pkg:nuget/Python.Tool.Uv.Unofficial@0.9.8
