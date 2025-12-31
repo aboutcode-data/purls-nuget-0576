@@ -33,5 +33,6 @@
 - pkg:nuget/SunamoChar@24.9.20.1
 - pkg:nuget/SunamoChar@25.1.29.1
 - pkg:nuget/SunamoChar@25.12.31.1
+- pkg:nuget/SunamoChar@25.12.31.2
 - pkg:nuget/SunamoChar@25.3.29.1
 - pkg:nuget/SunamoChar@25.6.7.1
