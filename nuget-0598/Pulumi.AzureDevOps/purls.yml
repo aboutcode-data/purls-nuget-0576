@@ -211,6 +211,7 @@
 - pkg:nuget/Pulumi.AzureDevOps@3.11.0-alpha.1760248100
 - pkg:nuget/Pulumi.AzureDevOps@3.11.0-alpha.1760419723
 - pkg:nuget/Pulumi.AzureDevOps@3.11.0-alpha.1760592482
+- pkg:nuget/Pulumi.AzureDevOps@3.12.0-alpha.1767139460
 - pkg:nuget/Pulumi.AzureDevOps@3.2.0
 - pkg:nuget/Pulumi.AzureDevOps@3.2.0-alpha.1716216578
 - pkg:nuget/Pulumi.AzureDevOps@3.2.0-alpha.1716513772

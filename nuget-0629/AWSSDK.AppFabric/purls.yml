@@ -412,6 +412,7 @@
 - pkg:nuget/AWSSDK.AppFabric@3.7.502.11
 - pkg:nuget/AWSSDK.AppFabric@3.7.502.13
 - pkg:nuget/AWSSDK.AppFabric@3.7.502.24
+- pkg:nuget/AWSSDK.AppFabric@3.7.502.26
 - pkg:nuget/AWSSDK.AppFabric@4.0.0
 - pkg:nuget/AWSSDK.AppFabric@4.0.0-preview
 - pkg:nuget/AWSSDK.AppFabric@4.0.0-preview.10
