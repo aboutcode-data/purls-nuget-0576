@@ -109,6 +109,7 @@
 - pkg:nuget/Microting.eFormBaseCustomerBase@1.2.73
 - pkg:nuget/Microting.eFormBaseCustomerBase@1.2.8
 - pkg:nuget/Microting.eFormBaseCustomerBase@1.2.9
+- pkg:nuget/Microting.eFormBaseCustomerBase@10.0.1
 - pkg:nuget/Microting.eFormBaseCustomerBase@2.0.0-beta
 - pkg:nuget/Microting.eFormBaseCustomerBase@2.0.1-beta
 - pkg:nuget/Microting.eFormBaseCustomerBase@2.0.10
