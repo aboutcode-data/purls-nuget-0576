@@ -21,6 +21,7 @@
 - pkg:nuget/ClassLibrary.Database.JWCongDB@2024.7.12.113349
 - pkg:nuget/ClassLibrary.Database.JWCongDB@2025.1.13.121404
 - pkg:nuget/ClassLibrary.Database.JWCongDB@2025.1.7.53623
+- pkg:nuget/ClassLibrary.Database.JWCongDB@2025.12.14.80851
 - pkg:nuget/ClassLibrary.Database.JWCongDB@2025.2.17.71911
 - pkg:nuget/ClassLibrary.Database.JWCongDB@2025.2.24.74740
 - pkg:nuget/ClassLibrary.Database.JWCongDB@2025.4.9.170949
