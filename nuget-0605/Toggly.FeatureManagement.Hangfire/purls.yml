@@ -1,4 +1,5 @@
 - pkg:nuget/Toggly.FeatureManagement.Hangfire@2.10.0
+- pkg:nuget/Toggly.FeatureManagement.Hangfire@2.12.2
 - pkg:nuget/Toggly.FeatureManagement.Hangfire@2.7.0
 - pkg:nuget/Toggly.FeatureManagement.Hangfire@2.7.1
 - pkg:nuget/Toggly.FeatureManagement.Hangfire@2.7.2
