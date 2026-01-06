@@ -16,3 +16,4 @@
 - pkg:nuget/CoreHelpersPlus.WindowsAzure.Storage.Table.Backup@6.5.1-CI-20250704-194631
 - pkg:nuget/CoreHelpersPlus.WindowsAzure.Storage.Table.Backup@7.0.0-CI-20250724-200738
 - pkg:nuget/CoreHelpersPlus.WindowsAzure.Storage.Table.Backup@7.0.0-CI-20250729-181356
+- pkg:nuget/CoreHelpersPlus.WindowsAzure.Storage.Table.Backup@7.0.0-CI-20260105-202450
