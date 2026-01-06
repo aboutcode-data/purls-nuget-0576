@@ -1063,6 +1063,7 @@
 - pkg:nuget/AWSSDK.QuickSight@3.7.504.4
 - pkg:nuget/AWSSDK.QuickSight@3.7.507
 - pkg:nuget/AWSSDK.QuickSight@3.7.508.6
+- pkg:nuget/AWSSDK.QuickSight@3.7.509.2
 - pkg:nuget/AWSSDK.QuickSight@3.7.6
 - pkg:nuget/AWSSDK.QuickSight@3.7.6.1
 - pkg:nuget/AWSSDK.QuickSight@3.7.6.10

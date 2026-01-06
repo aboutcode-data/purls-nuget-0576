@@ -658,6 +658,7 @@
 - pkg:nuget/AWSSDK.Keyspaces@3.7.501.22
 - pkg:nuget/AWSSDK.Keyspaces@3.7.501.26
 - pkg:nuget/AWSSDK.Keyspaces@3.7.501.27
+- pkg:nuget/AWSSDK.Keyspaces@3.7.501.29
 - pkg:nuget/AWSSDK.Keyspaces@3.7.501.6
 - pkg:nuget/AWSSDK.Keyspaces@4.0.0
 - pkg:nuget/AWSSDK.Keyspaces@4.0.0-preview
