@@ -13,6 +13,7 @@
 - pkg:nuget/Kentico.Xperience.Lucene.Admin@12.5.0
 - pkg:nuget/Kentico.Xperience.Lucene.Admin@13.0.0
 - pkg:nuget/Kentico.Xperience.Lucene.Admin@13.0.1
+- pkg:nuget/Kentico.Xperience.Lucene.Admin@14.0.0-prerelease-1
 - pkg:nuget/Kentico.Xperience.Lucene.Admin@6.0.0
 - pkg:nuget/Kentico.Xperience.Lucene.Admin@6.0.0-prerelease-1
 - pkg:nuget/Kentico.Xperience.Lucene.Admin@6.1.0
