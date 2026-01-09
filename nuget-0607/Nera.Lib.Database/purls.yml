@@ -1,5 +1,6 @@
 - pkg:nuget/Nera.Lib.Database@1.0.0
 - pkg:nuget/Nera.Lib.Database@1.0.1
+- pkg:nuget/Nera.Lib.Database@1.0.12
 - pkg:nuget/Nera.Lib.Database@1.0.2
 - pkg:nuget/Nera.Lib.Database@1.0.8
 - pkg:nuget/Nera.Lib.Database@1.0.9
