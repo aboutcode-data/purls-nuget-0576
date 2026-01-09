@@ -2,3 +2,4 @@
 - pkg:nuget/beamable.microservice.otel.exporter@6.0.0
 - pkg:nuget/beamable.microservice.otel.exporter@6.0.0-PREVIEW.RC1
 - pkg:nuget/beamable.microservice.otel.exporter@6.0.0-PREVIEW.RC2
+- pkg:nuget/beamable.microservice.otel.exporter@7.0.0-PREVIEW.RC1
