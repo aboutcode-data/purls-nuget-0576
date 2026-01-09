@@ -90,6 +90,7 @@
 - pkg:nuget/Xbim.Flex.Desktop.Common@2.0.20.430-vassign-role-test
 - pkg:nuget/Xbim.Flex.Desktop.Common@2.0.21.431-v503-tenacy-as-service
 - pkg:nuget/Xbim.Flex.Desktop.Common@2.0.22.432-v503-tenacy-as-service
+- pkg:nuget/Xbim.Flex.Desktop.Common@2.0.222.634-vdevelop
 - pkg:nuget/Xbim.Flex.Desktop.Common@2.0.23.433-v503-tenacy-as-service
 - pkg:nuget/Xbim.Flex.Desktop.Common@2.0.24.434-v503-tenacy-as-service
 - pkg:nuget/Xbim.Flex.Desktop.Common@2.0.27.437-v503-tenacy-as-service
