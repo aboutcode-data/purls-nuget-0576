@@ -49,3 +49,4 @@
 - pkg:nuget/Gammarers.CDK.AWS.EcsFargateTaskTerminationDetectionEventRule@2.1.2
 - pkg:nuget/Gammarers.CDK.AWS.EcsFargateTaskTerminationDetectionEventRule@2.1.3
 - pkg:nuget/Gammarers.CDK.AWS.EcsFargateTaskTerminationDetectionEventRule@2.1.4
+- pkg:nuget/Gammarers.CDK.AWS.EcsFargateTaskTerminationDetectionEventRule@2.1.8

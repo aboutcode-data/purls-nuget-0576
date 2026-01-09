@@ -159,6 +159,7 @@
 - pkg:nuget/XrmFramework.Analyzers@2.2.9-alpha
 - pkg:nuget/XrmFramework.Analyzers@2.2.9-beta
 - pkg:nuget/XrmFramework.Analyzers@2.2.90
+- pkg:nuget/XrmFramework.Analyzers@2.2.91
 - pkg:nuget/XrmFramework.Analyzers@2.3.1
 - pkg:nuget/XrmFramework.Analyzers@2.3.6-beta
 - pkg:nuget/XrmFramework.Analyzers@2.3.7-beta

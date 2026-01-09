@@ -1,3 +1,4 @@
+- pkg:nuget/FizzCode.EtLast.Delta.Core@10.0.354
 - pkg:nuget/FizzCode.EtLast.Delta.Core@5.0.182.7679
 - pkg:nuget/FizzCode.EtLast.Delta.Core@5.0.183.7681
 - pkg:nuget/FizzCode.EtLast.Delta.Core@5.0.184.7684
