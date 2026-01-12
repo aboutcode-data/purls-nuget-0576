@@ -1,4 +1,5 @@
 - pkg:nuget/BrandUp.Pages.MongoDb@1.0.6
+- pkg:nuget/BrandUp.Pages.MongoDb@10.0.1
 - pkg:nuget/BrandUp.Pages.MongoDb@2.0.0.2
 - pkg:nuget/BrandUp.Pages.MongoDb@2.0.0.3
 - pkg:nuget/BrandUp.Pages.MongoDb@2.0.0.4
