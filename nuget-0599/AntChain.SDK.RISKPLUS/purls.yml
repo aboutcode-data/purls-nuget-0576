@@ -100,6 +100,7 @@
 - pkg:nuget/AntChain.SDK.RISKPLUS@1.24.4
 - pkg:nuget/AntChain.SDK.RISKPLUS@1.26.3
 - pkg:nuget/AntChain.SDK.RISKPLUS@1.29.3
+- pkg:nuget/AntChain.SDK.RISKPLUS@1.30.11
 - pkg:nuget/AntChain.SDK.RISKPLUS@1.8.8
 - pkg:nuget/AntChain.SDK.RISKPLUS@1.8.9
 - pkg:nuget/AntChain.SDK.RISKPLUS@1.9.0
