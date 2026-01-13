@@ -16,3 +16,4 @@
 - pkg:nuget/SFA.DAS.Payments.JobContextMessageHandling@2.0.1-prerelease-4
 - pkg:nuget/SFA.DAS.Payments.JobContextMessageHandling@2.0.2-prerelease-4
 - pkg:nuget/SFA.DAS.Payments.JobContextMessageHandling@2.0.3-prerelease-2
+- pkg:nuget/SFA.DAS.Payments.JobContextMessageHandling@2.0.5-prerelease-4

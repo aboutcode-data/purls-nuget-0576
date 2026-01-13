@@ -63,6 +63,7 @@
 - pkg:nuget/Opc.UaFx.Client@2.50.0
 - pkg:nuget/Opc.UaFx.Client@2.50.1
 - pkg:nuget/Opc.UaFx.Client@2.50.2
+- pkg:nuget/Opc.UaFx.Client@2.51.2
 - pkg:nuget/Opc.UaFx.Client@2.6.0
 - pkg:nuget/Opc.UaFx.Client@2.7.0
 - pkg:nuget/Opc.UaFx.Client@2.7.1
