@@ -20,6 +20,7 @@
 - pkg:nuget/Microsoft.AspNetCore.Hosting.WindowsServices@10.0.0-preview.7.25380.108
 - pkg:nuget/Microsoft.AspNetCore.Hosting.WindowsServices@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.AspNetCore.Hosting.WindowsServices@10.0.1
+- pkg:nuget/Microsoft.AspNetCore.Hosting.WindowsServices@10.0.2
 - pkg:nuget/Microsoft.AspNetCore.Hosting.WindowsServices@2.0.0
 - pkg:nuget/Microsoft.AspNetCore.Hosting.WindowsServices@2.0.0-preview2-final
 - pkg:nuget/Microsoft.AspNetCore.Hosting.WindowsServices@2.0.1
@@ -225,6 +226,7 @@
 - pkg:nuget/Microsoft.AspNetCore.Hosting.WindowsServices@9.0.0-rc.1.24452.1
 - pkg:nuget/Microsoft.AspNetCore.Hosting.WindowsServices@9.0.0-rc.2.24474.3
 - pkg:nuget/Microsoft.AspNetCore.Hosting.WindowsServices@9.0.1
+- pkg:nuget/Microsoft.AspNetCore.Hosting.WindowsServices@9.0.12
 - pkg:nuget/Microsoft.AspNetCore.Hosting.WindowsServices@9.0.2
 - pkg:nuget/Microsoft.AspNetCore.Hosting.WindowsServices@9.0.3
 - pkg:nuget/Microsoft.AspNetCore.Hosting.WindowsServices@9.0.4
