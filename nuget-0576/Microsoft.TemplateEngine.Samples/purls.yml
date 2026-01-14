@@ -37,6 +37,7 @@
 - pkg:nuget/Microsoft.TemplateEngine.Samples@8.0.119
 - pkg:nuget/Microsoft.TemplateEngine.Samples@8.0.120
 - pkg:nuget/Microsoft.TemplateEngine.Samples@8.0.121
+- pkg:nuget/Microsoft.TemplateEngine.Samples@8.0.123
 - pkg:nuget/Microsoft.TemplateEngine.Samples@8.0.200-preview.24060.12
 - pkg:nuget/Microsoft.TemplateEngine.Samples@8.0.202
 - pkg:nuget/Microsoft.TemplateEngine.Samples@8.0.204
@@ -89,6 +90,7 @@
 - pkg:nuget/Microsoft.TemplateEngine.Samples@9.0.108
 - pkg:nuget/Microsoft.TemplateEngine.Samples@9.0.109
 - pkg:nuget/Microsoft.TemplateEngine.Samples@9.0.110
+- pkg:nuget/Microsoft.TemplateEngine.Samples@9.0.113
 - pkg:nuget/Microsoft.TemplateEngine.Samples@9.0.200
 - pkg:nuget/Microsoft.TemplateEngine.Samples@9.0.201
 - pkg:nuget/Microsoft.TemplateEngine.Samples@9.0.203
