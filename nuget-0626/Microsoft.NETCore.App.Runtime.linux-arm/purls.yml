@@ -8,6 +8,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-arm@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-arm@10.0.0-rc.2.25502.107
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-arm@10.0.1
+- pkg:nuget/Microsoft.NETCore.App.Runtime.linux-arm@10.0.2
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-arm@3.0.0
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-arm@3.0.0-preview7-27912-14
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-arm@3.0.0-preview8-28405-07
