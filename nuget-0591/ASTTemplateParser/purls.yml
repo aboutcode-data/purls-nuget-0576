@@ -1,2 +1,4 @@
 - pkg:nuget/ASTTemplateParser@1.0.21
 - pkg:nuget/ASTTemplateParser@1.0.29
+- pkg:nuget/ASTTemplateParser@1.0.43
+- pkg:nuget/ASTTemplateParser@1.0.45
