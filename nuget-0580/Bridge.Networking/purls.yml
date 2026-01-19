@@ -206,3 +206,5 @@
 - pkg:nuget/Bridge.Networking@2025.6.2.1
 - pkg:nuget/Bridge.Networking@2025.7.12.1
 - pkg:nuget/Bridge.Networking@2026.1.18.1
+- pkg:nuget/Bridge.Networking@2026.1.19.5
+- pkg:nuget/Bridge.Networking@2026.1.19.6
