@@ -7,3 +7,5 @@
 - pkg:nuget/MQTTnet.Agent@1.0.6
 - pkg:nuget/MQTTnet.Agent@1.0.6-build-20231222
 - pkg:nuget/MQTTnet.Agent@1.0.7-Build-20250905
+- pkg:nuget/MQTTnet.Agent@1.0.7-Build-20260119
+- pkg:nuget/MQTTnet.Agent@1.0.8-Build-20260119
