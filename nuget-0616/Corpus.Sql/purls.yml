@@ -19,6 +19,7 @@
 - pkg:nuget/Corpus.Sql@10.1.0
 - pkg:nuget/Corpus.Sql@10.1.2
 - pkg:nuget/Corpus.Sql@10.1.5
+- pkg:nuget/Corpus.Sql@11.0.1
 - pkg:nuget/Corpus.Sql@2.0.0
 - pkg:nuget/Corpus.Sql@2.0.1
 - pkg:nuget/Corpus.Sql@2.0.2
