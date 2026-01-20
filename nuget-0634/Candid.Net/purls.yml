@@ -68,6 +68,7 @@
 - pkg:nuget/Candid.Net@0.46.1
 - pkg:nuget/Candid.Net@1.0.0
 - pkg:nuget/Candid.Net@1.17.3
+- pkg:nuget/Candid.Net@1.17.4
 - pkg:nuget/Candid.Net@1.3.1
 - pkg:nuget/Candid.Net@1.5.0
 - pkg:nuget/Candid.Net@1.6.0

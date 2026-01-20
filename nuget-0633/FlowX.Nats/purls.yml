@@ -10,3 +10,4 @@
 - pkg:nuget/FlowX.Nats@6.0.0
 - pkg:nuget/FlowX.Nats@6.0.7
 - pkg:nuget/FlowX.Nats@7.0.3
+- pkg:nuget/FlowX.Nats@8.0.0
