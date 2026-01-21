@@ -158,6 +158,7 @@
 - pkg:nuget/AWSSDK.ObservabilityAdmin@3.7.504.8
 - pkg:nuget/AWSSDK.ObservabilityAdmin@3.7.505
 - pkg:nuget/AWSSDK.ObservabilityAdmin@3.7.505.11
+- pkg:nuget/AWSSDK.ObservabilityAdmin@3.7.505.19
 - pkg:nuget/AWSSDK.ObservabilityAdmin@3.7.505.9
 - pkg:nuget/AWSSDK.ObservabilityAdmin@4.0.0
 - pkg:nuget/AWSSDK.ObservabilityAdmin@4.0.0-preview.10

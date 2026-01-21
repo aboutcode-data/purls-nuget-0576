@@ -165,6 +165,7 @@
 - pkg:nuget/AWSSDK.ConnectCampaignsV2@3.7.504
 - pkg:nuget/AWSSDK.ConnectCampaignsV2@3.7.504.1
 - pkg:nuget/AWSSDK.ConnectCampaignsV2@3.7.504.10
+- pkg:nuget/AWSSDK.ConnectCampaignsV2@3.7.504.20
 - pkg:nuget/AWSSDK.ConnectCampaignsV2@3.7.504.6
 - pkg:nuget/AWSSDK.ConnectCampaignsV2@4.0.0
 - pkg:nuget/AWSSDK.ConnectCampaignsV2@4.0.0-preview.10
