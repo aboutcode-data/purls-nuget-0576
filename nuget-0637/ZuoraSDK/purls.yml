@@ -24,3 +24,4 @@
 - pkg:nuget/ZuoraSDK@1.1.2
 - pkg:nuget/ZuoraSDK@1.1.2-beta.1
 - pkg:nuget/ZuoraSDK@1.2.0-beta.1
+- pkg:nuget/ZuoraSDK@1.6.0-beta.1
