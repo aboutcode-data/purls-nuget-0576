@@ -3455,6 +3455,7 @@
 - pkg:nuget/Reo.Core.ConfigValidation@8.0.81
 - pkg:nuget/Reo.Core.ConfigValidation@8.0.82
 - pkg:nuget/Reo.Core.ConfigValidation@8.0.820
+- pkg:nuget/Reo.Core.ConfigValidation@8.0.826
 - pkg:nuget/Reo.Core.ConfigValidation@8.0.83
 - pkg:nuget/Reo.Core.ConfigValidation@8.0.84
 - pkg:nuget/Reo.Core.ConfigValidation@8.0.85
