@@ -11,4 +11,5 @@
 - pkg:nuget/Sekiban.Dcb.CosmosDb@10.0.1-preview13
 - pkg:nuget/Sekiban.Dcb.CosmosDb@10.0.2-preview06
 - pkg:nuget/Sekiban.Dcb.CosmosDb@10.0.2-preview07
+- pkg:nuget/Sekiban.Dcb.CosmosDb@10.0.3
 - pkg:nuget/Sekiban.Dcb.CosmosDb@9.1.9
