@@ -937,6 +937,7 @@
 - pkg:nuget/Soenneker.Utils.RateLimiting.Factory@3.0.98
 - pkg:nuget/Soenneker.Utils.RateLimiting.Factory@3.0.99
 - pkg:nuget/Soenneker.Utils.RateLimiting.Factory@4.0.1004
+- pkg:nuget/Soenneker.Utils.RateLimiting.Factory@4.0.1010
 - pkg:nuget/Soenneker.Utils.RateLimiting.Factory@4.0.947
 - pkg:nuget/Soenneker.Utils.RateLimiting.Factory@4.0.951
 - pkg:nuget/Soenneker.Utils.RateLimiting.Factory@4.0.952
