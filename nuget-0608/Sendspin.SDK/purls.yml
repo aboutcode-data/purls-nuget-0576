@@ -1,2 +1,3 @@
 - pkg:nuget/Sendspin.SDK@5.1.1
 - pkg:nuget/Sendspin.SDK@5.2.0
+- pkg:nuget/Sendspin.SDK@5.2.2
