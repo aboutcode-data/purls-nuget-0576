@@ -152,3 +152,4 @@
 - pkg:nuget/EasyExtensions.EntityFrameworkCore@3.0.10
 - pkg:nuget/EasyExtensions.EntityFrameworkCore@3.0.11
 - pkg:nuget/EasyExtensions.EntityFrameworkCore@3.0.12
+- pkg:nuget/EasyExtensions.EntityFrameworkCore@3.0.33
