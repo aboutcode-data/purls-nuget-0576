@@ -1,3 +1,4 @@
+- pkg:nuget/Csla.Data.SqlClient.Fx@10.0.0
 - pkg:nuget/Csla.Data.SqlClient.Fx@5.0.0
 - pkg:nuget/Csla.Data.SqlClient.Fx@5.0.0-R19052204
 - pkg:nuget/Csla.Data.SqlClient.Fx@5.0.0-R19080501
