@@ -8,3 +8,4 @@
 - pkg:nuget/Crping.Http@1.5.1
 - pkg:nuget/Crping.Http@1.6.0
 - pkg:nuget/Crping.Http@1.7.0
+- pkg:nuget/Crping.Http@2.1.0
