@@ -20,6 +20,7 @@
 - pkg:nuget/TecWare.DES.Module.ACME@3.4.119
 - pkg:nuget/TecWare.DES.Module.ACME@3.4.120
 - pkg:nuget/TecWare.DES.Module.ACME@3.4.125
+- pkg:nuget/TecWare.DES.Module.ACME@3.4.127
 - pkg:nuget/TecWare.DES.Module.ACME@3.4.31
 - pkg:nuget/TecWare.DES.Module.ACME@3.4.32
 - pkg:nuget/TecWare.DES.Module.ACME@3.4.33

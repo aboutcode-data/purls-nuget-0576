@@ -1,4 +1,5 @@
 - pkg:nuget/Serenity.Assets@10.1.0
+- pkg:nuget/Serenity.Assets@10.1.5
 - pkg:nuget/Serenity.Assets@5.0.0
 - pkg:nuget/Serenity.Assets@5.0.10
 - pkg:nuget/Serenity.Assets@5.0.12
@@ -151,3 +152,4 @@
 - pkg:nuget/Serenity.Assets@8.8.8
 - pkg:nuget/Serenity.Assets@8.8.9
 - pkg:nuget/Serenity.Assets@9.0.0
+- pkg:nuget/Serenity.Assets@9.2.2
