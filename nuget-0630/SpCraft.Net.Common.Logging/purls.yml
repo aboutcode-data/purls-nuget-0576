@@ -30,3 +30,4 @@
 - pkg:nuget/SpCraft.Net.Common.Logging@1.2.49
 - pkg:nuget/SpCraft.Net.Common.Logging@1.2.50
 - pkg:nuget/SpCraft.Net.Common.Logging@1.2.51
+- pkg:nuget/SpCraft.Net.Common.Logging@2.0.8
