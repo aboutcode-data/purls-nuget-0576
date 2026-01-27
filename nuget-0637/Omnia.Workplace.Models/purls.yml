@@ -1642,6 +1642,7 @@
 - pkg:nuget/Omnia.Workplace.Models@7.9.23-preview
 - pkg:nuget/Omnia.Workplace.Models@7.9.24-preview
 - pkg:nuget/Omnia.Workplace.Models@7.9.25-preview
+- pkg:nuget/Omnia.Workplace.Models@7.9.26
 - pkg:nuget/Omnia.Workplace.Models@7.9.26-preview
 - pkg:nuget/Omnia.Workplace.Models@7.9.27-preview
 - pkg:nuget/Omnia.Workplace.Models@7.9.28-preview
