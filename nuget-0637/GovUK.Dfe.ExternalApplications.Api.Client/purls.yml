@@ -64,6 +64,7 @@
 - pkg:nuget/GovUK.Dfe.ExternalApplications.Api.Client@0.1.4
 - pkg:nuget/GovUK.Dfe.ExternalApplications.Api.Client@0.1.4-prerelease-2
 - pkg:nuget/GovUK.Dfe.ExternalApplications.Api.Client@0.1.40-prerelease-22
+- pkg:nuget/GovUK.Dfe.ExternalApplications.Api.Client@0.1.40-prerelease-34
 - pkg:nuget/GovUK.Dfe.ExternalApplications.Api.Client@0.1.5
 - pkg:nuget/GovUK.Dfe.ExternalApplications.Api.Client@0.1.5-prerelease-6
 - pkg:nuget/GovUK.Dfe.ExternalApplications.Api.Client@0.1.5-prerelease-7
