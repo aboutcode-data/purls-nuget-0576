@@ -6,6 +6,7 @@
 - pkg:nuget/DataAccessClient@0.0.7
 - pkg:nuget/DataAccessClient@0.0.8
 - pkg:nuget/DataAccessClient@10.0.1
+- pkg:nuget/DataAccessClient@10.1.1
 - pkg:nuget/DataAccessClient@6.0.0
 - pkg:nuget/DataAccessClient@7.0.0
 - pkg:nuget/DataAccessClient@7.0.1
