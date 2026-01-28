@@ -59,3 +59,4 @@
 - pkg:nuget/IL.UmbracoSearch@16.3.1.5
 - pkg:nuget/IL.UmbracoSearch@16.3.2.3
 - pkg:nuget/IL.UmbracoSearch@16.4.1.1
+- pkg:nuget/IL.UmbracoSearch@17.0.1
