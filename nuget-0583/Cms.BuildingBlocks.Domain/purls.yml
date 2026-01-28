@@ -1,2 +1,8 @@
 - pkg:nuget/Cms.BuildingBlocks.Domain@1.0.0
 - pkg:nuget/Cms.BuildingBlocks.Domain@1.0.2
+- pkg:nuget/Cms.BuildingBlocks.Domain@2.0.0-g38b6b20cb2
+- pkg:nuget/Cms.BuildingBlocks.Domain@2.0.0-g5e2c3a7da6
+- pkg:nuget/Cms.BuildingBlocks.Domain@2.0.0-gbdebeb7f86
+- pkg:nuget/Cms.BuildingBlocks.Domain@2.0.0-gc2e95a34ab
+- pkg:nuget/Cms.BuildingBlocks.Domain@2.0.0-gcf8b6478af
+- pkg:nuget/Cms.BuildingBlocks.Domain@2.0.0-gdd207a6515
