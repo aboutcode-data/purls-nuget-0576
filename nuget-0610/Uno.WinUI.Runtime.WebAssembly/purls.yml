@@ -4416,3 +4416,4 @@
 - pkg:nuget/Uno.WinUI.Runtime.WebAssembly@6.5.0-dev.96
 - pkg:nuget/Uno.WinUI.Runtime.WebAssembly@6.6.0-dev.102
 - pkg:nuget/Uno.WinUI.Runtime.WebAssembly@6.6.0-dev.106
+- pkg:nuget/Uno.WinUI.Runtime.WebAssembly@6.6.0-dev.129
