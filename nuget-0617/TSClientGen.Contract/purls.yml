@@ -2,6 +2,7 @@
 - pkg:nuget/TSClientGen.Contract@10.0.1
 - pkg:nuget/TSClientGen.Contract@10.0.2
 - pkg:nuget/TSClientGen.Contract@10.1.0
+- pkg:nuget/TSClientGen.Contract@10.1.1
 - pkg:nuget/TSClientGen.Contract@5.0.0
 - pkg:nuget/TSClientGen.Contract@5.1.0
 - pkg:nuget/TSClientGen.Contract@5.2.0
