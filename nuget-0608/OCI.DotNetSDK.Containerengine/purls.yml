@@ -48,6 +48,7 @@
 - pkg:nuget/OCI.DotNetSDK.Containerengine@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Containerengine@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Containerengine@122.0.0
+- pkg:nuget/OCI.DotNetSDK.Containerengine@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Containerengine@13.0.0
 - pkg:nuget/OCI.DotNetSDK.Containerengine@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Containerengine@14.1.0

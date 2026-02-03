@@ -48,6 +48,7 @@
 - pkg:nuget/OCI.DotNetSDK.Datascience@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Datascience@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Datascience@122.0.0
+- pkg:nuget/OCI.DotNetSDK.Datascience@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Datascience@13.0.0
 - pkg:nuget/OCI.DotNetSDK.Datascience@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Datascience@14.1.0
