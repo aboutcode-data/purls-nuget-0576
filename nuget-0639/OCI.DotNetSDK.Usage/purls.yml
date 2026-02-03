@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Usage@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Usage@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Usage@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Usage@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Usage@28.1.0
 - pkg:nuget/OCI.DotNetSDK.Usage@29.0.0
 - pkg:nuget/OCI.DotNetSDK.Usage@29.1.0

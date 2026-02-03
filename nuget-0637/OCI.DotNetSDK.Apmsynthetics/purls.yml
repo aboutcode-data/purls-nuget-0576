@@ -42,6 +42,7 @@
 - pkg:nuget/OCI.DotNetSDK.Apmsynthetics@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Apmsynthetics@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Apmsynthetics@122.0.0
+- pkg:nuget/OCI.DotNetSDK.Apmsynthetics@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Apmsynthetics@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Apmsynthetics@15.2.0
 - pkg:nuget/OCI.DotNetSDK.Apmsynthetics@16.0.0

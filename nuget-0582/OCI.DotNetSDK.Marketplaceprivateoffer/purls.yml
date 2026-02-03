@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Marketplaceprivateoffer@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Marketplaceprivateoffer@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Marketplaceprivateoffer@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Marketplaceprivateoffer@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Marketplaceprivateoffer@87.2.0
 - pkg:nuget/OCI.DotNetSDK.Marketplaceprivateoffer@87.3.0
 - pkg:nuget/OCI.DotNetSDK.Marketplaceprivateoffer@88.0.0
