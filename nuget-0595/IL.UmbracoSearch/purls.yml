@@ -60,3 +60,6 @@
 - pkg:nuget/IL.UmbracoSearch@16.3.2.3
 - pkg:nuget/IL.UmbracoSearch@16.4.1.1
 - pkg:nuget/IL.UmbracoSearch@17.0.1
+- pkg:nuget/IL.UmbracoSearch@17.1.0-preview1
+- pkg:nuget/IL.UmbracoSearch@17.1.0-preview2
+- pkg:nuget/IL.UmbracoSearch@17.1.0-preview3
