@@ -1,1 +1,2 @@
 - pkg:nuget/IronHive.Providers.GoogleAI@0.1.0
+- pkg:nuget/IronHive.Providers.GoogleAI@0.2.2
