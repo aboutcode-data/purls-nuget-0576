@@ -42,3 +42,4 @@
 - pkg:nuget/SunamoInterfaces@24.7.16.1
 - pkg:nuget/SunamoInterfaces@24.9.20.1
 - pkg:nuget/SunamoInterfaces@25.3.29.1
+- pkg:nuget/SunamoInterfaces@26.2.4.1
