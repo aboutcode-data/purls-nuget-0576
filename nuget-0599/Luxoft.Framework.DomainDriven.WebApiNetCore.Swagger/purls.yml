@@ -1,1 +1,2 @@
 - pkg:nuget/Luxoft.Framework.DomainDriven.WebApiNetCore.Swagger@25.3.0
+- pkg:nuget/Luxoft.Framework.DomainDriven.WebApiNetCore.Swagger@25.4.1
