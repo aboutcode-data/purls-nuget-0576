@@ -213,3 +213,4 @@
 - pkg:nuget/Luxoft.Framework.Persistent.Mapping.Audit@24.1.3
 - pkg:nuget/Luxoft.Framework.Persistent.Mapping.Audit@25.1.5
 - pkg:nuget/Luxoft.Framework.Persistent.Mapping.Audit@25.3.0
+- pkg:nuget/Luxoft.Framework.Persistent.Mapping.Audit@25.4.1
