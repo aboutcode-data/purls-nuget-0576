@@ -1108,6 +1108,7 @@
 - pkg:nuget/AWSSDK.Signer@3.7.502.16
 - pkg:nuget/AWSSDK.Signer@3.7.503.17
 - pkg:nuget/AWSSDK.Signer@3.7.503.19
+- pkg:nuget/AWSSDK.Signer@3.7.503.24
 - pkg:nuget/AWSSDK.Signer@3.7.503.3
 - pkg:nuget/AWSSDK.Signer@3.7.503.7
 - pkg:nuget/AWSSDK.Signer@4.0.0

@@ -628,6 +628,7 @@
 - pkg:nuget/AWSSDK.EMRServerless@3.7.502.6
 - pkg:nuget/AWSSDK.EMRServerless@3.7.502.8
 - pkg:nuget/AWSSDK.EMRServerless@3.7.503.1
+- pkg:nuget/AWSSDK.EMRServerless@3.7.504.14
 - pkg:nuget/AWSSDK.EMRServerless@4.0.0
 - pkg:nuget/AWSSDK.EMRServerless@4.0.0-preview
 - pkg:nuget/AWSSDK.EMRServerless@4.0.0-preview.10

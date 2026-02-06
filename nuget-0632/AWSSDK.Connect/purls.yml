@@ -1175,6 +1175,7 @@
 - pkg:nuget/AWSSDK.Connect@3.7.519.1
 - pkg:nuget/AWSSDK.Connect@3.7.521.1
 - pkg:nuget/AWSSDK.Connect@3.7.523.1
+- pkg:nuget/AWSSDK.Connect@3.7.527.2
 - pkg:nuget/AWSSDK.Connect@3.7.6
 - pkg:nuget/AWSSDK.Connect@3.7.6.1
 - pkg:nuget/AWSSDK.Connect@3.7.7

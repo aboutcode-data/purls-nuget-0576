@@ -1071,6 +1071,7 @@
 - pkg:nuget/AWSSDK.MediaPackageVod@3.7.501.20
 - pkg:nuget/AWSSDK.MediaPackageVod@3.7.501.21
 - pkg:nuget/AWSSDK.MediaPackageVod@3.7.501.30
+- pkg:nuget/AWSSDK.MediaPackageVod@3.7.501.37
 - pkg:nuget/AWSSDK.MediaPackageVod@3.7.501.7
 - pkg:nuget/AWSSDK.MediaPackageVod@3.7.501.9
 - pkg:nuget/AWSSDK.MediaPackageVod@3.7.6

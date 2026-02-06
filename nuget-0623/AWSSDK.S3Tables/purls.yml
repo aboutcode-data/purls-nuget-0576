@@ -159,6 +159,7 @@
 - pkg:nuget/AWSSDK.S3Tables@3.7.505.12
 - pkg:nuget/AWSSDK.S3Tables@3.7.505.19
 - pkg:nuget/AWSSDK.S3Tables@3.7.505.21
+- pkg:nuget/AWSSDK.S3Tables@3.7.505.26
 - pkg:nuget/AWSSDK.S3Tables@3.7.505.4
 - pkg:nuget/AWSSDK.S3Tables@3.7.505.9
 - pkg:nuget/AWSSDK.S3Tables@4.0.0
