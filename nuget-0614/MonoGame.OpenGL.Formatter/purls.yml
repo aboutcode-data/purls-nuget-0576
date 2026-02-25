@@ -22,3 +22,5 @@
 - pkg:nuget/MonoGame.OpenGL.Formatter@1.0.8
 - pkg:nuget/MonoGame.OpenGL.Formatter@1.0.9
 - pkg:nuget/MonoGame.OpenGL.Formatter@1.1.0
+- pkg:nuget/MonoGame.OpenGL.Formatter@1.2.5
+- pkg:nuget/MonoGame.OpenGL.Formatter@1.2.6

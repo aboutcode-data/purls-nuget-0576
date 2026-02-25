@@ -26,3 +26,5 @@
 - pkg:nuget/RESTween@1.0.7
 - pkg:nuget/RESTween@1.0.8
 - pkg:nuget/RESTween@1.0.9
+- pkg:nuget/RESTween@1.4.1
+- pkg:nuget/RESTween@1.4.2
