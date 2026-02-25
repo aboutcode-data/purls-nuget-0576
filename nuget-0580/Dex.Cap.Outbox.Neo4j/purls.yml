@@ -21,3 +21,4 @@
 - pkg:nuget/Dex.Cap.Outbox.Neo4j@8.1.0
 - pkg:nuget/Dex.Cap.Outbox.Neo4j@8.1.1
 - pkg:nuget/Dex.Cap.Outbox.Neo4j@8.1.2
+- pkg:nuget/Dex.Cap.Outbox.Neo4j@8.2.6

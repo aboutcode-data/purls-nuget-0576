@@ -1,1 +1,2 @@
 - pkg:nuget/Monad.NET.SourceGenerators@1.0.0-alpha.8
+- pkg:nuget/Monad.NET.SourceGenerators@2.0.0-beta.3
