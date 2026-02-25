@@ -68,3 +68,5 @@
 - pkg:nuget/CommonNetFuncs.Csv@3.7.13
 - pkg:nuget/CommonNetFuncs.Csv@3.7.16
 - pkg:nuget/CommonNetFuncs.Csv@3.7.17
+- pkg:nuget/CommonNetFuncs.Csv@3.8.38
+- pkg:nuget/CommonNetFuncs.Csv@4.0.17
