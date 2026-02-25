@@ -1066,6 +1066,7 @@
 - pkg:nuget/AWSSDK.PersonalizeRuntime@3.7.501.26
 - pkg:nuget/AWSSDK.PersonalizeRuntime@3.7.501.36
 - pkg:nuget/AWSSDK.PersonalizeRuntime@3.7.501.43
+- pkg:nuget/AWSSDK.PersonalizeRuntime@3.7.501.48
 - pkg:nuget/AWSSDK.PersonalizeRuntime@3.7.501.6
 - pkg:nuget/AWSSDK.PersonalizeRuntime@4.0.0
 - pkg:nuget/AWSSDK.PersonalizeRuntime@4.0.0-preview

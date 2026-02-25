@@ -258,6 +258,7 @@
 - pkg:nuget/Parlem.Provisioning.MasStack.Facade@8.0.1-beta2
 - pkg:nuget/Parlem.Provisioning.MasStack.Facade@8.0.1-beta3
 - pkg:nuget/Parlem.Provisioning.MasStack.Facade@8.0.10
+- pkg:nuget/Parlem.Provisioning.MasStack.Facade@8.0.105
 - pkg:nuget/Parlem.Provisioning.MasStack.Facade@8.0.11
 - pkg:nuget/Parlem.Provisioning.MasStack.Facade@8.0.12
 - pkg:nuget/Parlem.Provisioning.MasStack.Facade@8.0.12-beta1

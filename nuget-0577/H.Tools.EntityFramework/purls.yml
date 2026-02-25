@@ -43,3 +43,4 @@
 - pkg:nuget/H.Tools.EntityFramework@0.1.8
 - pkg:nuget/H.Tools.EntityFramework@0.1.9
 - pkg:nuget/H.Tools.EntityFramework@0.2.0
+- pkg:nuget/H.Tools.EntityFramework@0.3.5

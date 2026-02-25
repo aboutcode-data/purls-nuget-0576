@@ -42,3 +42,7 @@
 - pkg:nuget/Omnicasa.Mobile.BlinkID.Maui.iOS@2025.9.29.70-alpha
 - pkg:nuget/Omnicasa.Mobile.BlinkID.Maui.iOS@2025.9.29.71-alpha
 - pkg:nuget/Omnicasa.Mobile.BlinkID.Maui.iOS@2025.9.29.72-alpha
+- pkg:nuget/Omnicasa.Mobile.BlinkID.Maui.iOS@2026.2.11.88-alpha
+- pkg:nuget/Omnicasa.Mobile.BlinkID.Maui.iOS@2026.2.12.78-alpha
+- pkg:nuget/Omnicasa.Mobile.BlinkID.Maui.iOS@2026.2.12.79-alpha
+- pkg:nuget/Omnicasa.Mobile.BlinkID.Maui.iOS@2026.2.7.86-alpha

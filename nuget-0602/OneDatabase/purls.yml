@@ -658,3 +658,4 @@
 - pkg:nuget/OneDatabase@3.3.9.2-func
 - pkg:nuget/OneDatabase@3.3.92-calgoogle
 - pkg:nuget/OneDatabase@3.3.92-newtask4
+- pkg:nuget/OneDatabase@3.3.95

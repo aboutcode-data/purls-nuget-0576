@@ -1,3 +1,4 @@
+- pkg:nuget/DotNetCore.CAP.NATS@10.0.2-preview-287480508
 - pkg:nuget/DotNetCore.CAP.NATS@5.0.0
 - pkg:nuget/DotNetCore.CAP.NATS@5.0.0-preview-126609691
 - pkg:nuget/DotNetCore.CAP.NATS@5.0.0-preview-131679580

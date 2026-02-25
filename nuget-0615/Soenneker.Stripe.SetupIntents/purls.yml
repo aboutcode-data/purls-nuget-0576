@@ -109,3 +109,5 @@
 - pkg:nuget/Soenneker.Stripe.SetupIntents@4.0.147
 - pkg:nuget/Soenneker.Stripe.SetupIntents@4.0.164
 - pkg:nuget/Soenneker.Stripe.SetupIntents@4.0.177
+- pkg:nuget/Soenneker.Stripe.SetupIntents@4.0.211
+- pkg:nuget/Soenneker.Stripe.SetupIntents@4.0.217

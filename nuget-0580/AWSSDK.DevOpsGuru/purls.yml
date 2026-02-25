@@ -750,6 +750,7 @@
 - pkg:nuget/AWSSDK.DevOpsGuru@3.7.501.19
 - pkg:nuget/AWSSDK.DevOpsGuru@3.7.501.29
 - pkg:nuget/AWSSDK.DevOpsGuru@3.7.501.36
+- pkg:nuget/AWSSDK.DevOpsGuru@3.7.501.41
 - pkg:nuget/AWSSDK.DevOpsGuru@3.7.501.6
 - pkg:nuget/AWSSDK.DevOpsGuru@3.7.501.8
 - pkg:nuget/AWSSDK.DevOpsGuru@3.7.6

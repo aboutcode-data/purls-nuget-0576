@@ -94,6 +94,7 @@
 - pkg:nuget/PuppeteerSharp@20.2.0
 - pkg:nuget/PuppeteerSharp@20.2.1
 - pkg:nuget/PuppeteerSharp@20.2.2
+- pkg:nuget/PuppeteerSharp@21.1.0
 - pkg:nuget/PuppeteerSharp@3.0.0
 - pkg:nuget/PuppeteerSharp@4.0.0
 - pkg:nuget/PuppeteerSharp@5.0.0

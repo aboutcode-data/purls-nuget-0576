@@ -71,3 +71,6 @@
 - pkg:nuget/Xamarin.DocumentReader.Core.FullAuth.iOS@8.4.985-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.FullAuth.iOS@8.5.1349-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.FullAuth.iOS@9.2.1780-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.FullAuth.iOS@9.2.1849
+- pkg:nuget/Xamarin.DocumentReader.Core.FullAuth.iOS@9.2.1864-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.FullAuth.iOS@9.2.1900-rc

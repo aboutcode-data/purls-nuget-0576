@@ -2,3 +2,4 @@
 - pkg:nuget/BlazorCaptcha.WebAssembly@2.0.2
 - pkg:nuget/BlazorCaptcha.WebAssembly@2.1.0
 - pkg:nuget/BlazorCaptcha.WebAssembly@2.1.1
+- pkg:nuget/BlazorCaptcha.WebAssembly@3.0.0

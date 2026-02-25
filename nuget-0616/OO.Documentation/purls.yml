@@ -126,3 +126,5 @@
 - pkg:nuget/OO.Documentation@1.9.4
 - pkg:nuget/OO.Documentation@2.0.0
 - pkg:nuget/OO.Documentation@2.0.3
+- pkg:nuget/OO.Documentation@2.1.2
+- pkg:nuget/OO.Documentation@2.1.3

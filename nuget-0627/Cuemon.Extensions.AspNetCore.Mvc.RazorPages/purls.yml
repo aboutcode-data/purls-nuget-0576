@@ -2,6 +2,7 @@
 - pkg:nuget/Cuemon.Extensions.AspNetCore.Mvc.RazorPages@10.0.0-preview.2
 - pkg:nuget/Cuemon.Extensions.AspNetCore.Mvc.RazorPages@10.0.0-preview.3
 - pkg:nuget/Cuemon.Extensions.AspNetCore.Mvc.RazorPages@10.0.0-rc.1
+- pkg:nuget/Cuemon.Extensions.AspNetCore.Mvc.RazorPages@10.2.0
 - pkg:nuget/Cuemon.Extensions.AspNetCore.Mvc.RazorPages@6.1.0
 - pkg:nuget/Cuemon.Extensions.AspNetCore.Mvc.RazorPages@6.2.0
 - pkg:nuget/Cuemon.Extensions.AspNetCore.Mvc.RazorPages@6.3.0
