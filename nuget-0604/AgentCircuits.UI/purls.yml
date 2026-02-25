@@ -1,1 +1,6 @@
 - pkg:nuget/AgentCircuits.UI@0.4.3
+- pkg:nuget/AgentCircuits.UI@0.5.8
+- pkg:nuget/AgentCircuits.UI@0.7.0
+- pkg:nuget/AgentCircuits.UI@0.7.102
+- pkg:nuget/AgentCircuits.UI@0.7.2
+- pkg:nuget/AgentCircuits.UI@0.7.3
