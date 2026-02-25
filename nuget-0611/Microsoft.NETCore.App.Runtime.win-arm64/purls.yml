@@ -8,6 +8,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.win-arm64@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.NETCore.App.Runtime.win-arm64@10.0.0-rc.2.25502.107
 - pkg:nuget/Microsoft.NETCore.App.Runtime.win-arm64@10.0.1
+- pkg:nuget/Microsoft.NETCore.App.Runtime.win-arm64@10.0.3
 - pkg:nuget/Microsoft.NETCore.App.Runtime.win-arm64@3.0.0
 - pkg:nuget/Microsoft.NETCore.App.Runtime.win-arm64@3.0.0-preview7-27912-14
 - pkg:nuget/Microsoft.NETCore.App.Runtime.win-arm64@3.0.0-preview8-28405-07
@@ -195,6 +196,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.win-arm64@9.0.0-rc.1.24431.7
 - pkg:nuget/Microsoft.NETCore.App.Runtime.win-arm64@9.0.0-rc.2.24473.5
 - pkg:nuget/Microsoft.NETCore.App.Runtime.win-arm64@9.0.1
+- pkg:nuget/Microsoft.NETCore.App.Runtime.win-arm64@9.0.13
 - pkg:nuget/Microsoft.NETCore.App.Runtime.win-arm64@9.0.2
 - pkg:nuget/Microsoft.NETCore.App.Runtime.win-arm64@9.0.3
 - pkg:nuget/Microsoft.NETCore.App.Runtime.win-arm64@9.0.4

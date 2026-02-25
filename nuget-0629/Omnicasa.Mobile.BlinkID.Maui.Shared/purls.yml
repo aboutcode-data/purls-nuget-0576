@@ -29,3 +29,6 @@
 - pkg:nuget/Omnicasa.Mobile.BlinkID.Maui.Shared@2025.4.29.65-preview
 - pkg:nuget/Omnicasa.Mobile.BlinkID.Maui.Shared@2025.4.29.66-preview
 - pkg:nuget/Omnicasa.Mobile.BlinkID.Maui.Shared@2025.4.29.67-alpha
+- pkg:nuget/Omnicasa.Mobile.BlinkID.Maui.Shared@2026.2.12.74-alpha
+- pkg:nuget/Omnicasa.Mobile.BlinkID.Maui.Shared@2026.2.12.78-alpha
+- pkg:nuget/Omnicasa.Mobile.BlinkID.Maui.Shared@2026.2.12.79-alpha

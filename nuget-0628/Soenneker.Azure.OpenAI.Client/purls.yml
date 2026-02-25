@@ -790,3 +790,5 @@
 - pkg:nuget/Soenneker.Azure.OpenAI.Client@4.0.810
 - pkg:nuget/Soenneker.Azure.OpenAI.Client@4.0.824
 - pkg:nuget/Soenneker.Azure.OpenAI.Client@4.0.839
+- pkg:nuget/Soenneker.Azure.OpenAI.Client@4.0.853
+- pkg:nuget/Soenneker.Azure.OpenAI.Client@4.0.856

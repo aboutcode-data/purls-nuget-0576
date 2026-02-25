@@ -79,6 +79,7 @@
 - pkg:nuget/Aurigma.AssetStorage.ApiClient@2.70.1.28586%2B0daac90f434c19edc2eda90fe5e7f99613cb1f61
 - pkg:nuget/Aurigma.AssetStorage.ApiClient@2.71.1.29033%2B3da560931e0e98998c864ae57acbd466c3ebf66e
 - pkg:nuget/Aurigma.AssetStorage.ApiClient@2.72.2.29571%2Ba9da77a90ef00854dc1284eb906be84c15bcd101
+- pkg:nuget/Aurigma.AssetStorage.ApiClient@2.76.5.31415%2Bae29ed0029175d31277bb95d00acd672e2ec8135
 - pkg:nuget/Aurigma.AssetStorage.ApiClient@2.8.2.9409
 - pkg:nuget/Aurigma.AssetStorage.ApiClient@2.8.6.9442
 - pkg:nuget/Aurigma.AssetStorage.ApiClient@2.9.1.9634
