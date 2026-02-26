@@ -219,3 +219,4 @@
 - pkg:nuget/FastEndpoints.Messaging.Remote.Core@7.3.0-beta.13
 - pkg:nuget/FastEndpoints.Messaging.Remote.Core@7.3.0-beta.6
 - pkg:nuget/FastEndpoints.Messaging.Remote.Core@8.0.0-beta.8
+- pkg:nuget/FastEndpoints.Messaging.Remote.Core@8.0.1
