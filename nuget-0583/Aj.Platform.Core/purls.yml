@@ -718,6 +718,7 @@
 - pkg:nuget/Aj.Platform.Core@2.0.22
 - pkg:nuget/Aj.Platform.Core@2.0.24
 - pkg:nuget/Aj.Platform.Core@2.0.241
+- pkg:nuget/Aj.Platform.Core@2.0.243
 - pkg:nuget/Aj.Platform.Core@2.0.25
 - pkg:nuget/Aj.Platform.Core@2.0.26
 - pkg:nuget/Aj.Platform.Core@2.0.27
