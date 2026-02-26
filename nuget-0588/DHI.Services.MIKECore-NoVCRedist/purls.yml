@@ -39,3 +39,4 @@
 - pkg:nuget/DHI.Services.MIKECore-NoVCRedist@7.0.1
 - pkg:nuget/DHI.Services.MIKECore-NoVCRedist@7.0.2
 - pkg:nuget/DHI.Services.MIKECore-NoVCRedist@8.0.0
+- pkg:nuget/DHI.Services.MIKECore-NoVCRedist@9.0.2
