@@ -41,3 +41,4 @@
 - pkg:nuget/BIA.Net.Core.Domain@5.0.2
 - pkg:nuget/BIA.Net.Core.Domain@5.1.0
 - pkg:nuget/BIA.Net.Core.Domain@6.1.0
+- pkg:nuget/BIA.Net.Core.Domain@6.1.1
