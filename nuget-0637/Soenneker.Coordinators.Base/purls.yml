@@ -1090,6 +1090,7 @@
 - pkg:nuget/Soenneker.Coordinators.Base@3.0.953
 - pkg:nuget/Soenneker.Coordinators.Base@3.0.954
 - pkg:nuget/Soenneker.Coordinators.Base@3.0.955
+- pkg:nuget/Soenneker.Coordinators.Base@4.0.1008
 - pkg:nuget/Soenneker.Coordinators.Base@4.0.959
 - pkg:nuget/Soenneker.Coordinators.Base@4.0.980
 - pkg:nuget/Soenneker.Coordinators.Base@4.0.987
