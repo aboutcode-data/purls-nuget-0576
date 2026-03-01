@@ -89,3 +89,4 @@
 - pkg:nuget/XiHan.Framework.Localization@1.2.0
 - pkg:nuget/XiHan.Framework.Localization@1.2.1
 - pkg:nuget/XiHan.Framework.Localization@1.3.0
+- pkg:nuget/XiHan.Framework.Localization@2.3.1-preview.1
