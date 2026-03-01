@@ -48,6 +48,7 @@
 - pkg:nuget/Krypton.Ribbon.Nightly@100.25.9.272-alpha
 - pkg:nuget/Krypton.Ribbon.Nightly@110.26.1.10-alpha
 - pkg:nuget/Krypton.Ribbon.Nightly@110.26.2.42-alpha
+- pkg:nuget/Krypton.Ribbon.Nightly@110.26.3.60-alpha
 - pkg:nuget/Krypton.Ribbon.Nightly@6.0.2110-alpha.20210915155542
 - pkg:nuget/Krypton.Ribbon.Nightly@6.0.2110-alpha.YYYY09DD080208
 - pkg:nuget/Krypton.Ribbon.Nightly@6.2109.261-alpha
