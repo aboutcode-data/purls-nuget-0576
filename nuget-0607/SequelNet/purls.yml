@@ -61,6 +61,7 @@
 - pkg:nuget/SequelNet@3.0.146
 - pkg:nuget/SequelNet@3.0.147
 - pkg:nuget/SequelNet@3.0.15
+- pkg:nuget/SequelNet@3.0.156
 - pkg:nuget/SequelNet@3.0.16
 - pkg:nuget/SequelNet@3.0.17
 - pkg:nuget/SequelNet@3.0.18

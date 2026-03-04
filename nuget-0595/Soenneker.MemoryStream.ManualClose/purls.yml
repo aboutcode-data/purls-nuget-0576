@@ -747,3 +747,4 @@
 - pkg:nuget/Soenneker.MemoryStream.ManualClose@3.0.671
 - pkg:nuget/Soenneker.MemoryStream.ManualClose@3.0.672
 - pkg:nuget/Soenneker.MemoryStream.ManualClose@3.0.673
+- pkg:nuget/Soenneker.MemoryStream.ManualClose@4.0.677
