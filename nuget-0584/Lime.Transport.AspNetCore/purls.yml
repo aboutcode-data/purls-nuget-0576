@@ -37,6 +37,7 @@
 - pkg:nuget/Lime.Transport.AspNetCore@0.12.129
 - pkg:nuget/Lime.Transport.AspNetCore@0.12.131
 - pkg:nuget/Lime.Transport.AspNetCore@0.12.142
+- pkg:nuget/Lime.Transport.AspNetCore@0.12.147
 - pkg:nuget/Lime.Transport.AspNetCore@0.12.2
 - pkg:nuget/Lime.Transport.AspNetCore@0.12.2-beta
 - pkg:nuget/Lime.Transport.AspNetCore@0.12.22
