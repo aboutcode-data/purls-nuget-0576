@@ -41,5 +41,6 @@
 - pkg:nuget/Javonet.Netcore.Utils@2.5.9
 - pkg:nuget/Javonet.Netcore.Utils@2.6.0
 - pkg:nuget/Javonet.Netcore.Utils@2.6.1
+- pkg:nuget/Javonet.Netcore.Utils@2.6.15
 - pkg:nuget/Javonet.Netcore.Utils@2.6.2
 - pkg:nuget/Javonet.Netcore.Utils@2.6.4

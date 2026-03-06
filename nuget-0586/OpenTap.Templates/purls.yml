@@ -291,3 +291,5 @@
 - pkg:nuget/OpenTap.Templates@9.32.0-beta.16
 - pkg:nuget/OpenTap.Templates@9.32.2-beta.3
 - pkg:nuget/OpenTap.Templates@9.32.2-beta.4
+- pkg:nuget/OpenTap.Templates@9.32.3-beta.6
+- pkg:nuget/OpenTap.Templates@9.32.3-rc.1
