@@ -4,6 +4,7 @@
 - pkg:nuget/ModPlusStyle@10.0.0
 - pkg:nuget/ModPlusStyle@11.0.0
 - pkg:nuget/ModPlusStyle@12.0.0
+- pkg:nuget/ModPlusStyle@13.0.0
 - pkg:nuget/ModPlusStyle@2.0.0
 - pkg:nuget/ModPlusStyle@2.1.0
 - pkg:nuget/ModPlusStyle@2.2.0
