@@ -28,5 +28,11 @@
 - pkg:nuget/equadrat.Framework.Test.MSTest.Extensions.DependencyInjection@8.0.0-prerelease-00297
 - pkg:nuget/equadrat.Framework.Test.MSTest.Extensions.DependencyInjection@8.1.0
 - pkg:nuget/equadrat.Framework.Test.MSTest.Extensions.DependencyInjection@8.1.0-prerelease-00325
+- pkg:nuget/equadrat.Framework.Test.MSTest.Extensions.DependencyInjection@8.3.0-prerelease-00010
+- pkg:nuget/equadrat.Framework.Test.MSTest.Extensions.DependencyInjection@8.3.0-prerelease-00014
+- pkg:nuget/equadrat.Framework.Test.MSTest.Extensions.DependencyInjection@8.3.0-prerelease-00018
 - pkg:nuget/equadrat.Framework.Test.MSTest.Extensions.DependencyInjection@8.3.0-prerelease-00024
+- pkg:nuget/equadrat.Framework.Test.MSTest.Extensions.DependencyInjection@8.3.0-prerelease-00029
 - pkg:nuget/equadrat.Framework.Test.MSTest.Extensions.DependencyInjection@8.3.0-prerelease-00033
+- pkg:nuget/equadrat.Framework.Test.MSTest.Extensions.DependencyInjection@8.3.0-prerelease-00037
+- pkg:nuget/equadrat.Framework.Test.MSTest.Extensions.DependencyInjection@8.3.1-prerelease-00047
