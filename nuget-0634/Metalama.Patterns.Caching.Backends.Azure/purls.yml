@@ -118,3 +118,4 @@
 - pkg:nuget/Metalama.Patterns.Caching.Backends.Azure@2025.1.9
 - pkg:nuget/Metalama.Patterns.Caching.Backends.Azure@2025.2.1-preview
 - pkg:nuget/Metalama.Patterns.Caching.Backends.Azure@2025.2.2-preview
+- pkg:nuget/Metalama.Patterns.Caching.Backends.Azure@2026.1.3-preview
