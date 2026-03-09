@@ -64,3 +64,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.ShiftRegister@1.2.861
 - pkg:nuget/nanoFramework.Iot.Device.ShiftRegister@1.2.867
 - pkg:nuget/nanoFramework.Iot.Device.ShiftRegister@1.2.94
+- pkg:nuget/nanoFramework.Iot.Device.ShiftRegister@2.0.0-preview.13
