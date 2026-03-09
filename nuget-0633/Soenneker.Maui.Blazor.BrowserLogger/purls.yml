@@ -127,3 +127,5 @@
 - pkg:nuget/Soenneker.Maui.Blazor.BrowserLogger@4.0.141
 - pkg:nuget/Soenneker.Maui.Blazor.BrowserLogger@4.0.152
 - pkg:nuget/Soenneker.Maui.Blazor.BrowserLogger@4.0.157
+- pkg:nuget/Soenneker.Maui.Blazor.BrowserLogger@4.0.161
+- pkg:nuget/Soenneker.Maui.Blazor.BrowserLogger@4.0.162
