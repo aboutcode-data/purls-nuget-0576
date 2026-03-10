@@ -89,6 +89,7 @@
 - pkg:nuget/Soenneker.Requests.Entity@3.0.9
 - pkg:nuget/Soenneker.Requests.Entity@4.0.139
 - pkg:nuget/Soenneker.Requests.Entity@4.0.146
+- pkg:nuget/Soenneker.Requests.Entity@4.0.150
 - pkg:nuget/Soenneker.Requests.Entity@4.0.90
 - pkg:nuget/Soenneker.Requests.Entity@4.0.96
 - pkg:nuget/Soenneker.Requests.Entity@4.0.97

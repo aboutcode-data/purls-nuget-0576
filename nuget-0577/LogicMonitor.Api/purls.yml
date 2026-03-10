@@ -728,3 +728,4 @@
 - pkg:nuget/LogicMonitor.Api@3.222.6
 - pkg:nuget/LogicMonitor.Api@3.222.7
 - pkg:nuget/LogicMonitor.Api@3.222.8
+- pkg:nuget/LogicMonitor.Api@3.235.6
