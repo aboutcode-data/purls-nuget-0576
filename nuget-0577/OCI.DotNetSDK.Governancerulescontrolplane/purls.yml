@@ -42,6 +42,7 @@
 - pkg:nuget/OCI.DotNetSDK.Governancerulescontrolplane@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Governancerulescontrolplane@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Governancerulescontrolplane@127.0.0
+- pkg:nuget/OCI.DotNetSDK.Governancerulescontrolplane@129.1.0
 - pkg:nuget/OCI.DotNetSDK.Governancerulescontrolplane@39.0.0
 - pkg:nuget/OCI.DotNetSDK.Governancerulescontrolplane@39.1.0
 - pkg:nuget/OCI.DotNetSDK.Governancerulescontrolplane@39.2.0
