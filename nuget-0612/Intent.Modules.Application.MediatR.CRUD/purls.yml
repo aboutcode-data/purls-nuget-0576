@@ -57,3 +57,4 @@
 - pkg:nuget/Intent.Modules.Application.MediatR.CRUD@7.0.1
 - pkg:nuget/Intent.Modules.Application.MediatR.CRUD@7.1.0
 - pkg:nuget/Intent.Modules.Application.MediatR.CRUD@7.1.1
+- pkg:nuget/Intent.Modules.Application.MediatR.CRUD@7.2.0

@@ -144,3 +144,5 @@
 - pkg:nuget/Soenneker.Blazor.Snackbar@4.0.308
 - pkg:nuget/Soenneker.Blazor.Snackbar@4.0.335
 - pkg:nuget/Soenneker.Blazor.Snackbar@4.0.336
+- pkg:nuget/Soenneker.Blazor.Snackbar@4.0.339
+- pkg:nuget/Soenneker.Blazor.Snackbar@4.0.340

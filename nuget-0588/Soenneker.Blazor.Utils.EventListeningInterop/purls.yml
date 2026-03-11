@@ -1104,3 +1104,4 @@
 - pkg:nuget/Soenneker.Blazor.Utils.EventListeningInterop@4.0.1110
 - pkg:nuget/Soenneker.Blazor.Utils.EventListeningInterop@4.0.1111
 - pkg:nuget/Soenneker.Blazor.Utils.EventListeningInterop@4.0.1112
+- pkg:nuget/Soenneker.Blazor.Utils.EventListeningInterop@4.0.1122
