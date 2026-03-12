@@ -3,6 +3,7 @@
 - pkg:nuget/Jy.Abp.Application@1.0.18.913
 - pkg:nuget/Jy.Abp.Application@1.0.18.920
 - pkg:nuget/Jy.Abp.Application@1.0.21.933
+- pkg:nuget/Jy.Abp.Application@1.1.0.936
 - pkg:nuget/Jy.Abp.Application@8.1.1
 - pkg:nuget/Jy.Abp.Application@8.1.101
 - pkg:nuget/Jy.Abp.Application@8.1.102
