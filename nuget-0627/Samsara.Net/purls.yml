@@ -3,3 +3,5 @@
 - pkg:nuget/Samsara.Net@5.5.5
 - pkg:nuget/Samsara.Net@6.0.0
 - pkg:nuget/Samsara.Net@6.1.0
+- pkg:nuget/Samsara.Net@6.3.0
+- pkg:nuget/Samsara.Net@6.3.1
