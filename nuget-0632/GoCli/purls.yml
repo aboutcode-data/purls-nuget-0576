@@ -1,1 +1,2 @@
 - pkg:nuget/GoCli@4.3.0
+- pkg:nuget/GoCli@4.8.0
