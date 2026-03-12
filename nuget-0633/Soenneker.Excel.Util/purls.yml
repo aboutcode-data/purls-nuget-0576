@@ -156,3 +156,5 @@
 - pkg:nuget/Soenneker.Excel.Util@4.0.214
 - pkg:nuget/Soenneker.Excel.Util@4.0.217
 - pkg:nuget/Soenneker.Excel.Util@4.0.223
+- pkg:nuget/Soenneker.Excel.Util@4.0.225
+- pkg:nuget/Soenneker.Excel.Util@4.0.227

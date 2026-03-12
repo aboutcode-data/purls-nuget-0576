@@ -595,3 +595,4 @@
 - pkg:nuget/KubernetesCRDModelGen.Models.fluxcd.io@1.2.2
 - pkg:nuget/KubernetesCRDModelGen.Models.fluxcd.io@1.3.0
 - pkg:nuget/KubernetesCRDModelGen.Models.fluxcd.io@1.3.2
+- pkg:nuget/KubernetesCRDModelGen.Models.fluxcd.io@1.5.0
