@@ -19,3 +19,4 @@
 - pkg:nuget/Arbiter.Communication.Twilio@1.8.0
 - pkg:nuget/Arbiter.Communication.Twilio@1.8.1
 - pkg:nuget/Arbiter.Communication.Twilio@2.0.0-beta.1
+- pkg:nuget/Arbiter.Communication.Twilio@5.3.2
