@@ -461,6 +461,7 @@
 - pkg:nuget/AWSSDK.VPCLattice@3.7.504.3
 - pkg:nuget/AWSSDK.VPCLattice@3.7.504.33
 - pkg:nuget/AWSSDK.VPCLattice@3.7.504.38
+- pkg:nuget/AWSSDK.VPCLattice@3.7.504.45
 - pkg:nuget/AWSSDK.VPCLattice@3.7.504.5
 - pkg:nuget/AWSSDK.VPCLattice@4.0.0
 - pkg:nuget/AWSSDK.VPCLattice@4.0.0-preview
@@ -500,3 +501,4 @@
 - pkg:nuget/AWSSDK.VPCLattice@4.0.1.1
 - pkg:nuget/AWSSDK.VPCLattice@4.0.1.2
 - pkg:nuget/AWSSDK.VPCLattice@4.0.2
+- pkg:nuget/AWSSDK.VPCLattice@4.0.4.14

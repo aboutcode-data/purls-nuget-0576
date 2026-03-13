@@ -519,6 +519,7 @@
 - pkg:nuget/AWSSDK.LicenseManagerLinuxSubscriptions@3.7.502.36
 - pkg:nuget/AWSSDK.LicenseManagerLinuxSubscriptions@3.7.502.41
 - pkg:nuget/AWSSDK.LicenseManagerLinuxSubscriptions@3.7.502.47
+- pkg:nuget/AWSSDK.LicenseManagerLinuxSubscriptions@3.7.502.48
 - pkg:nuget/AWSSDK.LicenseManagerLinuxSubscriptions@3.7.502.6
 - pkg:nuget/AWSSDK.LicenseManagerLinuxSubscriptions@3.7.502.8
 - pkg:nuget/AWSSDK.LicenseManagerLinuxSubscriptions@4.0.0
@@ -560,3 +561,4 @@
 - pkg:nuget/AWSSDK.LicenseManagerLinuxSubscriptions@4.0.1.2
 - pkg:nuget/AWSSDK.LicenseManagerLinuxSubscriptions@4.0.1.4
 - pkg:nuget/AWSSDK.LicenseManagerLinuxSubscriptions@4.0.1.5
+- pkg:nuget/AWSSDK.LicenseManagerLinuxSubscriptions@4.0.2.16

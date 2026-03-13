@@ -779,6 +779,7 @@
 - pkg:nuget/AWSSDK.Finspace@3.7.502.26
 - pkg:nuget/AWSSDK.Finspace@3.7.502.37
 - pkg:nuget/AWSSDK.Finspace@3.7.502.42
+- pkg:nuget/AWSSDK.Finspace@3.7.502.54
 - pkg:nuget/AWSSDK.Finspace@4.0.0
 - pkg:nuget/AWSSDK.Finspace@4.0.0-preview
 - pkg:nuget/AWSSDK.Finspace@4.0.0-preview.10

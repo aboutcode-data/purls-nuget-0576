@@ -745,6 +745,7 @@
 - pkg:nuget/AWSSDK.Route53RecoveryCluster@3.7.502.34
 - pkg:nuget/AWSSDK.Route53RecoveryCluster@3.7.502.41
 - pkg:nuget/AWSSDK.Route53RecoveryCluster@3.7.502.46
+- pkg:nuget/AWSSDK.Route53RecoveryCluster@3.7.502.53
 - pkg:nuget/AWSSDK.Route53RecoveryCluster@4.0.0
 - pkg:nuget/AWSSDK.Route53RecoveryCluster@4.0.0-preview
 - pkg:nuget/AWSSDK.Route53RecoveryCluster@4.0.0-preview.10
@@ -785,3 +786,4 @@
 - pkg:nuget/AWSSDK.Route53RecoveryCluster@4.0.1.4
 - pkg:nuget/AWSSDK.Route53RecoveryCluster@4.0.1.5
 - pkg:nuget/AWSSDK.Route53RecoveryCluster@4.0.1.8
+- pkg:nuget/AWSSDK.Route53RecoveryCluster@4.0.2.18
