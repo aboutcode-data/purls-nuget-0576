@@ -1,4 +1,5 @@
 - pkg:nuget/Flinch@1.0.1
+- pkg:nuget/Flinch@10.0.5
 - pkg:nuget/Flinch@2.0.1
 - pkg:nuget/Flinch@2.0.2
 - pkg:nuget/Flinch@7.0.1

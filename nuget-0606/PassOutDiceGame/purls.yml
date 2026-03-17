@@ -1,4 +1,5 @@
 - pkg:nuget/PassOutDiceGame@1.0.1
+- pkg:nuget/PassOutDiceGame@10.0.5
 - pkg:nuget/PassOutDiceGame@2.0.1
 - pkg:nuget/PassOutDiceGame@2.0.2
 - pkg:nuget/PassOutDiceGame@7.0.1

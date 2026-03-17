@@ -1,4 +1,5 @@
 - pkg:nuget/XPuzzle@1.0.1
+- pkg:nuget/XPuzzle@10.0.5
 - pkg:nuget/XPuzzle@2.0.1
 - pkg:nuget/XPuzzle@2.0.2
 - pkg:nuget/XPuzzle@7.0.1

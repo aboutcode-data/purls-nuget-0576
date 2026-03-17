@@ -1,4 +1,5 @@
 - pkg:nuget/Millebournes@1.0.1
+- pkg:nuget/Millebournes@10.0.5
 - pkg:nuget/Millebournes@2.0.1
 - pkg:nuget/Millebournes@2.0.2
 - pkg:nuget/Millebournes@7.0.1

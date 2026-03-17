@@ -1,4 +1,5 @@
 - pkg:nuget/FiveCrowns@1.0.1
+- pkg:nuget/FiveCrowns@10.0.5
 - pkg:nuget/FiveCrowns@2.0.1
 - pkg:nuget/FiveCrowns@2.0.2
 - pkg:nuget/FiveCrowns@7.0.1

@@ -1,4 +1,5 @@
 - pkg:nuget/ContactManager.CoreLibrary@1.0.1
+- pkg:nuget/ContactManager.CoreLibrary@10.0.25
 - pkg:nuget/ContactManager.CoreLibrary@2.0.1
 - pkg:nuget/ContactManager.CoreLibrary@2.0.2
 - pkg:nuget/ContactManager.CoreLibrary@3.0.1
