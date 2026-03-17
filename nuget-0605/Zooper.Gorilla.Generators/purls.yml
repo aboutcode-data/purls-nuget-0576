@@ -1,1 +1,3 @@
 - pkg:nuget/Zooper.Gorilla.Generators@1.0.2
+- pkg:nuget/Zooper.Gorilla.Generators@1.0.2-preview.7
+- pkg:nuget/Zooper.Gorilla.Generators@1.0.4
