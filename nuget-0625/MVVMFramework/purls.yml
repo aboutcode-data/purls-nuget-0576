@@ -1,4 +1,5 @@
 - pkg:nuget/MVVMFramework@1.0.1
+- pkg:nuget/MVVMFramework@10.0.12
 - pkg:nuget/MVVMFramework@2.0.1
 - pkg:nuget/MVVMFramework@7.0.1
 - pkg:nuget/MVVMFramework@7.0.2
