@@ -1,4 +1,6 @@
 - pkg:nuget/DH.ServerSentEvent.Client@10.0.2026.13000013
+- pkg:nuget/DH.ServerSentEvent.Client@10.0.2026.31700016
+- pkg:nuget/DH.ServerSentEvent.Client@10.0.2026.31700017
 - pkg:nuget/DH.ServerSentEvent.Client@2.3.2023.1004251
 - pkg:nuget/DH.ServerSentEvent.Client@2.3.2023.1008255
 - pkg:nuget/DH.ServerSentEvent.Client@2.3.2023.1010258
