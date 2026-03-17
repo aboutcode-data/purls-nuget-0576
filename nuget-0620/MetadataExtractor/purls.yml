@@ -33,3 +33,4 @@
 - pkg:nuget/MetadataExtractor@2.9.0-rc1
 - pkg:nuget/MetadataExtractor@2.9.0-rc2
 - pkg:nuget/MetadataExtractor@2.9.0-rc3
+- pkg:nuget/MetadataExtractor@2.9.1
