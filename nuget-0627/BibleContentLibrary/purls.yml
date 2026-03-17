@@ -1,6 +1,7 @@
 - pkg:nuget/BibleContentLibrary@1.0.1
 - pkg:nuget/BibleContentLibrary@1.0.2
 - pkg:nuget/BibleContentLibrary@1.0.3
+- pkg:nuget/BibleContentLibrary@10.0.13
 - pkg:nuget/BibleContentLibrary@2.0.1
 - pkg:nuget/BibleContentLibrary@2.0.2
 - pkg:nuget/BibleContentLibrary@2.0.3
