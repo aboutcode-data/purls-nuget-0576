@@ -424,3 +424,4 @@
 - pkg:nuget/Intent.SoftwareFactory.CLI@4.5.8
 - pkg:nuget/Intent.SoftwareFactory.CLI@4.5.9
 - pkg:nuget/Intent.SoftwareFactory.CLI@4.6.2-pre.0
+- pkg:nuget/Intent.SoftwareFactory.CLI@4.6.2-pre.3
