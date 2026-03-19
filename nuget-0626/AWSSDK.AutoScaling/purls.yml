@@ -1284,3 +1284,4 @@
 - pkg:nuget/AWSSDK.AutoScaling@4.0.3.4
 - pkg:nuget/AWSSDK.AutoScaling@4.0.3.7
 - pkg:nuget/AWSSDK.AutoScaling@4.0.8.4
+- pkg:nuget/AWSSDK.AutoScaling@4.0.8.5
