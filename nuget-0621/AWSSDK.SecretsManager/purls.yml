@@ -1174,6 +1174,7 @@
 - pkg:nuget/AWSSDK.SecretsManager@3.7.504.23
 - pkg:nuget/AWSSDK.SecretsManager@3.7.504.28
 - pkg:nuget/AWSSDK.SecretsManager@3.7.504.35
+- pkg:nuget/AWSSDK.SecretsManager@3.7.504.38
 - pkg:nuget/AWSSDK.SecretsManager@3.7.504.6
 - pkg:nuget/AWSSDK.SecretsManager@4.0.0
 - pkg:nuget/AWSSDK.SecretsManager@4.0.0-preview
