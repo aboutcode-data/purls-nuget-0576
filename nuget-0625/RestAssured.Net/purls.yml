@@ -54,3 +54,4 @@
 - pkg:nuget/RestAssured.Net@4.7.1
 - pkg:nuget/RestAssured.Net@4.8.0
 - pkg:nuget/RestAssured.Net@4.8.0-beta.1
+- pkg:nuget/RestAssured.Net@5.0.0

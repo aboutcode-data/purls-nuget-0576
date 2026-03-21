@@ -727,6 +727,7 @@
 - pkg:nuget/AWSSDK.SSMIncidents@3.7.502.46
 - pkg:nuget/AWSSDK.SSMIncidents@3.7.502.53
 - pkg:nuget/AWSSDK.SSMIncidents@3.7.502.56
+- pkg:nuget/AWSSDK.SSMIncidents@3.7.502.57
 - pkg:nuget/AWSSDK.SSMIncidents@3.7.6
 - pkg:nuget/AWSSDK.SSMIncidents@3.7.6.1
 - pkg:nuget/AWSSDK.SSMIncidents@3.7.6.10
