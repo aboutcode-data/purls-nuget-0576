@@ -16,3 +16,4 @@
 - pkg:nuget/Whipstaff.EntityFramework.Relational@8.2.210
 - pkg:nuget/Whipstaff.EntityFramework.Relational@8.2.34
 - pkg:nuget/Whipstaff.EntityFramework.Relational@8.2.65
+- pkg:nuget/Whipstaff.EntityFramework.Relational@9.1.36
