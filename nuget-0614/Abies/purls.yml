@@ -21,6 +21,7 @@
 - pkg:nuget/Abies@1.0.4-beta%2B256f8bd4ab
 - pkg:nuget/Abies@1.0.41-beta%2Bdc34c5e675
 - pkg:nuget/Abies@1.0.42-beta%2B62fc2b645c
+- pkg:nuget/Abies@1.0.421-rc-0002-g9c97df76d7
 - pkg:nuget/Abies@1.0.43-beta%2B476ce983c2
 - pkg:nuget/Abies@1.0.5-beta%2Bc988be035d
 - pkg:nuget/Abies@1.0.52-beta%2Bb9a96ce2be
