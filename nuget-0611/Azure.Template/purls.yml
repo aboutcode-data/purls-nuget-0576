@@ -271,6 +271,7 @@
 - pkg:nuget/Azure.Template@1.0.3-beta.6
 - pkg:nuget/Azure.Template@1.0.3-beta.6030378
 - pkg:nuget/Azure.Template@1.0.3-beta.6036819
+- pkg:nuget/Azure.Template@1.0.3-beta.6059279
 - pkg:nuget/Azure.Template@1.0.3-beta.625285
 - pkg:nuget/Azure.Template@1.0.3-beta.640290
 - pkg:nuget/Azure.Template@1.0.3-beta.650593
