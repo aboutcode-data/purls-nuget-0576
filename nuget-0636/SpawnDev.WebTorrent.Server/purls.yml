@@ -1,0 +1,4 @@
+- pkg:nuget/SpawnDev.WebTorrent.Server@1.0.0
+- pkg:nuget/SpawnDev.WebTorrent.Server@2.0.0
+- pkg:nuget/SpawnDev.WebTorrent.Server@2.1.0
+- pkg:nuget/SpawnDev.WebTorrent.Server@2.1.0-rc.5

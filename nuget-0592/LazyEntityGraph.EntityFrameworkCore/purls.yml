@@ -9,3 +9,4 @@
 - pkg:nuget/LazyEntityGraph.EntityFrameworkCore@2.3.5
 - pkg:nuget/LazyEntityGraph.EntityFrameworkCore@2.4.0
 - pkg:nuget/LazyEntityGraph.EntityFrameworkCore@2.4.0-pre2
+- pkg:nuget/LazyEntityGraph.EntityFrameworkCore@2.5.0

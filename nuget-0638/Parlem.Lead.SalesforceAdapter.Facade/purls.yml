@@ -21,3 +21,6 @@
 - pkg:nuget/Parlem.Lead.SalesforceAdapter.Facade@1.0.8
 - pkg:nuget/Parlem.Lead.SalesforceAdapter.Facade@1.0.9
 - pkg:nuget/Parlem.Lead.SalesforceAdapter.Facade@8.0.0
+- pkg:nuget/Parlem.Lead.SalesforceAdapter.Facade@8.0.10
+- pkg:nuget/Parlem.Lead.SalesforceAdapter.Facade@8.0.12
+- pkg:nuget/Parlem.Lead.SalesforceAdapter.Facade@8.0.8

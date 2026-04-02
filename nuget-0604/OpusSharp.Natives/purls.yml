@@ -1,3 +1,5 @@
 - pkg:nuget/OpusSharp.Natives@1.5.2
 - pkg:nuget/OpusSharp.Natives@1.5.2.1
 - pkg:nuget/OpusSharp.Natives@1.5.2.2
+- pkg:nuget/OpusSharp.Natives@1.6.1
+- pkg:nuget/OpusSharp.Natives@1.6.1.1
