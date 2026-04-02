@@ -13,6 +13,7 @@
 - pkg:nuget/MicroFocus.ContentManager.SDK@25.1.0.81
 - pkg:nuget/MicroFocus.ContentManager.SDK@25.2.0.84
 - pkg:nuget/MicroFocus.ContentManager.SDK@25.3.0.89
+- pkg:nuget/MicroFocus.ContentManager.SDK@25.4.102.157
 - pkg:nuget/MicroFocus.ContentManager.SDK@9.4.2.602
 - pkg:nuget/MicroFocus.ContentManager.SDK@9.4.3.835
 - pkg:nuget/MicroFocus.ContentManager.SDK@9.4.4.845

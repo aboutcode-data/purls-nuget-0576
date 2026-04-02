@@ -19,6 +19,7 @@
 - pkg:nuget/AndroidSdk@0.24.0
 - pkg:nuget/AndroidSdk@0.25.0
 - pkg:nuget/AndroidSdk@0.3.2
+- pkg:nuget/AndroidSdk@0.35.1
 - pkg:nuget/AndroidSdk@0.5.0
 - pkg:nuget/AndroidSdk@0.5.1
 - pkg:nuget/AndroidSdk@0.5.2

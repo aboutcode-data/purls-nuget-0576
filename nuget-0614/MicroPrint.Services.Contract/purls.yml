@@ -17,3 +17,5 @@
 - pkg:nuget/MicroPrint.Services.Contract@1.0.7
 - pkg:nuget/MicroPrint.Services.Contract@1.0.8
 - pkg:nuget/MicroPrint.Services.Contract@1.0.9
+- pkg:nuget/MicroPrint.Services.Contract@2.1.1
+- pkg:nuget/MicroPrint.Services.Contract@2.1.2

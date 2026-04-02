@@ -17,3 +17,4 @@
 - pkg:nuget/ModelContextProtocol.AspNetCore@0.3.0-preview.3
 - pkg:nuget/ModelContextProtocol.AspNetCore@0.3.0-preview.4
 - pkg:nuget/ModelContextProtocol.AspNetCore@0.4.1-preview.1
+- pkg:nuget/ModelContextProtocol.AspNetCore@1.2.0

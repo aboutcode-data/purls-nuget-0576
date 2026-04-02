@@ -7,3 +7,5 @@
 - pkg:nuget/Peak.PCANBasic.NET@4.8.1.872
 - pkg:nuget/Peak.PCANBasic.NET@4.8.2.897
 - pkg:nuget/Peak.PCANBasic.NET@4.9.0.942
+- pkg:nuget/Peak.PCANBasic.NET@5.0.0.1115-beta
+- pkg:nuget/Peak.PCANBasic.NET@5.0.1.1131

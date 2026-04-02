@@ -1,3 +1,9 @@
 - pkg:nuget/OBaseImage@25.12.1
 - pkg:nuget/OBaseImage@26.1.10
+- pkg:nuget/OBaseImage@26.3.26
+- pkg:nuget/OBaseImage@26.3.27
+- pkg:nuget/OBaseImage@26.3.28
+- pkg:nuget/OBaseImage@26.3.29
+- pkg:nuget/OBaseImage@26.3.30
+- pkg:nuget/OBaseImage@26.3.31
 - pkg:nuget/OBaseImage@26.3.7

@@ -18,3 +18,4 @@
 - pkg:nuget/Gotenberg.Sharp.API.Client@2.6.0
 - pkg:nuget/Gotenberg.Sharp.API.Client@2.7.1
 - pkg:nuget/Gotenberg.Sharp.API.Client@2.8.0
+- pkg:nuget/Gotenberg.Sharp.API.Client@2.8.5

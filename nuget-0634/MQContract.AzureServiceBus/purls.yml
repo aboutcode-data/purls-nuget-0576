@@ -9,3 +9,4 @@
 - pkg:nuget/MQContract.AzureServiceBus@2.6.1
 - pkg:nuget/MQContract.AzureServiceBus@2.7.0
 - pkg:nuget/MQContract.AzureServiceBus@2.8.0
+- pkg:nuget/MQContract.AzureServiceBus@3.9.2
