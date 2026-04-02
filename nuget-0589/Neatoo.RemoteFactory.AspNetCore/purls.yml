@@ -1,4 +1,9 @@
 - pkg:nuget/Neatoo.RemoteFactory.AspNetCore@0.21.1
+- pkg:nuget/Neatoo.RemoteFactory.AspNetCore@0.24.1
+- pkg:nuget/Neatoo.RemoteFactory.AspNetCore@0.24.2
+- pkg:nuget/Neatoo.RemoteFactory.AspNetCore@0.25.0
+- pkg:nuget/Neatoo.RemoteFactory.AspNetCore@0.26.0
+- pkg:nuget/Neatoo.RemoteFactory.AspNetCore@0.27.0
 - pkg:nuget/Neatoo.RemoteFactory.AspNetCore@9.17.2
 - pkg:nuget/Neatoo.RemoteFactory.AspNetCore@9.17.3
 - pkg:nuget/Neatoo.RemoteFactory.AspNetCore@9.18.0
