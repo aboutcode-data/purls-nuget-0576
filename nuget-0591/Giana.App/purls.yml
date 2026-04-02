@@ -1,4 +1,8 @@
 - pkg:nuget/Giana.App@0.0.1
+- pkg:nuget/Giana.App@0.0.10
+- pkg:nuget/Giana.App@0.0.10-preview.1
+- pkg:nuget/Giana.App@0.0.10-preview.2
+- pkg:nuget/Giana.App@0.0.10-preview.3
 - pkg:nuget/Giana.App@0.0.2
 - pkg:nuget/Giana.App@0.0.8-alpha
 - pkg:nuget/Giana.App@0.0.8-preview34
