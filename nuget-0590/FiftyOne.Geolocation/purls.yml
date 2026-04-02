@@ -307,3 +307,6 @@
 - pkg:nuget/FiftyOne.Geolocation@4.4.97
 - pkg:nuget/FiftyOne.Geolocation@4.4.98
 - pkg:nuget/FiftyOne.Geolocation@4.4.99
+- pkg:nuget/FiftyOne.Geolocation@4.5.66
+- pkg:nuget/FiftyOne.Geolocation@4.5.67
+- pkg:nuget/FiftyOne.Geolocation@4.5.68

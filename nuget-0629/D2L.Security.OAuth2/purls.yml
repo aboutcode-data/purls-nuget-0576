@@ -34,6 +34,7 @@
 - pkg:nuget/D2L.Security.OAuth2@14.0.1-rc.431
 - pkg:nuget/D2L.Security.OAuth2@14.1.0
 - pkg:nuget/D2L.Security.OAuth2@14.2.0
+- pkg:nuget/D2L.Security.OAuth2@14.3.0
 - pkg:nuget/D2L.Security.OAuth2@4.4.0
 - pkg:nuget/D2L.Security.OAuth2@5.0.0
 - pkg:nuget/D2L.Security.OAuth2@5.0.1

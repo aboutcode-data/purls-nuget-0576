@@ -15,6 +15,7 @@
 - pkg:nuget/BoldReports.Web@11.1.11
 - pkg:nuget/BoldReports.Web@11.1.15
 - pkg:nuget/BoldReports.Web@12.2.9
+- pkg:nuget/BoldReports.Web@13.1.26
 - pkg:nuget/BoldReports.Web@2.1.14
 - pkg:nuget/BoldReports.Web@2.1.23
 - pkg:nuget/BoldReports.Web@2.2.23

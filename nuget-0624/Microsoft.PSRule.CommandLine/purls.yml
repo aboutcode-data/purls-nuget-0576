@@ -11,3 +11,4 @@
 - pkg:nuget/Microsoft.PSRule.CommandLine@3.0.0-B0390
 - pkg:nuget/Microsoft.PSRule.CommandLine@3.0.0-b0416
 - pkg:nuget/Microsoft.PSRule.CommandLine@3.0.0-b0453
+- pkg:nuget/Microsoft.PSRule.CommandLine@3.0.0-b0755

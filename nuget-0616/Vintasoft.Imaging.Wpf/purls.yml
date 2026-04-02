@@ -121,6 +121,7 @@
 - pkg:nuget/Vintasoft.Imaging.Wpf@14.1.7.1
 - pkg:nuget/Vintasoft.Imaging.Wpf@14.1.8.1
 - pkg:nuget/Vintasoft.Imaging.Wpf@14.1.9.1
+- pkg:nuget/Vintasoft.Imaging.Wpf@15.0.8.1
 - pkg:nuget/Vintasoft.Imaging.Wpf@2.4.11.1
 - pkg:nuget/Vintasoft.Imaging.Wpf@2.4.12.1
 - pkg:nuget/Vintasoft.Imaging.Wpf@2.4.13.1

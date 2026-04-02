@@ -2,4 +2,9 @@
 - pkg:nuget/AWSSDK.SimpleDBv2@3.7.500.1
 - pkg:nuget/AWSSDK.SimpleDBv2@3.7.500.4
 - pkg:nuget/AWSSDK.SimpleDBv2@3.7.500.5
+- pkg:nuget/AWSSDK.SimpleDBv2@3.7.500.6
 - pkg:nuget/AWSSDK.SimpleDBv2@4.0.0.1
+- pkg:nuget/AWSSDK.SimpleDBv2@4.0.0.3
+- pkg:nuget/AWSSDK.SimpleDBv2@4.0.0.4
+- pkg:nuget/AWSSDK.SimpleDBv2@4.0.0.5
+- pkg:nuget/AWSSDK.SimpleDBv2@4.0.0.6

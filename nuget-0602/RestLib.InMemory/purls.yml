@@ -1,1 +1,6 @@
 - pkg:nuget/RestLib.InMemory@0.2.1
+- pkg:nuget/RestLib.InMemory@0.4.0
+- pkg:nuget/RestLib.InMemory@0.5.0
+- pkg:nuget/RestLib.InMemory@0.6.0
+- pkg:nuget/RestLib.InMemory@0.7.0
+- pkg:nuget/RestLib.InMemory@0.8.0

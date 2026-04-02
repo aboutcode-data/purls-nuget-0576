@@ -118,3 +118,4 @@
 - pkg:nuget/Markdig@0.8.5
 - pkg:nuget/Markdig@0.9.0
 - pkg:nuget/Markdig@0.9.1
+- pkg:nuget/Markdig@1.1.2

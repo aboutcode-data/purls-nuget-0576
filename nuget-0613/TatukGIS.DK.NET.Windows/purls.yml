@@ -8,3 +8,5 @@
 - pkg:nuget/TatukGIS.DK.NET.Windows@104.0.38453
 - pkg:nuget/TatukGIS.DK.NET.Windows@105.0.38678
 - pkg:nuget/TatukGIS.DK.NET.Windows@106.0.38857
+- pkg:nuget/TatukGIS.DK.NET.Windows@112.0.40968
+- pkg:nuget/TatukGIS.DK.NET.Windows@112.1.40974

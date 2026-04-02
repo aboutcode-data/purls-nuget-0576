@@ -735,6 +735,8 @@
 - pkg:nuget/Aj.Platform.Core@2.0.293
 - pkg:nuget/Aj.Platform.Core@2.0.296
 - pkg:nuget/Aj.Platform.Core@2.0.3
+- pkg:nuget/Aj.Platform.Core@2.0.308
+- pkg:nuget/Aj.Platform.Core@2.0.309
 - pkg:nuget/Aj.Platform.Core@2.0.31
 - pkg:nuget/Aj.Platform.Core@2.0.31-beta.1
 - pkg:nuget/Aj.Platform.Core@2.0.31-beta.2
@@ -742,6 +744,11 @@
 - pkg:nuget/Aj.Platform.Core@2.0.31-beta.4
 - pkg:nuget/Aj.Platform.Core@2.0.31-beta.5
 - pkg:nuget/Aj.Platform.Core@2.0.31-beta.6
+- pkg:nuget/Aj.Platform.Core@2.0.310
+- pkg:nuget/Aj.Platform.Core@2.0.311
+- pkg:nuget/Aj.Platform.Core@2.0.312
+- pkg:nuget/Aj.Platform.Core@2.0.313
+- pkg:nuget/Aj.Platform.Core@2.0.314
 - pkg:nuget/Aj.Platform.Core@2.0.32
 - pkg:nuget/Aj.Platform.Core@2.0.33
 - pkg:nuget/Aj.Platform.Core@2.0.33-beta.1

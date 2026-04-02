@@ -7,4 +7,10 @@
 - pkg:nuget/AWSSDK.PartnerCentralAccount@3.7.501.4
 - pkg:nuget/AWSSDK.PartnerCentralAccount@3.7.501.41
 - pkg:nuget/AWSSDK.PartnerCentralAccount@3.7.501.42
+- pkg:nuget/AWSSDK.PartnerCentralAccount@3.7.501.43
 - pkg:nuget/AWSSDK.PartnerCentralAccount@3.7.501.9
+- pkg:nuget/AWSSDK.PartnerCentralAccount@4.0.1.12
+- pkg:nuget/AWSSDK.PartnerCentralAccount@4.0.1.13
+- pkg:nuget/AWSSDK.PartnerCentralAccount@4.0.2
+- pkg:nuget/AWSSDK.PartnerCentralAccount@4.0.2.1
+- pkg:nuget/AWSSDK.PartnerCentralAccount@4.0.2.2

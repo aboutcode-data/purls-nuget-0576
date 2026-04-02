@@ -3,6 +3,8 @@
 - pkg:nuget/ReillyDigital.Enumerations.Options@1.0.2
 - pkg:nuget/ReillyDigital.Enumerations.Options@1.0.3
 - pkg:nuget/ReillyDigital.Enumerations.Options@2.0.0-alpha.1
+- pkg:nuget/ReillyDigital.Enumerations.Options@2.0.0-alpha.15
+- pkg:nuget/ReillyDigital.Enumerations.Options@2.0.0-alpha.16
 - pkg:nuget/ReillyDigital.Enumerations.Options@2.0.0-alpha.2
 - pkg:nuget/ReillyDigital.Enumerations.Options@2.0.0-alpha.3
 - pkg:nuget/ReillyDigital.Enumerations.Options@2.0.0-alpha.4

@@ -1,3 +1,7 @@
+- pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Sync@3.1000.0
+- pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Sync@3.1000.0-alpha.990
+- pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Sync@3.1001.0-alpha.991
+- pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Sync@3.1001.0-alpha.993
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Sync@3.200.0
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Sync@3.200.0-alpha.305
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Sync@3.200.0-alpha.306
@@ -500,3 +504,4 @@
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Sync@3.830.0-alpha.956
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Sync@3.830.0-alpha.969
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Sync@3.830.0-alpha.970
+- pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Sync@3.831.0-alpha.989

@@ -26,3 +26,6 @@
 - pkg:nuget/Px.Utils.Base@2.2.5
 - pkg:nuget/Px.Utils.Base@2.2.6
 - pkg:nuget/Px.Utils.Base@2.2.7
+- pkg:nuget/Px.Utils.Base@2.5.4
+- pkg:nuget/Px.Utils.Base@2.6.0
+- pkg:nuget/Px.Utils.Base@2.6.1

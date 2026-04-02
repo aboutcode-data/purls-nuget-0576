@@ -35,6 +35,9 @@
 - pkg:nuget/Soenneker.Stripe.InvoiceItems@4.0.151
 - pkg:nuget/Soenneker.Stripe.InvoiceItems@4.0.160
 - pkg:nuget/Soenneker.Stripe.InvoiceItems@4.0.171
+- pkg:nuget/Soenneker.Stripe.InvoiceItems@4.0.174
+- pkg:nuget/Soenneker.Stripe.InvoiceItems@4.0.175
+- pkg:nuget/Soenneker.Stripe.InvoiceItems@4.0.176
 - pkg:nuget/Soenneker.Stripe.InvoiceItems@4.0.42
 - pkg:nuget/Soenneker.Stripe.InvoiceItems@4.0.50
 - pkg:nuget/Soenneker.Stripe.InvoiceItems@4.0.87

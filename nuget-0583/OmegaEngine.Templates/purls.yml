@@ -1,4 +1,6 @@
 - pkg:nuget/OmegaEngine.Templates@1.1.0
+- pkg:nuget/OmegaEngine.Templates@1.10.0
+- pkg:nuget/OmegaEngine.Templates@1.10.1
 - pkg:nuget/OmegaEngine.Templates@1.2.0
 - pkg:nuget/OmegaEngine.Templates@1.2.1
 - pkg:nuget/OmegaEngine.Templates@1.2.2

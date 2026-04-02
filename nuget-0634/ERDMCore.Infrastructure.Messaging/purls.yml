@@ -1,0 +1,4 @@
+- pkg:nuget/ERDMCore.Infrastructure.Messaging@11.0.0
+- pkg:nuget/ERDMCore.Infrastructure.Messaging@12.0.0
+- pkg:nuget/ERDMCore.Infrastructure.Messaging@13.0.0
+- pkg:nuget/ERDMCore.Infrastructure.Messaging@14.0.0

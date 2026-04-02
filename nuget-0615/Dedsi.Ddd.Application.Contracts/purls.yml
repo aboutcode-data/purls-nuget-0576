@@ -1,4 +1,5 @@
 - pkg:nuget/Dedsi.Ddd.Application.Contracts@10.0.5
+- pkg:nuget/Dedsi.Ddd.Application.Contracts@10.10.2
 - pkg:nuget/Dedsi.Ddd.Application.Contracts@8.2.1
 - pkg:nuget/Dedsi.Ddd.Application.Contracts@8.2.1.1
 - pkg:nuget/Dedsi.Ddd.Application.Contracts@8.2.1.2

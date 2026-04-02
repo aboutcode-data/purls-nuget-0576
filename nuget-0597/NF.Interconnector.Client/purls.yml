@@ -213,3 +213,6 @@
 - pkg:nuget/NF.Interconnector.Client@3.3.6-beta03
 - pkg:nuget/NF.Interconnector.Client@3.3.6-beta04
 - pkg:nuget/NF.Interconnector.Client@3.3.6-beta05
+- pkg:nuget/NF.Interconnector.Client@3.3.8-beta02
+- pkg:nuget/NF.Interconnector.Client@3.3.8-beta03
+- pkg:nuget/NF.Interconnector.Client@3.3.8-beta04

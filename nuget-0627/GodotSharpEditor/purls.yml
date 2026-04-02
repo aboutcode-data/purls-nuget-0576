@@ -122,3 +122,5 @@
 - pkg:nuget/GodotSharpEditor@4.5.0-dev.5
 - pkg:nuget/GodotSharpEditor@4.5.0-rc.1
 - pkg:nuget/GodotSharpEditor@4.5.0-rc.2
+- pkg:nuget/GodotSharpEditor@4.6.2
+- pkg:nuget/GodotSharpEditor@4.7.0-dev.3

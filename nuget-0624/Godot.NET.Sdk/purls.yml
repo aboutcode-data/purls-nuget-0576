@@ -131,3 +131,5 @@
 - pkg:nuget/Godot.NET.Sdk@4.5.0-dev.5
 - pkg:nuget/Godot.NET.Sdk@4.5.0-rc.1
 - pkg:nuget/Godot.NET.Sdk@4.5.0-rc.2
+- pkg:nuget/Godot.NET.Sdk@4.6.2
+- pkg:nuget/Godot.NET.Sdk@4.7.0-dev.3

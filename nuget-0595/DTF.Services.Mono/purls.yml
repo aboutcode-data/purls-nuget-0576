@@ -169,3 +169,6 @@
 - pkg:nuget/DTF.Services.Mono@3.0.3.6
 - pkg:nuget/DTF.Services.Mono@3.0.3.7
 - pkg:nuget/DTF.Services.Mono@3.0.3.8
+- pkg:nuget/DTF.Services.Mono@3.0.3.9
+- pkg:nuget/DTF.Services.Mono@3.0.4
+- pkg:nuget/DTF.Services.Mono@3.0.4.1

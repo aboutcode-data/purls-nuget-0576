@@ -86,3 +86,4 @@
 - pkg:nuget/fo-dicom@5.2.0
 - pkg:nuget/fo-dicom@5.2.1
 - pkg:nuget/fo-dicom@5.2.2
+- pkg:nuget/fo-dicom@5.2.6

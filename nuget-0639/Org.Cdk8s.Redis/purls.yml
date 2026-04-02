@@ -312,3 +312,6 @@
 - pkg:nuget/Org.Cdk8s.Redis@0.1.857
 - pkg:nuget/Org.Cdk8s.Redis@0.1.859
 - pkg:nuget/Org.Cdk8s.Redis@0.1.867
+- pkg:nuget/Org.Cdk8s.Redis@0.1.888
+- pkg:nuget/Org.Cdk8s.Redis@0.1.889
+- pkg:nuget/Org.Cdk8s.Redis@0.1.890

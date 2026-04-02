@@ -36,6 +36,7 @@
 - pkg:nuget/CMSImport@13.2.0
 - pkg:nuget/CMSImport@13.2.0-beta0001
 - pkg:nuget/CMSImport@16.0.0-alpha0001
+- pkg:nuget/CMSImport@17.0.1
 - pkg:nuget/CMSImport@3.1.0
 - pkg:nuget/CMSImport@3.1.1
 - pkg:nuget/CMSImport@3.1.2

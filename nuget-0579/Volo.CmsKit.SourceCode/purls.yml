@@ -1,4 +1,5 @@
 - pkg:nuget/Volo.CmsKit.SourceCode@10.1.1
+- pkg:nuget/Volo.CmsKit.SourceCode@10.3.0-rc.1
 - pkg:nuget/Volo.CmsKit.SourceCode@5.0.0
 - pkg:nuget/Volo.CmsKit.SourceCode@5.0.0-beta.2
 - pkg:nuget/Volo.CmsKit.SourceCode@5.0.0-beta.3

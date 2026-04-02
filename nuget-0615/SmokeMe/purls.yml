@@ -10,3 +10,6 @@
 - pkg:nuget/SmokeMe@2.0.0
 - pkg:nuget/SmokeMe@2.1.0
 - pkg:nuget/SmokeMe@2.2.0
+- pkg:nuget/SmokeMe@3.0.1
+- pkg:nuget/SmokeMe@3.1.1
+- pkg:nuget/SmokeMe@3.2.0

@@ -23,6 +23,7 @@
 - pkg:nuget/DBreeze@1.118.2024.1016
 - pkg:nuget/DBreeze@1.119.2025.403
 - pkg:nuget/DBreeze@1.120.2025.507
+- pkg:nuget/DBreeze@1.136.2026.326-beta
 - pkg:nuget/DBreeze@1.61.0
 - pkg:nuget/DBreeze@1.61.1
 - pkg:nuget/DBreeze@1.62.0

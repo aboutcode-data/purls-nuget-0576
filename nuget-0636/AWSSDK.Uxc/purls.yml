@@ -1,0 +1,5 @@
+- pkg:nuget/AWSSDK.Uxc@3.7.500.1
+- pkg:nuget/AWSSDK.Uxc@4.0.0.1
+- pkg:nuget/AWSSDK.Uxc@4.0.0.2
+- pkg:nuget/AWSSDK.Uxc@4.0.0.3
+- pkg:nuget/AWSSDK.Uxc@4.0.0.4

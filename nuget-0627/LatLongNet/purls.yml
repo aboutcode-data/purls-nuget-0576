@@ -199,6 +199,9 @@
 - pkg:nuget/LatLongNet@2.2.665
 - pkg:nuget/LatLongNet@2.2.67
 - pkg:nuget/LatLongNet@2.2.7
+- pkg:nuget/LatLongNet@2.2.713
+- pkg:nuget/LatLongNet@2.2.716
+- pkg:nuget/LatLongNet@2.2.719
 - pkg:nuget/LatLongNet@2.2.74
 - pkg:nuget/LatLongNet@2.2.77
 - pkg:nuget/LatLongNet@2.2.80

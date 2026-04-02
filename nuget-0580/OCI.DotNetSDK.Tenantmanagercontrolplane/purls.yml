@@ -47,6 +47,7 @@
 - pkg:nuget/OCI.DotNetSDK.Tenantmanagercontrolplane@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Tenantmanagercontrolplane@129.1.0
 - pkg:nuget/OCI.DotNetSDK.Tenantmanagercontrolplane@13.0.0
+- pkg:nuget/OCI.DotNetSDK.Tenantmanagercontrolplane@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Tenantmanagercontrolplane@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Tenantmanagercontrolplane@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Tenantmanagercontrolplane@14.2.0

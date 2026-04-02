@@ -1664,6 +1664,7 @@
 - pkg:nuget/Omnia.Workplace.Models@7.9.38-preview
 - pkg:nuget/Omnia.Workplace.Models@7.9.39-preview
 - pkg:nuget/Omnia.Workplace.Models@7.9.4-preview
+- pkg:nuget/Omnia.Workplace.Models@7.9.41
 - pkg:nuget/Omnia.Workplace.Models@7.9.5-preview
 - pkg:nuget/Omnia.Workplace.Models@7.9.6-preview
 - pkg:nuget/Omnia.Workplace.Models@8.0.0-dev

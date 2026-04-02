@@ -568,3 +568,15 @@
 - pkg:nuget/Regula.DocumentReader.WebClient@9.3.774-nightly
 - pkg:nuget/Regula.DocumentReader.WebClient@9.3.780-nightly
 - pkg:nuget/Regula.DocumentReader.WebClient@9.3.798-nightly
+- pkg:nuget/Regula.DocumentReader.WebClient@9.3.800
+- pkg:nuget/Regula.DocumentReader.WebClient@9.3.801-nightly
+- pkg:nuget/Regula.DocumentReader.WebClient@9.3.802-rc
+- pkg:nuget/Regula.DocumentReader.WebClient@9.3.803-nightly
+- pkg:nuget/Regula.DocumentReader.WebClient@9.3.804-rc
+- pkg:nuget/Regula.DocumentReader.WebClient@9.3.805-nightly
+- pkg:nuget/Regula.DocumentReader.WebClient@9.3.806-nightly
+- pkg:nuget/Regula.DocumentReader.WebClient@9.3.807-rc
+- pkg:nuget/Regula.DocumentReader.WebClient@9.4.808-nightly
+- pkg:nuget/Regula.DocumentReader.WebClient@9.4.809-rc
+- pkg:nuget/Regula.DocumentReader.WebClient@9.4.810-nightly
+- pkg:nuget/Regula.DocumentReader.WebClient@9.4.811-rc
