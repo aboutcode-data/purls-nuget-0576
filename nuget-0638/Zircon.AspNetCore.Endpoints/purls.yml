@@ -1,1 +1,2 @@
 - pkg:nuget/Zircon.AspNetCore.Endpoints@1.0.0
+- pkg:nuget/Zircon.AspNetCore.Endpoints@2.0.1

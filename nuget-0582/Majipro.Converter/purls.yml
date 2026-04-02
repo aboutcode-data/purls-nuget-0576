@@ -2,3 +2,4 @@
 - pkg:nuget/Majipro.Converter@1.0.1-extnsions.1%2B1
 - pkg:nuget/Majipro.Converter@1.1.0
 - pkg:nuget/Majipro.Converter@1.3.0
+- pkg:nuget/Majipro.Converter@1.3.2

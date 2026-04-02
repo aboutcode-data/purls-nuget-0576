@@ -1,3 +1,6 @@
 - pkg:nuget/ardalis@1.17.0
+- pkg:nuget/ardalis@1.21.0
+- pkg:nuget/ardalis@1.22.0
+- pkg:nuget/ardalis@1.23.0
 - pkg:nuget/ardalis@1.6.0
 - pkg:nuget/ardalis@1.6.1

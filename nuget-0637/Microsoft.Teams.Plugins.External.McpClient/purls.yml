@@ -1,1 +1,2 @@
 - pkg:nuget/Microsoft.Teams.Plugins.External.McpClient@2.0.1-preview.14
+- pkg:nuget/Microsoft.Teams.Plugins.External.McpClient@2.0.6-preview-0046-g482dcafac4
