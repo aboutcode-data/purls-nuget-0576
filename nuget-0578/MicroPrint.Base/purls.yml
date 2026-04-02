@@ -83,3 +83,4 @@
 - pkg:nuget/MicroPrint.Base@1.0.84
 - pkg:nuget/MicroPrint.Base@1.0.89
 - pkg:nuget/MicroPrint.Base@1.0.9
+- pkg:nuget/MicroPrint.Base@2.1.2

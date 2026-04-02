@@ -8,3 +8,5 @@
 - pkg:nuget/EPiServer.Templates@1.7.0
 - pkg:nuget/EPiServer.Templates@1.7.1
 - pkg:nuget/EPiServer.Templates@1.7.2
+- pkg:nuget/EPiServer.Templates@2.0.0
+- pkg:nuget/EPiServer.Templates@2.0.1

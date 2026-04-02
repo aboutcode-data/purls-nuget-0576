@@ -22,3 +22,4 @@
 - pkg:nuget/WorkflowEngine.NETCore-RealTimeTrackingPlugin@18.0.0
 - pkg:nuget/WorkflowEngine.NETCore-RealTimeTrackingPlugin@18.1.0
 - pkg:nuget/WorkflowEngine.NETCore-RealTimeTrackingPlugin@20.0.0
+- pkg:nuget/WorkflowEngine.NETCore-RealTimeTrackingPlugin@20.0.8

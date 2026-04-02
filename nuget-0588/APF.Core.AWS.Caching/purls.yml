@@ -13,3 +13,6 @@
 - pkg:nuget/APF.Core.AWS.Caching@8.0.0.4-Beta-01
 - pkg:nuget/APF.Core.AWS.Caching@8.0.0.4-Beta-02
 - pkg:nuget/APF.Core.AWS.Caching@8.0.0.4-migration
+- pkg:nuget/APF.Core.AWS.Caching@8.0.0.5
+- pkg:nuget/APF.Core.AWS.Caching@8.0.0.5-Beta-01
+- pkg:nuget/APF.Core.AWS.Caching@8.0.0.5-Beta-02

@@ -73,6 +73,7 @@
 - pkg:nuget/Amazon.CDK.Asset.AwsCliV2@2.0.155
 - pkg:nuget/Amazon.CDK.Asset.AwsCliV2@2.0.156
 - pkg:nuget/Amazon.CDK.Asset.AwsCliV2@2.0.16
+- pkg:nuget/Amazon.CDK.Asset.AwsCliV2@2.0.168
 - pkg:nuget/Amazon.CDK.Asset.AwsCliV2@2.0.17
 - pkg:nuget/Amazon.CDK.Asset.AwsCliV2@2.0.18
 - pkg:nuget/Amazon.CDK.Asset.AwsCliV2@2.0.19

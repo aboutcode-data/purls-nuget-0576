@@ -28,3 +28,4 @@
 - pkg:nuget/OpenRiaServices.UnitTesting@5.4.0
 - pkg:nuget/OpenRiaServices.UnitTesting@5.4.0-preview.2
 - pkg:nuget/OpenRiaServices.UnitTesting@5.5.0
+- pkg:nuget/OpenRiaServices.UnitTesting@5.7.0

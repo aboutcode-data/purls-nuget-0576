@@ -33,3 +33,4 @@
 - pkg:nuget/LogicBuilder.Structures@6.0.2
 - pkg:nuget/LogicBuilder.Structures@6.0.3
 - pkg:nuget/LogicBuilder.Structures@7.0.0
+- pkg:nuget/LogicBuilder.Structures@8.0.0
