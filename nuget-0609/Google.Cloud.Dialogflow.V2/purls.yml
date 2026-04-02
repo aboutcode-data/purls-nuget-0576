@@ -41,6 +41,7 @@
 - pkg:nuget/Google.Cloud.Dialogflow.V2@4.24.0
 - pkg:nuget/Google.Cloud.Dialogflow.V2@4.25.0
 - pkg:nuget/Google.Cloud.Dialogflow.V2@4.26.0
+- pkg:nuget/Google.Cloud.Dialogflow.V2@4.29.0
 - pkg:nuget/Google.Cloud.Dialogflow.V2@4.3.0
 - pkg:nuget/Google.Cloud.Dialogflow.V2@4.4.0
 - pkg:nuget/Google.Cloud.Dialogflow.V2@4.5.0

@@ -1,4 +1,5 @@
 - pkg:nuget/Autofac.Extensions.DependencyInjection@10.0.0
+- pkg:nuget/Autofac.Extensions.DependencyInjection@11.0.0
 - pkg:nuget/Autofac.Extensions.DependencyInjection@4.0.0
 - pkg:nuget/Autofac.Extensions.DependencyInjection@4.0.0-rc1-177
 - pkg:nuget/Autofac.Extensions.DependencyInjection@4.0.0-rc2-240

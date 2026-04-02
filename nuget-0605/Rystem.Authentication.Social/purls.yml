@@ -1,3 +1,4 @@
+- pkg:nuget/Rystem.Authentication.Social@10.0.7
 - pkg:nuget/Rystem.Authentication.Social@6.0.0
 - pkg:nuget/Rystem.Authentication.Social@6.0.0-rc.6
 - pkg:nuget/Rystem.Authentication.Social@6.0.1

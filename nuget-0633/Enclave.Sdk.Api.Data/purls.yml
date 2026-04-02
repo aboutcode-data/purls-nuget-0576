@@ -41,6 +41,7 @@
 - pkg:nuget/Enclave.Sdk.Api.Data@304.46.0
 - pkg:nuget/Enclave.Sdk.Api.Data@304.47.0
 - pkg:nuget/Enclave.Sdk.Api.Data@304.5.0
+- pkg:nuget/Enclave.Sdk.Api.Data@304.50.0
 - pkg:nuget/Enclave.Sdk.Api.Data@304.6.0
 - pkg:nuget/Enclave.Sdk.Api.Data@304.7.0
 - pkg:nuget/Enclave.Sdk.Api.Data@304.8.0

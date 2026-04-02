@@ -73,4 +73,5 @@
 - pkg:nuget/OpcLabs.Mqtt@5.81.485
 - pkg:nuget/OpcLabs.Mqtt@5.82.175
 - pkg:nuget/OpcLabs.Mqtt@5.82.395
+- pkg:nuget/OpcLabs.Mqtt@5.83.1134
 - pkg:nuget/OpcLabs.Mqtt@5.83.473

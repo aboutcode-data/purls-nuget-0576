@@ -285,3 +285,4 @@
 - pkg:nuget/BgFramework.WindowsForms@25.9.26.1
 - pkg:nuget/BgFramework.WindowsForms@26.1.26.1
 - pkg:nuget/BgFramework.WindowsForms@26.3.18.1
+- pkg:nuget/BgFramework.WindowsForms@26.3.26.1

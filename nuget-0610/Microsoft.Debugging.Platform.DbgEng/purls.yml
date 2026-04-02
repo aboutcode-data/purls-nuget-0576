@@ -22,3 +22,4 @@
 - pkg:nuget/Microsoft.Debugging.Platform.DbgEng@20250411.1210.0
 - pkg:nuget/Microsoft.Debugging.Platform.DbgEng@20250611.1057.0
 - pkg:nuget/Microsoft.Debugging.Platform.DbgEng@20250825.1142.0
+- pkg:nuget/Microsoft.Debugging.Platform.DbgEng@20260319.1511.0

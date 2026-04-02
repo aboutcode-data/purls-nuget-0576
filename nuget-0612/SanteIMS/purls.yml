@@ -25,3 +25,6 @@
 - pkg:nuget/SanteIMS@3.0.2056-alpha
 - pkg:nuget/SanteIMS@3.0.2065-alpha
 - pkg:nuget/SanteIMS@3.0.2067-alpha
+- pkg:nuget/SanteIMS@3.0.2071-alpha
+- pkg:nuget/SanteIMS@3.0.2072-alpha
+- pkg:nuget/SanteIMS@3.0.2073-alpha

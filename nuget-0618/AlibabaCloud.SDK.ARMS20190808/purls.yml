@@ -4,6 +4,8 @@
 - pkg:nuget/AlibabaCloud.SDK.ARMS20190808@10.0.1
 - pkg:nuget/AlibabaCloud.SDK.ARMS20190808@10.0.2
 - pkg:nuget/AlibabaCloud.SDK.ARMS20190808@10.0.3
+- pkg:nuget/AlibabaCloud.SDK.ARMS20190808@10.0.5
+- pkg:nuget/AlibabaCloud.SDK.ARMS20190808@10.0.6
 - pkg:nuget/AlibabaCloud.SDK.ARMS20190808@2.0.0
 - pkg:nuget/AlibabaCloud.SDK.ARMS20190808@2.0.1
 - pkg:nuget/AlibabaCloud.SDK.ARMS20190808@2.0.2

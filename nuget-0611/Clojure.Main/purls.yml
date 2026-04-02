@@ -24,3 +24,4 @@
 - pkg:nuget/Clojure.Main@1.12.2
 - pkg:nuget/Clojure.Main@1.12.3-alpha1
 - pkg:nuget/Clojure.Main@1.12.3-alpha2
+- pkg:nuget/Clojure.Main@1.12.3-alpha5

@@ -23,3 +23,4 @@
 - pkg:nuget/PosInformatique.FluentAssertions.Json@1.5.0-rc.4
 - pkg:nuget/PosInformatique.FluentAssertions.Json@1.6.0
 - pkg:nuget/PosInformatique.FluentAssertions.Json@1.6.0-rc.1
+- pkg:nuget/PosInformatique.FluentAssertions.Json@1.7.0
