@@ -22,6 +22,8 @@
 - pkg:nuget/APF.Core.Logger@8.0.0.13-Beta-04
 - pkg:nuget/APF.Core.Logger@8.0.0.13-Beta-05
 - pkg:nuget/APF.Core.Logger@8.0.0.13-Beta-06
+- pkg:nuget/APF.Core.Logger@8.0.0.15
+- pkg:nuget/APF.Core.Logger@8.0.0.15-Beta-01
 - pkg:nuget/APF.Core.Logger@8.0.0.2
 - pkg:nuget/APF.Core.Logger@8.0.0.2-Beta-01
 - pkg:nuget/APF.Core.Logger@8.0.0.2-Beta-02

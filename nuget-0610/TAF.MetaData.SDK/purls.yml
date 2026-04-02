@@ -1,5 +1,6 @@
 - pkg:nuget/TAF.MetaData.SDK@1.0.0
 - pkg:nuget/TAF.MetaData.SDK@10.0.3
+- pkg:nuget/TAF.MetaData.SDK@10.1.2
 - pkg:nuget/TAF.MetaData.SDK@2.0.1
 - pkg:nuget/TAF.MetaData.SDK@2.0.2
 - pkg:nuget/TAF.MetaData.SDK@3.0.0

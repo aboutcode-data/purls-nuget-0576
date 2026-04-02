@@ -1,4 +1,5 @@
 - pkg:nuget/PDFTron.NET.ARM@11.10.0
+- pkg:nuget/PDFTron.NET.ARM@11.12.0
 - pkg:nuget/PDFTron.NET.ARM@11.5.0
 - pkg:nuget/PDFTron.NET.ARM@11.6.0
 - pkg:nuget/PDFTron.NET.ARM@11.7.0

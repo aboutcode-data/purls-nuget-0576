@@ -2,3 +2,4 @@
 - pkg:nuget/DotNetExtras.Configuration@1.0.1
 - pkg:nuget/DotNetExtras.Configuration@1.0.3
 - pkg:nuget/DotNetExtras.Configuration@1.0.5
+- pkg:nuget/DotNetExtras.Configuration@1.1.0
