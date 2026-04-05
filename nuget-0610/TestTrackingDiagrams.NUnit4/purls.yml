@@ -31,3 +31,4 @@
 - pkg:nuget/TestTrackingDiagrams.NUnit4@1.24.7
 - pkg:nuget/TestTrackingDiagrams.NUnit4@1.24.8
 - pkg:nuget/TestTrackingDiagrams.NUnit4@1.24.9
+- pkg:nuget/TestTrackingDiagrams.NUnit4@2.0.13-alpha
