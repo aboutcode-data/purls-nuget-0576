@@ -37,3 +37,4 @@
 - pkg:nuget/Obfuscar.GlobalTool@2.2.48
 - pkg:nuget/Obfuscar.GlobalTool@2.2.49
 - pkg:nuget/Obfuscar.GlobalTool@2.3.0-beta1
+- pkg:nuget/Obfuscar.GlobalTool@3.0.0-beta.6
