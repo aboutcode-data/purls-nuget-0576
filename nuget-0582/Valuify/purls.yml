@@ -19,3 +19,5 @@
 - pkg:nuget/Valuify@1.4.0-rc.2
 - pkg:nuget/Valuify@1.5.0
 - pkg:nuget/Valuify@1.6.0
+- pkg:nuget/Valuify@1.8.0-rc.1
+- pkg:nuget/Valuify@1.8.0-rc.2

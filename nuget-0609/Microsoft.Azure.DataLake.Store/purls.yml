@@ -45,3 +45,4 @@
 - pkg:nuget/Microsoft.Azure.DataLake.Store@2.0.1
 - pkg:nuget/Microsoft.Azure.DataLake.Store@2.0.1-alpha.1
 - pkg:nuget/Microsoft.Azure.DataLake.Store@2.0.2
+- pkg:nuget/Microsoft.Azure.DataLake.Store@2.0.3
