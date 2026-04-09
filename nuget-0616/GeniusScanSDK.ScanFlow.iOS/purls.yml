@@ -98,3 +98,4 @@
 - pkg:nuget/GeniusScanSDK.ScanFlow.iOS@5.9.0
 - pkg:nuget/GeniusScanSDK.ScanFlow.iOS@5.9.1
 - pkg:nuget/GeniusScanSDK.ScanFlow.iOS@6.0.0-beta07
+- pkg:nuget/GeniusScanSDK.ScanFlow.iOS@6.0.0-beta08
