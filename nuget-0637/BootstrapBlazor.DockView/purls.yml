@@ -1,3 +1,4 @@
+- pkg:nuget/BootstrapBlazor.DockView@10.0.6
 - pkg:nuget/BootstrapBlazor.DockView@8.0.0
 - pkg:nuget/BootstrapBlazor.DockView@8.0.1
 - pkg:nuget/BootstrapBlazor.DockView@8.0.1-beta01
