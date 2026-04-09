@@ -182,6 +182,7 @@
 - pkg:nuget/T2B.Services.DynamicAccess.Client@6.0.0.10
 - pkg:nuget/T2B.Services.DynamicAccess.Client@6.0.0.107
 - pkg:nuget/T2B.Services.DynamicAccess.Client@6.0.0.11
+- pkg:nuget/T2B.Services.DynamicAccess.Client@6.0.0.111
 - pkg:nuget/T2B.Services.DynamicAccess.Client@6.0.0.12
 - pkg:nuget/T2B.Services.DynamicAccess.Client@6.0.0.13
 - pkg:nuget/T2B.Services.DynamicAccess.Client@6.0.0.14
