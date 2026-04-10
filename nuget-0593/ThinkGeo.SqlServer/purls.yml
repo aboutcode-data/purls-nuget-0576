@@ -1001,3 +1001,5 @@
 - pkg:nuget/ThinkGeo.SqlServer@14.5.0-beta136
 - pkg:nuget/ThinkGeo.SqlServer@14.5.0-beta137
 - pkg:nuget/ThinkGeo.SqlServer@15.0.0-beta001
+- pkg:nuget/ThinkGeo.SqlServer@15.0.0-beta007
+- pkg:nuget/ThinkGeo.SqlServer@15.0.0-beta008
