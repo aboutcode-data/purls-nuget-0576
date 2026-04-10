@@ -5,3 +5,4 @@
 - pkg:nuget/Wabbajack.Downloaders.VerificationCache@3.7.5.1
 - pkg:nuget/Wabbajack.Downloaders.VerificationCache@4.0.2
 - pkg:nuget/Wabbajack.Downloaders.VerificationCache@4.2.0.1
+- pkg:nuget/Wabbajack.Downloaders.VerificationCache@4.2.1
