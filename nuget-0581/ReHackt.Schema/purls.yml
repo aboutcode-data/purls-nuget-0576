@@ -35,6 +35,8 @@
 - pkg:nuget/ReHackt.Schema@8.0.133
 - pkg:nuget/ReHackt.Schema@8.0.135
 - pkg:nuget/ReHackt.Schema@8.0.140
+- pkg:nuget/ReHackt.Schema@8.0.141
+- pkg:nuget/ReHackt.Schema@8.0.142
 - pkg:nuget/ReHackt.Schema@8.0.19
 - pkg:nuget/ReHackt.Schema@8.0.20
 - pkg:nuget/ReHackt.Schema@8.0.21
