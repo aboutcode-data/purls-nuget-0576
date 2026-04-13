@@ -1,6 +1,7 @@
 - pkg:nuget/Jesse.DataExport@1.0.1
 - pkg:nuget/Jesse.DataExport@1.0.2
 - pkg:nuget/Jesse.DataExport@1.0.3
+- pkg:nuget/Jesse.DataExport@10.0.1
 - pkg:nuget/Jesse.DataExport@2.0.0
 - pkg:nuget/Jesse.DataExport@2.0.1
 - pkg:nuget/Jesse.DataExport@2.0.2
