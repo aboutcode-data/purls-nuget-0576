@@ -1,1 +1,2 @@
+- pkg:nuget/Cirreum.Persistence.SQLite@1.0.18
 - pkg:nuget/Cirreum.Persistence.SQLite@1.0.6
