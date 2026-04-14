@@ -195,3 +195,4 @@
 - pkg:nuget/Finbourne.Workflow.Sdk@2.3.9
 - pkg:nuget/Finbourne.Workflow.Sdk@2.4.5
 - pkg:nuget/Finbourne.Workflow.Sdk@2.4.6
+- pkg:nuget/Finbourne.Workflow.Sdk@2.4.8

@@ -10,3 +10,4 @@
 - pkg:nuget/beamable.otel.common@7.0.1
 - pkg:nuget/beamable.otel.common@7.0.1-PREVIEW.RC3
 - pkg:nuget/beamable.otel.common@7.0.1-PREVIEW.RC4
+- pkg:nuget/beamable.otel.common@7.1.0-PREVIEW.RC1
