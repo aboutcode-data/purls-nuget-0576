@@ -81,3 +81,4 @@
 - pkg:nuget/FluentIcons.Uwp@1.2.313-ci
 - pkg:nuget/FluentIcons.Uwp@2.0.321
 - pkg:nuget/FluentIcons.Uwp@2.0.321-ci
+- pkg:nuget/FluentIcons.Uwp@2.1.324-ci

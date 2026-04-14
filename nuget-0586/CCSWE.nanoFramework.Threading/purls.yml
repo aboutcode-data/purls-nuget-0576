@@ -109,6 +109,7 @@
 - pkg:nuget/CCSWE.nanoFramework.Threading@1.0.8
 - pkg:nuget/CCSWE.nanoFramework.Threading@1.0.9
 - pkg:nuget/CCSWE.nanoFramework.Threading@1.1.12
+- pkg:nuget/CCSWE.nanoFramework.Threading@1.1.122
 - pkg:nuget/CCSWE.nanoFramework.Threading@1.1.17
 - pkg:nuget/CCSWE.nanoFramework.Threading@1.1.18
 - pkg:nuget/CCSWE.nanoFramework.Threading@1.1.19
