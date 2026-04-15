@@ -83,4 +83,6 @@
 - pkg:nuget/Soenneker.TrustedForm.Client@4.0.250
 - pkg:nuget/Soenneker.TrustedForm.Client@4.0.258
 - pkg:nuget/Soenneker.TrustedForm.Client@4.0.259
+- pkg:nuget/Soenneker.TrustedForm.Client@4.0.261
+- pkg:nuget/Soenneker.TrustedForm.Client@4.0.262
 - pkg:nuget/Soenneker.TrustedForm.Client@4.0.88
