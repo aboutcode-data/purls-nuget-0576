@@ -44,12 +44,15 @@
 - pkg:nuget/NuGet.Localization@6.11.0
 - pkg:nuget/NuGet.Localization@6.11.0-preview.2
 - pkg:nuget/NuGet.Localization@6.11.1
+- pkg:nuget/NuGet.Localization@6.11.2
 - pkg:nuget/NuGet.Localization@6.12.0
 - pkg:nuget/NuGet.Localization@6.12.1
 - pkg:nuget/NuGet.Localization@6.12.4
+- pkg:nuget/NuGet.Localization@6.12.5
 - pkg:nuget/NuGet.Localization@6.13.1
 - pkg:nuget/NuGet.Localization@6.13.2
 - pkg:nuget/NuGet.Localization@6.14.0
+- pkg:nuget/NuGet.Localization@6.14.3
 - pkg:nuget/NuGet.Localization@6.2.0
 - pkg:nuget/NuGet.Localization@6.2.1
 - pkg:nuget/NuGet.Localization@6.2.2
@@ -71,5 +74,8 @@
 - pkg:nuget/NuGet.Localization@6.7.1
 - pkg:nuget/NuGet.Localization@6.8.0
 - pkg:nuget/NuGet.Localization@6.8.1
+- pkg:nuget/NuGet.Localization@6.8.2
 - pkg:nuget/NuGet.Localization@6.9.1
 - pkg:nuget/NuGet.Localization@7.0.0
+- pkg:nuget/NuGet.Localization@7.0.3
+- pkg:nuget/NuGet.Localization@7.3.1

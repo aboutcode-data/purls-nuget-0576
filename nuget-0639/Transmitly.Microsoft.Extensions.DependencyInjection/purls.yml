@@ -21,3 +21,4 @@
 - pkg:nuget/Transmitly.Microsoft.Extensions.DependencyInjection@0.2.1
 - pkg:nuget/Transmitly.Microsoft.Extensions.DependencyInjection@0.2.2-16.b75cea3
 - pkg:nuget/Transmitly.Microsoft.Extensions.DependencyInjection@0.2.2-2.11f7421
+- pkg:nuget/Transmitly.Microsoft.Extensions.DependencyInjection@0.3.1-1.2572683
