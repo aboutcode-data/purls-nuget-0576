@@ -1035,6 +1035,7 @@
 - pkg:nuget/DIPS.Mobile.UI@55.6.7
 - pkg:nuget/DIPS.Mobile.UI@55.6.7-pre437930
 - pkg:nuget/DIPS.Mobile.UI@55.6.7-pre438020
+- pkg:nuget/DIPS.Mobile.UI@56.0.1-pre438719
 - pkg:nuget/DIPS.Mobile.UI@6.0.0
 - pkg:nuget/DIPS.Mobile.UI@6.1.0
 - pkg:nuget/DIPS.Mobile.UI@6.2.0

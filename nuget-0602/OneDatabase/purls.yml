@@ -662,3 +662,4 @@
 - pkg:nuget/OneDatabase@3.3.98-servizio
 - pkg:nuget/OneDatabase@3.4.0
 - pkg:nuget/OneDatabase@3.4.1-Matricole
+- pkg:nuget/OneDatabase@3.4.1-Matricole2
