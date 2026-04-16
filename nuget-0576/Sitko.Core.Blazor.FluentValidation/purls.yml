@@ -172,6 +172,7 @@
 - pkg:nuget/Sitko.Core.Blazor.FluentValidation@11.76.0
 - pkg:nuget/Sitko.Core.Blazor.FluentValidation@11.8.0
 - pkg:nuget/Sitko.Core.Blazor.FluentValidation@11.8.1
+- pkg:nuget/Sitko.Core.Blazor.FluentValidation@11.83.0
 - pkg:nuget/Sitko.Core.Blazor.FluentValidation@11.9.0
 - pkg:nuget/Sitko.Core.Blazor.FluentValidation@7.10.0
 - pkg:nuget/Sitko.Core.Blazor.FluentValidation@7.10.1

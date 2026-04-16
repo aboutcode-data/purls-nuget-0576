@@ -1,4 +1,5 @@
 - pkg:nuget/Enigmatry.Entry.TemplatingEngine.Razor@10.0.0
+- pkg:nuget/Enigmatry.Entry.TemplatingEngine.Razor@10.0.1-preview.2
 - pkg:nuget/Enigmatry.Entry.TemplatingEngine.Razor@3.2.1-preview.4
 - pkg:nuget/Enigmatry.Entry.TemplatingEngine.Razor@3.3.0
 - pkg:nuget/Enigmatry.Entry.TemplatingEngine.Razor@3.3.1

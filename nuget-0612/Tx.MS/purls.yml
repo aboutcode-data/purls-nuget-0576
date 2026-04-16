@@ -103,6 +103,7 @@
 - pkg:nuget/Tx.MS@1.1.5.8
 - pkg:nuget/Tx.MS@1.1.6.13
 - pkg:nuget/Tx.MS@1.1.6.6
+- pkg:nuget/Tx.MS@1.1.9.18
 - pkg:nuget/Tx.MS@1.1.9.5
 - pkg:nuget/Tx.MS@1.1.9.6
 - pkg:nuget/Tx.MS@1.1.9.9
