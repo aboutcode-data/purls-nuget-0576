@@ -1,1 +1,2 @@
 - pkg:nuget/Trino.Client.CSharp@1.0.10
+- pkg:nuget/Trino.Client.CSharp@1.0.11
