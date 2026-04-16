@@ -2,6 +2,7 @@
 - pkg:nuget/JJConsulting.Deploy.Client@3.0.11
 - pkg:nuget/JJConsulting.Deploy.Client@3.0.12
 - pkg:nuget/JJConsulting.Deploy.Client@3.0.13
+- pkg:nuget/JJConsulting.Deploy.Client@3.0.18
 - pkg:nuget/JJConsulting.Deploy.Client@3.0.2
 - pkg:nuget/JJConsulting.Deploy.Client@3.0.3
 - pkg:nuget/JJConsulting.Deploy.Client@3.0.4
