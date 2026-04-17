@@ -34,6 +34,7 @@
 - pkg:nuget/Gemstone.Web.Razor@1.0.157
 - pkg:nuget/Gemstone.Web.Razor@1.0.162
 - pkg:nuget/Gemstone.Web.Razor@1.0.167
+- pkg:nuget/Gemstone.Web.Razor@1.0.171
 - pkg:nuget/Gemstone.Web.Razor@1.0.53
 - pkg:nuget/Gemstone.Web.Razor@1.0.54
 - pkg:nuget/Gemstone.Web.Razor@1.0.56
