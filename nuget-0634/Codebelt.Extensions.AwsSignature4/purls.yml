@@ -1,3 +1,4 @@
+- pkg:nuget/Codebelt.Extensions.AwsSignature4@10.0.6
 - pkg:nuget/Codebelt.Extensions.AwsSignature4@8.4.0
 - pkg:nuget/Codebelt.Extensions.AwsSignature4@9.0.0
 - pkg:nuget/Codebelt.Extensions.AwsSignature4@9.0.0-preview.1
