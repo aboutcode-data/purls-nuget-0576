@@ -23,3 +23,6 @@
 - pkg:nuget/LayeredCraft.Cdk.Constructs@2.0.0-beta.23
 - pkg:nuget/LayeredCraft.Cdk.Constructs@2.0.0.24
 - pkg:nuget/LayeredCraft.Cdk.Constructs@2.0.1.25
+- pkg:nuget/LayeredCraft.Cdk.Constructs@2.4.0.39
+- pkg:nuget/LayeredCraft.Cdk.Constructs@2.4.1
+- pkg:nuget/LayeredCraft.Cdk.Constructs@2.4.1-alpha.1
