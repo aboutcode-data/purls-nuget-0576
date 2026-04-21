@@ -131,3 +131,4 @@
 - pkg:nuget/Squidex.Caching@7.7.0
 - pkg:nuget/Squidex.Caching@7.8.0
 - pkg:nuget/Squidex.Caching@7.9.0
+- pkg:nuget/Squidex.Caching@8.0.1

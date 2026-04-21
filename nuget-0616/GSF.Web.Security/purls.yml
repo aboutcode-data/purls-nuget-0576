@@ -643,6 +643,7 @@
 - pkg:nuget/GSF.Web.Security@2.4.26-beta
 - pkg:nuget/GSF.Web.Security@2.4.27-beta
 - pkg:nuget/GSF.Web.Security@2.4.28
+- pkg:nuget/GSF.Web.Security@2.4.287-beta
 - pkg:nuget/GSF.Web.Security@2.4.29-beta
 - pkg:nuget/GSF.Web.Security@2.4.3-beta
 - pkg:nuget/GSF.Web.Security@2.4.30-beta
