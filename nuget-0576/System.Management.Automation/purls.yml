@@ -133,6 +133,7 @@
 - pkg:nuget/System.Management.Automation@7.4.11
 - pkg:nuget/System.Management.Automation@7.4.12
 - pkg:nuget/System.Management.Automation@7.4.14
+- pkg:nuget/System.Management.Automation@7.4.15
 - pkg:nuget/System.Management.Automation@7.4.2
 - pkg:nuget/System.Management.Automation@7.4.3
 - pkg:nuget/System.Management.Automation@7.4.4
