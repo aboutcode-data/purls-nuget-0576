@@ -154,3 +154,4 @@
 - pkg:nuget/Indiko.Blocks.DataAccess.EntityFramework@2.2.3
 - pkg:nuget/Indiko.Blocks.DataAccess.EntityFramework@2.5.0
 - pkg:nuget/Indiko.Blocks.DataAccess.EntityFramework@2.5.1
+- pkg:nuget/Indiko.Blocks.DataAccess.EntityFramework@2.6.2
