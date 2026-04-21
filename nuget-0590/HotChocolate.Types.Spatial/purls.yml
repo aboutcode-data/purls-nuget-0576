@@ -1239,3 +1239,4 @@
 - pkg:nuget/HotChocolate.Types.Spatial@16.1.0-p.1.5
 - pkg:nuget/HotChocolate.Types.Spatial@16.1.0-p.1.6
 - pkg:nuget/HotChocolate.Types.Spatial@16.1.0-p.1.7
+- pkg:nuget/HotChocolate.Types.Spatial@16.1.0-p.1.9
