@@ -371,3 +371,4 @@
 - pkg:nuget/Nodes.API.Http.Client@2.3.293
 - pkg:nuget/Nodes.API.Http.Client@2.3.328
 - pkg:nuget/Nodes.API.Http.Client@2.3.519
+- pkg:nuget/Nodes.API.Http.Client@2.3.560
