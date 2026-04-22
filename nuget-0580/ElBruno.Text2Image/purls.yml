@@ -1,1 +1,5 @@
+- pkg:nuget/ElBruno.Text2Image@0.10.0
+- pkg:nuget/ElBruno.Text2Image@0.15.0
+- pkg:nuget/ElBruno.Text2Image@0.16.0
 - pkg:nuget/ElBruno.Text2Image@0.5.3
+- pkg:nuget/ElBruno.Text2Image@0.9.2
