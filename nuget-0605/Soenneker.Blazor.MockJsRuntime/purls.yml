@@ -299,3 +299,5 @@
 - pkg:nuget/Soenneker.Blazor.MockJsRuntime@4.0.316
 - pkg:nuget/Soenneker.Blazor.MockJsRuntime@4.0.320
 - pkg:nuget/Soenneker.Blazor.MockJsRuntime@4.0.327
+- pkg:nuget/Soenneker.Blazor.MockJsRuntime@4.0.329
+- pkg:nuget/Soenneker.Blazor.MockJsRuntime@4.0.330
