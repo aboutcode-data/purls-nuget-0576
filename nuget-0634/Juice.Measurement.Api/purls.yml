@@ -1,3 +1,4 @@
+- pkg:nuget/Juice.Measurement.Api@10.0.0
 - pkg:nuget/Juice.Measurement.Api@8.3.1
 - pkg:nuget/Juice.Measurement.Api@8.3.2
 - pkg:nuget/Juice.Measurement.Api@8.4.0
