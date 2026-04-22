@@ -7,3 +7,4 @@
 - pkg:nuget/Tavenem.DataStore.EntityFramework@0.34.1-preview
 - pkg:nuget/Tavenem.DataStore.EntityFramework@0.35.0-preview
 - pkg:nuget/Tavenem.DataStore.EntityFramework@0.35.1-preview
+- pkg:nuget/Tavenem.DataStore.EntityFramework@0.35.2-preview
