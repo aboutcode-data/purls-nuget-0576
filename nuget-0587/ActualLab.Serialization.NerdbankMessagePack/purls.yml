@@ -3,3 +3,4 @@
 - pkg:nuget/ActualLab.Serialization.NerdbankMessagePack@12.1.128
 - pkg:nuget/ActualLab.Serialization.NerdbankMessagePack@12.1.130
 - pkg:nuget/ActualLab.Serialization.NerdbankMessagePack@12.1.98
+- pkg:nuget/ActualLab.Serialization.NerdbankMessagePack@12.3.70
