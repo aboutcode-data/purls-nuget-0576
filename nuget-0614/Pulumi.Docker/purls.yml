@@ -620,3 +620,4 @@
 - pkg:nuget/Pulumi.Docker@4.9.0-alpha.1758857639
 - pkg:nuget/Pulumi.Docker@5.0.0
 - pkg:nuget/Pulumi.Docker@5.0.0-alpha.1776776014
+- pkg:nuget/Pulumi.Docker@5.1.0-alpha.1776925580
