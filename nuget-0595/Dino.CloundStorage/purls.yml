@@ -5,3 +5,4 @@
 - pkg:nuget/Dino.CloundStorage@1.1.3%2Bfixgetifromform
 - pkg:nuget/Dino.CloundStorage@1.1.4%2Bfixgetifromform
 - pkg:nuget/Dino.CloundStorage@1.1.5%2Bfixperformants3client
+- pkg:nuget/Dino.CloundStorage@1.3.1%2Breduce-image
