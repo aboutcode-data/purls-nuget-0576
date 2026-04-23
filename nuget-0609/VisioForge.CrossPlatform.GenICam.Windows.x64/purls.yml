@@ -24,3 +24,4 @@
 - pkg:nuget/VisioForge.CrossPlatform.GenICam.Windows.x64@2025.8.2
 - pkg:nuget/VisioForge.CrossPlatform.GenICam.Windows.x64@2025.9.0
 - pkg:nuget/VisioForge.CrossPlatform.GenICam.Windows.x64@2026.3.12
+- pkg:nuget/VisioForge.CrossPlatform.GenICam.Windows.x64@2026.4.23
