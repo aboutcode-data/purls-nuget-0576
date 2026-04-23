@@ -1,1 +1,2 @@
 - pkg:nuget/CoreGame.SharedMeta.Auth.Steam@0.10.0
+- pkg:nuget/CoreGame.SharedMeta.Auth.Steam@0.12.3
