@@ -61,6 +61,7 @@
 - pkg:nuget/Microsoft.Orleans.Transactions.TestKit.Base@3.8.0-preview2
 - pkg:nuget/Microsoft.Orleans.Transactions.TestKit.Base@3.8.0-preview3
 - pkg:nuget/Microsoft.Orleans.Transactions.TestKit.Base@3.8.0-preview5
+- pkg:nuget/Microsoft.Orleans.Transactions.TestKit.Base@3.8.1
 - pkg:nuget/Microsoft.Orleans.Transactions.TestKit.Base@4.0.0-preview1
 - pkg:nuget/Microsoft.Orleans.Transactions.TestKit.Base@4.0.0-preview2
 - pkg:nuget/Microsoft.Orleans.Transactions.TestKit.Base@7.0.0

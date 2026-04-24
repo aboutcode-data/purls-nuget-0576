@@ -444,3 +444,6 @@
 - pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.19.1867-main
 - pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.19.1869-main
 - pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.19.1879-main
+- pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.19.1902-main
+- pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.19.1903-main
+- pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.19.1904-main
