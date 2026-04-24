@@ -80,5 +80,6 @@
 - pkg:nuget/Snet.Beckhoff@25.88.1
 - pkg:nuget/Snet.Beckhoff@25.88.2
 - pkg:nuget/Snet.Beckhoff@25.99.1
+- pkg:nuget/Snet.Beckhoff@26.114.1
 - pkg:nuget/Snet.Beckhoff@26.77.1
 - pkg:nuget/Snet.Beckhoff@26.78.1
