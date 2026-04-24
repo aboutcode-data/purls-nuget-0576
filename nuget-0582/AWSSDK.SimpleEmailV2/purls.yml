@@ -1007,6 +1007,7 @@
 - pkg:nuget/AWSSDK.SimpleEmailV2@3.7.509.5
 - pkg:nuget/AWSSDK.SimpleEmailV2@3.7.509.6
 - pkg:nuget/AWSSDK.SimpleEmailV2@3.7.509.7
+- pkg:nuget/AWSSDK.SimpleEmailV2@3.7.509.8
 - pkg:nuget/AWSSDK.SimpleEmailV2@4.0.0
 - pkg:nuget/AWSSDK.SimpleEmailV2@4.0.0-preview
 - pkg:nuget/AWSSDK.SimpleEmailV2@4.0.0-preview.10
