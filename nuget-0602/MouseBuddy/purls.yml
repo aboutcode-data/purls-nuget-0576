@@ -16,3 +16,5 @@
 - pkg:nuget/MouseBuddy@4.0.0
 - pkg:nuget/MouseBuddy@4.0.1
 - pkg:nuget/MouseBuddy@5.0.0
+- pkg:nuget/MouseBuddy@5.0.3
+- pkg:nuget/MouseBuddy@5.1.0
