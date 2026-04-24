@@ -65,6 +65,7 @@
 - pkg:nuget/HuaweiCloud.SDK.Geip@3.1.164
 - pkg:nuget/HuaweiCloud.SDK.Geip@3.1.186
 - pkg:nuget/HuaweiCloud.SDK.Geip@3.1.187
+- pkg:nuget/HuaweiCloud.SDK.Geip@3.1.189
 - pkg:nuget/HuaweiCloud.SDK.Geip@3.1.80
 - pkg:nuget/HuaweiCloud.SDK.Geip@3.1.81
 - pkg:nuget/HuaweiCloud.SDK.Geip@3.1.82
