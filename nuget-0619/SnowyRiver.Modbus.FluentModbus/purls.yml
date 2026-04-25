@@ -27,5 +27,6 @@
 - pkg:nuget/SnowyRiver.Modbus.FluentModbus@1.0.7
 - pkg:nuget/SnowyRiver.Modbus.FluentModbus@1.0.8
 - pkg:nuget/SnowyRiver.Modbus.FluentModbus@1.0.9
+- pkg:nuget/SnowyRiver.Modbus.FluentModbus@10.0.12
 - pkg:nuget/SnowyRiver.Modbus.FluentModbus@10.0.8
 - pkg:nuget/SnowyRiver.Modbus.FluentModbus@10.0.9
