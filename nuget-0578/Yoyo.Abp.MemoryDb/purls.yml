@@ -1,4 +1,5 @@
 - pkg:nuget/Yoyo.Abp.MemoryDb@1.0.0
+- pkg:nuget/Yoyo.Abp.MemoryDb@10.3.0
 - pkg:nuget/Yoyo.Abp.MemoryDb@6.4.0
 - pkg:nuget/Yoyo.Abp.MemoryDb@7.3.0
 - pkg:nuget/Yoyo.Abp.MemoryDb@7.3.0.10

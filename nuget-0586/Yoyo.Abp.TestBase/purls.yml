@@ -1,4 +1,5 @@
 - pkg:nuget/Yoyo.Abp.TestBase@1.0.0
+- pkg:nuget/Yoyo.Abp.TestBase@10.3.0
 - pkg:nuget/Yoyo.Abp.TestBase@6.4.0
 - pkg:nuget/Yoyo.Abp.TestBase@7.3.0
 - pkg:nuget/Yoyo.Abp.TestBase@7.3.0.10
