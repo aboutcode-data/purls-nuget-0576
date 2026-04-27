@@ -11,6 +11,7 @@
 - pkg:nuget/Laraue.Core.DataAccess.EFCore@1.0.8
 - pkg:nuget/Laraue.Core.DataAccess.EFCore@1.0.9
 - pkg:nuget/Laraue.Core.DataAccess.EFCore@10.6.1
+- pkg:nuget/Laraue.Core.DataAccess.EFCore@10.6.2
 - pkg:nuget/Laraue.Core.DataAccess.EFCore@6.0.0
 - pkg:nuget/Laraue.Core.DataAccess.EFCore@6.0.1
 - pkg:nuget/Laraue.Core.DataAccess.EFCore@6.0.2
