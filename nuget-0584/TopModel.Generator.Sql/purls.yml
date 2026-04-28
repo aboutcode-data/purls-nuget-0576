@@ -9,3 +9,5 @@
 - pkg:nuget/TopModel.Generator.Sql@1.2.1
 - pkg:nuget/TopModel.Generator.Sql@3.0.0
 - pkg:nuget/TopModel.Generator.Sql@4.1.1
+- pkg:nuget/TopModel.Generator.Sql@4.1.2
+- pkg:nuget/TopModel.Generator.Sql@4.1.3
