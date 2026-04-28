@@ -225,6 +225,7 @@
 - pkg:nuget/gomake-common-library@1.0.338
 - pkg:nuget/gomake-common-library@1.0.34
 - pkg:nuget/gomake-common-library@1.0.340
+- pkg:nuget/gomake-common-library@1.0.347
 - pkg:nuget/gomake-common-library@1.0.35
 - pkg:nuget/gomake-common-library@1.0.36
 - pkg:nuget/gomake-common-library@1.0.37
