@@ -234,3 +234,4 @@
 - pkg:nuget/Orc.NuGetExplorer.Xaml@5.3.2
 - pkg:nuget/Orc.NuGetExplorer.Xaml@5.3.3
 - pkg:nuget/Orc.NuGetExplorer.Xaml@5.4.0-alpha0249
+- pkg:nuget/Orc.NuGetExplorer.Xaml@6.0.0-alpha0097
