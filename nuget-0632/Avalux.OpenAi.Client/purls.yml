@@ -12,3 +12,4 @@
 - pkg:nuget/Avalux.OpenAi.Client@2.1.1
 - pkg:nuget/Avalux.OpenAi.Client@2.1.2
 - pkg:nuget/Avalux.OpenAi.Client@2.1.7
+- pkg:nuget/Avalux.OpenAi.Client@2.1.9
