@@ -2,3 +2,5 @@
 - pkg:nuget/kokos-me-dotnet-evodoc-compliancedossier.SDK@1.0.0-feature.integration-tests.1
 - pkg:nuget/kokos-me-dotnet-evodoc-compliancedossier.SDK@1.0.0-feature.integration-tests.2
 - pkg:nuget/kokos-me-dotnet-evodoc-compliancedossier.SDK@1.1.0-feature.refresh-token.1
+- pkg:nuget/kokos-me-dotnet-evodoc-compliancedossier.SDK@1.1.0-feature.rifiuti-guru.1
+- pkg:nuget/kokos-me-dotnet-evodoc-compliancedossier.SDK@1.1.0-feature.rifiuti-guru.2
