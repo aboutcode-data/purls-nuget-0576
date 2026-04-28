@@ -39,6 +39,8 @@
 - pkg:nuget/qawolf-socket-nuget@1.0.14
 - pkg:nuget/qawolf-socket-nuget@1.0.140
 - pkg:nuget/qawolf-socket-nuget@1.0.141
+- pkg:nuget/qawolf-socket-nuget@1.0.147
+- pkg:nuget/qawolf-socket-nuget@1.0.148
 - pkg:nuget/qawolf-socket-nuget@1.0.15
 - pkg:nuget/qawolf-socket-nuget@1.0.16
 - pkg:nuget/qawolf-socket-nuget@1.0.17
