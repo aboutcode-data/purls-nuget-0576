@@ -242,6 +242,7 @@
 - pkg:nuget/SIL.Scripture@18.0.0-beta0002
 - pkg:nuget/SIL.Scripture@18.0.0-beta0003
 - pkg:nuget/SIL.Scripture@18.0.0-beta0006
+- pkg:nuget/SIL.Scripture@18.0.0-beta0010
 - pkg:nuget/SIL.Scripture@4.2.0-alpha940
 - pkg:nuget/SIL.Scripture@7.0.0
 - pkg:nuget/SIL.Scripture@7.0.0-alpha0145
