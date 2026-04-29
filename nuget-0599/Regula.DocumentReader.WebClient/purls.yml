@@ -586,3 +586,4 @@
 - pkg:nuget/Regula.DocumentReader.WebClient@9.4.838-nightly
 - pkg:nuget/Regula.DocumentReader.WebClient@9.4.840-nightly
 - pkg:nuget/Regula.DocumentReader.WebClient@9.4.853-nightly
+- pkg:nuget/Regula.DocumentReader.WebClient@9.4.855
