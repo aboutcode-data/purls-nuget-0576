@@ -1,4 +1,5 @@
 - pkg:nuget/KamiSama.Extensions.Json@10.0.0
+- pkg:nuget/KamiSama.Extensions.Json@10.0.7
 - pkg:nuget/KamiSama.Extensions.Json@2.0.2
 - pkg:nuget/KamiSama.Extensions.Json@2.1.0
 - pkg:nuget/KamiSama.Extensions.Json@2.1.1
