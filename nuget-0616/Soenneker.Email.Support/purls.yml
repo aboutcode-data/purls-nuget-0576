@@ -53,6 +53,7 @@
 - pkg:nuget/Soenneker.Email.Support@4.0.202
 - pkg:nuget/Soenneker.Email.Support@4.0.203
 - pkg:nuget/Soenneker.Email.Support@4.0.204
+- pkg:nuget/Soenneker.Email.Support@4.0.221
 - pkg:nuget/Soenneker.Email.Support@4.0.53
 - pkg:nuget/Soenneker.Email.Support@4.0.61
 - pkg:nuget/Soenneker.Email.Support@4.0.73
