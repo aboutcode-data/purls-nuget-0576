@@ -88,5 +88,6 @@
 - pkg:nuget/Xfeed.Infrastructure.Common@1.20260501.300
 - pkg:nuget/Xfeed.Infrastructure.Common@1.20260502.1400
 - pkg:nuget/Xfeed.Infrastructure.Common@1.20260502.200
+- pkg:nuget/Xfeed.Infrastructure.Common@1.20260502.2200
 - pkg:nuget/Xfeed.Infrastructure.Common@1.20260502.230
 - pkg:nuget/Xfeed.Infrastructure.Common@1.20260502.300
