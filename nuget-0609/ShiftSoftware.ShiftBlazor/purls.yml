@@ -316,3 +316,5 @@
 - pkg:nuget/ShiftSoftware.ShiftBlazor@2026.4.10.5
 - pkg:nuget/ShiftSoftware.ShiftBlazor@2026.4.28.2
 - pkg:nuget/ShiftSoftware.ShiftBlazor@2026.4.8.1
+- pkg:nuget/ShiftSoftware.ShiftBlazor@2026.5.3.2
+- pkg:nuget/ShiftSoftware.ShiftBlazor@2026.5.3.3

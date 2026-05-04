@@ -26,6 +26,7 @@
 - pkg:nuget/DotNet.Basics.Pipelines@11.7.1
 - pkg:nuget/DotNet.Basics.Pipelines@11.7.2
 - pkg:nuget/DotNet.Basics.Pipelines@12.0.0
+- pkg:nuget/DotNet.Basics.Pipelines@12.11.0
 - pkg:nuget/DotNet.Basics.Pipelines@9.0.0-rc.2%2Bdf84b4b
 - pkg:nuget/DotNet.Basics.Pipelines@9.0.0-rc.3%2Bc3817c2
 - pkg:nuget/DotNet.Basics.Pipelines@9.0.0-rc.4%2B19221ce
