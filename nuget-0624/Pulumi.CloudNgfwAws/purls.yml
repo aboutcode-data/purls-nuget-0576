@@ -147,3 +147,4 @@
 - pkg:nuget/Pulumi.CloudNgfwAws@1.1.0-alpha.1774760201
 - pkg:nuget/Pulumi.CloudNgfwAws@1.1.0-alpha.1774889889
 - pkg:nuget/Pulumi.CloudNgfwAws@1.1.0-alpha.1776751310
+- pkg:nuget/Pulumi.CloudNgfwAws@2.1.0-alpha.1777875619

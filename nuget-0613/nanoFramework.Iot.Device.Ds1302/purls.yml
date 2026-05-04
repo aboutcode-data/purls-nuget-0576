@@ -31,3 +31,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Ds1302@1.0.802
 - pkg:nuget/nanoFramework.Iot.Device.Ds1302@1.0.86
 - pkg:nuget/nanoFramework.Iot.Device.Ds1302@1.0.92
+- pkg:nuget/nanoFramework.Iot.Device.Ds1302@2.0.0-preview.49

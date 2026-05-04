@@ -73,3 +73,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.A4988@1.1.87
 - pkg:nuget/nanoFramework.Iot.Device.A4988@1.1.889
 - pkg:nuget/nanoFramework.Iot.Device.A4988@1.1.95
+- pkg:nuget/nanoFramework.Iot.Device.A4988@2.0.0-preview.49
