@@ -46,3 +46,4 @@
 - pkg:nuget/Dcorp.Kafka@1.4.5
 - pkg:nuget/Dcorp.Kafka@1.4.6
 - pkg:nuget/Dcorp.Kafka@1.4.7
+- pkg:nuget/Dcorp.Kafka@1.5.1
