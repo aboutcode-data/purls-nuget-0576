@@ -1,2 +1,17 @@
+- pkg:nuget/Asterisk.Sdk.Push@1.10.0
+- pkg:nuget/Asterisk.Sdk.Push@1.10.1
+- pkg:nuget/Asterisk.Sdk.Push@1.10.2
+- pkg:nuget/Asterisk.Sdk.Push@1.11.0
+- pkg:nuget/Asterisk.Sdk.Push@1.11.1
 - pkg:nuget/Asterisk.Sdk.Push@1.12.0
+- pkg:nuget/Asterisk.Sdk.Push@1.13.0
+- pkg:nuget/Asterisk.Sdk.Push@1.14.0
+- pkg:nuget/Asterisk.Sdk.Push@1.15.0
+- pkg:nuget/Asterisk.Sdk.Push@1.15.1
+- pkg:nuget/Asterisk.Sdk.Push@1.15.2
+- pkg:nuget/Asterisk.Sdk.Push@1.15.3
+- pkg:nuget/Asterisk.Sdk.Push@1.6.0
+- pkg:nuget/Asterisk.Sdk.Push@1.7.0
+- pkg:nuget/Asterisk.Sdk.Push@1.8.0
 - pkg:nuget/Asterisk.Sdk.Push@1.8.1
+- pkg:nuget/Asterisk.Sdk.Push@1.9.0
