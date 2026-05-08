@@ -4,6 +4,7 @@
 - pkg:nuget/Zespy.Di.Client@0.10.2
 - pkg:nuget/Zespy.Di.Client@0.10.3
 - pkg:nuget/Zespy.Di.Client@0.10.5
+- pkg:nuget/Zespy.Di.Client@0.107.0
 - pkg:nuget/Zespy.Di.Client@0.11.0
 - pkg:nuget/Zespy.Di.Client@0.11.0-alpha.1
 - pkg:nuget/Zespy.Di.Client@0.11.0-alpha.2
