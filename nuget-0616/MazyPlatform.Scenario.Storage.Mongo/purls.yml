@@ -1,1 +1,2 @@
 - pkg:nuget/MazyPlatform.Scenario.Storage.Mongo@0.1.0-preview
+- pkg:nuget/MazyPlatform.Scenario.Storage.Mongo@0.3.11-preview
