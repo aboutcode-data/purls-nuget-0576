@@ -143,3 +143,4 @@
 - pkg:nuget/Orc.Theming@5.2.2-beta0001
 - pkg:nuget/Orc.Theming@5.3.0
 - pkg:nuget/Orc.Theming@5.3.1
+- pkg:nuget/Orc.Theming@6.0.0-alpha0152
