@@ -21,3 +21,4 @@
 - pkg:nuget/Zafiro.Avalonia.Generators@51.2.1
 - pkg:nuget/Zafiro.Avalonia.Generators@51.2.2
 - pkg:nuget/Zafiro.Avalonia.Generators@51.3.0
+- pkg:nuget/Zafiro.Avalonia.Generators@52.0.4
