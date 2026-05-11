@@ -373,3 +373,4 @@
 - pkg:nuget/InfluxDB.Client.Linq@4.9.0-dev.9617
 - pkg:nuget/InfluxDB.Client.Linq@4.9.0-dev.9666
 - pkg:nuget/InfluxDB.Client.Linq@4.9.0-dev.9684
+- pkg:nuget/InfluxDB.Client.Linq@5.1.0-dev.17405

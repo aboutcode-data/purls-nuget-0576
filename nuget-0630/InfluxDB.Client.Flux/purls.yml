@@ -472,3 +472,5 @@
 - pkg:nuget/InfluxDB.Client.Flux@4.9.0-dev.9617
 - pkg:nuget/InfluxDB.Client.Flux@4.9.0-dev.9666
 - pkg:nuget/InfluxDB.Client.Flux@4.9.0-dev.9684
+- pkg:nuget/InfluxDB.Client.Flux@5.1.0-dev.17386
+- pkg:nuget/InfluxDB.Client.Flux@5.1.0-dev.17405
