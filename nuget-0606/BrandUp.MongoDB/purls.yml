@@ -12,6 +12,7 @@
 - pkg:nuget/BrandUp.MongoDB@1.0.17
 - pkg:nuget/BrandUp.MongoDB@1.0.18
 - pkg:nuget/BrandUp.MongoDB@1.0.19
+- pkg:nuget/BrandUp.MongoDB@10.0.8
 - pkg:nuget/BrandUp.MongoDB@2.0.10
 - pkg:nuget/BrandUp.MongoDB@2.0.11
 - pkg:nuget/BrandUp.MongoDB@2.0.12
