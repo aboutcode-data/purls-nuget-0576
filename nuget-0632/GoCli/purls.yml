@@ -17,3 +17,5 @@
 - pkg:nuget/GoCli@7.16.0
 - pkg:nuget/GoCli@7.18.0
 - pkg:nuget/GoCli@7.19.1
+- pkg:nuget/GoCli@7.20.0
+- pkg:nuget/GoCli@7.21.0
