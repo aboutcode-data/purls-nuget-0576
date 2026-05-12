@@ -15,6 +15,8 @@
 - pkg:nuget/Sharlayan@8.0.0
 - pkg:nuget/Sharlayan@8.0.1
 - pkg:nuget/Sharlayan@9.0.23-prerelease.34
+- pkg:nuget/Sharlayan@9.0.34
+- pkg:nuget/Sharlayan@9.0.34-prerelease.45
 - pkg:nuget/Sharlayan@9.0.4-prerelease.17
 - pkg:nuget/Sharlayan@9.0.4-prerelease.18
 - pkg:nuget/Sharlayan@9.0.5-prerelease.19
