@@ -1,3 +1,4 @@
 - pkg:nuget/Galosys.Foundation.ZooKeeperNetEx@25.10.30.5
 - pkg:nuget/Galosys.Foundation.ZooKeeperNetEx@25.11.21.1-rc
 - pkg:nuget/Galosys.Foundation.ZooKeeperNetEx@26.4.22.2-rc7
+- pkg:nuget/Galosys.Foundation.ZooKeeperNetEx@26.5.12.3
