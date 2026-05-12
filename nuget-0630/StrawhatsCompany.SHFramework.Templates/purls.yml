@@ -1,1 +1,4 @@
 - pkg:nuget/StrawhatsCompany.SHFramework.Templates@1.0.0
+- pkg:nuget/StrawhatsCompany.SHFramework.Templates@3.6.0
+- pkg:nuget/StrawhatsCompany.SHFramework.Templates@3.7.0
+- pkg:nuget/StrawhatsCompany.SHFramework.Templates@3.8.0
