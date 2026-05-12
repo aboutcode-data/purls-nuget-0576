@@ -21,3 +21,4 @@
 - pkg:nuget/Taskurai.AspNetCore@2.5.19
 - pkg:nuget/Taskurai.AspNetCore@2.5.20
 - pkg:nuget/Taskurai.AspNetCore@2.5.21
+- pkg:nuget/Taskurai.AspNetCore@2.5.26
