@@ -6,3 +6,5 @@
 - pkg:nuget/WarpToolkit.Analyzer.WinForms.CSharp@0.8.201-preview.g8db4268a9a
 - pkg:nuget/WarpToolkit.Analyzer.WinForms.CSharp@0.8.208-preview.g44e7bd6611
 - pkg:nuget/WarpToolkit.Analyzer.WinForms.CSharp@0.8.209-preview.gb713f3ef9e
+- pkg:nuget/WarpToolkit.Analyzer.WinForms.CSharp@0.9.4-preview.g63cb3ff0fc
+- pkg:nuget/WarpToolkit.Analyzer.WinForms.CSharp@0.9.5-preview.gf04d2183ff
