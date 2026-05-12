@@ -1,1 +1,2 @@
 - pkg:nuget/Aspire.Hosting.OpenAI@13.2.1
+- pkg:nuget/Aspire.Hosting.OpenAI@13.3.1
