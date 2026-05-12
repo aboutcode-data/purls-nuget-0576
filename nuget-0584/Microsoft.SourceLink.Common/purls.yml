@@ -16,4 +16,5 @@
 - pkg:nuget/Microsoft.SourceLink.Common@10.0.107
 - pkg:nuget/Microsoft.SourceLink.Common@10.0.203
 - pkg:nuget/Microsoft.SourceLink.Common@11.0.100-preview.1.26104.118
+- pkg:nuget/Microsoft.SourceLink.Common@11.0.100-preview.4.26230.115
 - pkg:nuget/Microsoft.SourceLink.Common@8.0.0

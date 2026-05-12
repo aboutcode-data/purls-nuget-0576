@@ -225,3 +225,4 @@
 - pkg:nuget/Contrast.NET.Azure.SiteExtension@51.2.5
 - pkg:nuget/Contrast.NET.Azure.SiteExtension@51.3.0
 - pkg:nuget/Contrast.NET.Azure.SiteExtension@51.3.1
+- pkg:nuget/Contrast.NET.Azure.SiteExtension@51.5.8

@@ -47,6 +47,7 @@
 - pkg:nuget/OCI.DotNetSDK.Loganalytics@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Loganalytics@13.0.0
 - pkg:nuget/OCI.DotNetSDK.Loganalytics@130.0.0
+- pkg:nuget/OCI.DotNetSDK.Loganalytics@135.0.0
 - pkg:nuget/OCI.DotNetSDK.Loganalytics@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Loganalytics@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Loganalytics@14.2.0
