@@ -32,3 +32,4 @@
 - pkg:nuget/ErikEJ.DacFX.SqlServer.Rules@3.0.0-preview.3
 - pkg:nuget/ErikEJ.DacFX.SqlServer.Rules@3.0.0-preview.4
 - pkg:nuget/ErikEJ.DacFX.SqlServer.Rules@4.0.0
+- pkg:nuget/ErikEJ.DacFX.SqlServer.Rules@5.0.0
