@@ -46,6 +46,7 @@
 - pkg:nuget/CryptoClients.Net@3.9.1
 - pkg:nuget/CryptoClients.Net@4.0.0
 - pkg:nuget/CryptoClients.Net@4.0.1
+- pkg:nuget/CryptoClients.Net@4.10.0
 - pkg:nuget/CryptoClients.Net@4.2.0
 - pkg:nuget/CryptoClients.Net@4.6.0
 - pkg:nuget/CryptoClients.Net@4.9.1
