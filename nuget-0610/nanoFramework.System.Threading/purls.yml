@@ -46,3 +46,4 @@
 - pkg:nuget/nanoFramework.System.Threading@1.1.50
 - pkg:nuget/nanoFramework.System.Threading@1.1.52
 - pkg:nuget/nanoFramework.System.Threading@1.1.8
+- pkg:nuget/nanoFramework.System.Threading@2.0.0-preview.11
