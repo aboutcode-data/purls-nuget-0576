@@ -4,3 +4,4 @@
 - pkg:nuget/DotnetFleet.Worker@0.0.57
 - pkg:nuget/DotnetFleet.Worker@0.0.79
 - pkg:nuget/DotnetFleet.Worker@0.0.9
+- pkg:nuget/DotnetFleet.Worker@0.1.11
