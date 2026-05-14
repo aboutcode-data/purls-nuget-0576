@@ -14,3 +14,4 @@
 - pkg:nuget/SmartSql.Bulk.MsSqlServer@4.1.65
 - pkg:nuget/SmartSql.Bulk.MsSqlServer@4.1.66
 - pkg:nuget/SmartSql.Bulk.MsSqlServer@4.1.67
+- pkg:nuget/SmartSql.Bulk.MsSqlServer@4.2.0
