@@ -557,6 +557,7 @@
 - pkg:nuget/AWSSDK.ResourceExplorer2@3.7.503.23
 - pkg:nuget/AWSSDK.ResourceExplorer2@3.7.503.24
 - pkg:nuget/AWSSDK.ResourceExplorer2@3.7.503.25
+- pkg:nuget/AWSSDK.ResourceExplorer2@3.7.503.27
 - pkg:nuget/AWSSDK.ResourceExplorer2@3.7.503.8
 - pkg:nuget/AWSSDK.ResourceExplorer2@4.0.0
 - pkg:nuget/AWSSDK.ResourceExplorer2@4.0.0-preview
