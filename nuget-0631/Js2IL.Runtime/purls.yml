@@ -1,2 +1,3 @@
+- pkg:nuget/Js2IL.Runtime@0.9.17
 - pkg:nuget/Js2IL.Runtime@0.9.5
 - pkg:nuget/Js2IL.Runtime@0.9.6
