@@ -989,3 +989,4 @@
 - pkg:nuget/AWSSDK.Synthetics@4.0.8.20
 - pkg:nuget/AWSSDK.Synthetics@4.0.8.21
 - pkg:nuget/AWSSDK.Synthetics@4.0.8.22
+- pkg:nuget/AWSSDK.Synthetics@4.0.8.31
