@@ -1,1 +1,2 @@
 - pkg:nuget/Dmart.SqlAdapter@0.9.0
+- pkg:nuget/Dmart.SqlAdapter@0.9.5
