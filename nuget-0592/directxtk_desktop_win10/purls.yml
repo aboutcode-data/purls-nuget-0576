@@ -29,6 +29,7 @@
 - pkg:nuget/directxtk_desktop_win10@2024.2.22.1
 - pkg:nuget/directxtk_desktop_win10@2024.6.5.1
 - pkg:nuget/directxtk_desktop_win10@2024.9.5.1
+- pkg:nuget/directxtk_desktop_win10@2025.10.28.2
 - pkg:nuget/directxtk_desktop_win10@2025.3.21.2
 - pkg:nuget/directxtk_desktop_win10@2025.7.10.1
 - pkg:nuget/directxtk_desktop_win10@2026.4.1.1
