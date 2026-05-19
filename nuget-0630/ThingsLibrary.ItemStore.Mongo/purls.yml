@@ -1,1 +1,2 @@
 - pkg:nuget/ThingsLibrary.ItemStore.Mongo@0.5.8
+- pkg:nuget/ThingsLibrary.ItemStore.Mongo@0.7.4
