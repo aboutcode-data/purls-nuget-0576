@@ -36,7 +36,9 @@
 - pkg:nuget/Std.UriTemplate@1.0.6
 - pkg:nuget/Std.UriTemplate@2.0.0
 - pkg:nuget/Std.UriTemplate@2.0.1
+- pkg:nuget/Std.UriTemplate@2.0.10
 - pkg:nuget/Std.UriTemplate@2.0.2
 - pkg:nuget/Std.UriTemplate@2.0.3
 - pkg:nuget/Std.UriTemplate@2.0.4
 - pkg:nuget/Std.UriTemplate@2.0.5
+- pkg:nuget/Std.UriTemplate@2.0.9
