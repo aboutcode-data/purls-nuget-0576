@@ -597,6 +597,8 @@
 - pkg:nuget/Uno.UI.HotDesign@1.2.0-dev.97
 - pkg:nuget/Uno.UI.HotDesign@1.2.1
 - pkg:nuget/Uno.UI.HotDesign@1.20.0-dev.101
+- pkg:nuget/Uno.UI.HotDesign@1.20.0-dev.141
+- pkg:nuget/Uno.UI.HotDesign@1.20.0-dev.143
 - pkg:nuget/Uno.UI.HotDesign@1.20.0-dev.4
 - pkg:nuget/Uno.UI.HotDesign@1.20.0-dev.6
 - pkg:nuget/Uno.UI.HotDesign@1.20.0-dev.68
