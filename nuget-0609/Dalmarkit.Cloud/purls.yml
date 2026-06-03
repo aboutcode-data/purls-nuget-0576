@@ -59,3 +59,5 @@
 - pkg:nuget/Dalmarkit.Cloud@0.8.15-alpha.113
 - pkg:nuget/Dalmarkit.Cloud@0.9.1-alpha.117
 - pkg:nuget/Dalmarkit.Cloud@0.9.3-alpha.122
+- pkg:nuget/Dalmarkit.Cloud@0.9.5
+- pkg:nuget/Dalmarkit.Cloud@0.9.6
