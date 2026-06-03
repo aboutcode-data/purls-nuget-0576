@@ -60,3 +60,4 @@
 - pkg:nuget/MK.Hangfire.Redis@9.0.3
 - pkg:nuget/MK.Hangfire.Redis@9.0.3.1
 - pkg:nuget/MK.Hangfire.Redis@9.0.3.2
+- pkg:nuget/MK.Hangfire.Redis@9.0.3.5
