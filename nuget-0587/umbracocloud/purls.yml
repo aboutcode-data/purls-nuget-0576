@@ -24,6 +24,7 @@
 - pkg:nuget/umbracocloud@16.2.0
 - pkg:nuget/umbracocloud@16.3.0
 - pkg:nuget/umbracocloud@16.4.0
+- pkg:nuget/umbracocloud@17.4.0
 - pkg:nuget/umbracocloud@2.0.0
 - pkg:nuget/umbracocloud@3.0.0
 - pkg:nuget/umbracocloud@4.0.0
