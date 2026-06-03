@@ -6,3 +6,5 @@
 - pkg:nuget/CSharpEssentials.LoggerHelper.Sink.Email@3.1.6
 - pkg:nuget/CSharpEssentials.LoggerHelper.Sink.Email@4.0.0
 - pkg:nuget/CSharpEssentials.LoggerHelper.Sink.Email@4.0.2
+- pkg:nuget/CSharpEssentials.LoggerHelper.Sink.Email@5.0.2
+- pkg:nuget/CSharpEssentials.LoggerHelper.Sink.Email@5.0.3
