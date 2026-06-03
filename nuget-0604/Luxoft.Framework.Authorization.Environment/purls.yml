@@ -213,3 +213,6 @@
 - pkg:nuget/Luxoft.Framework.Authorization.Environment@25.3.0
 - pkg:nuget/Luxoft.Framework.Authorization.Environment@25.4.1
 - pkg:nuget/Luxoft.Framework.Authorization.Environment@25.5.0
+- pkg:nuget/Luxoft.Framework.Authorization.Environment@27.1.2
+- pkg:nuget/Luxoft.Framework.Authorization.Environment@27.2.1
+- pkg:nuget/Luxoft.Framework.Authorization.Environment@27.2.6

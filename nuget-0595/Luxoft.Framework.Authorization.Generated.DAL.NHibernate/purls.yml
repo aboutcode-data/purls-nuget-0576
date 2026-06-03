@@ -266,3 +266,5 @@
 - pkg:nuget/Luxoft.Framework.Authorization.Generated.DAL.NHibernate@25.3.0
 - pkg:nuget/Luxoft.Framework.Authorization.Generated.DAL.NHibernate@25.4.1
 - pkg:nuget/Luxoft.Framework.Authorization.Generated.DAL.NHibernate@25.5.0
+- pkg:nuget/Luxoft.Framework.Authorization.Generated.DAL.NHibernate@27.1.2
+- pkg:nuget/Luxoft.Framework.Authorization.Generated.DAL.NHibernate@27.2.1
