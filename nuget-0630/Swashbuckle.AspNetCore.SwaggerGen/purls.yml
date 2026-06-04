@@ -6,6 +6,7 @@
 - pkg:nuget/Swashbuckle.AspNetCore.SwaggerGen@1.1.0
 - pkg:nuget/Swashbuckle.AspNetCore.SwaggerGen@1.2.0
 - pkg:nuget/Swashbuckle.AspNetCore.SwaggerGen@10.1.7
+- pkg:nuget/Swashbuckle.AspNetCore.SwaggerGen@10.2.1
 - pkg:nuget/Swashbuckle.AspNetCore.SwaggerGen@2.0.0
 - pkg:nuget/Swashbuckle.AspNetCore.SwaggerGen@2.1.0
 - pkg:nuget/Swashbuckle.AspNetCore.SwaggerGen@2.1.1
