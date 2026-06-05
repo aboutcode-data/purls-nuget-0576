@@ -459,3 +459,4 @@
 - pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.19.2030-add-unit-tests
 - pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.19.2031-add-unit-tests
 - pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.19.2032-main
+- pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.19.2048-coverage-funfai
