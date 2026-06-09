@@ -231,6 +231,7 @@
 - pkg:nuget/Microsoft.AspNetCore.Authorization@9.0.12
 - pkg:nuget/Microsoft.AspNetCore.Authorization@9.0.13
 - pkg:nuget/Microsoft.AspNetCore.Authorization@9.0.16
+- pkg:nuget/Microsoft.AspNetCore.Authorization@9.0.17
 - pkg:nuget/Microsoft.AspNetCore.Authorization@9.0.2
 - pkg:nuget/Microsoft.AspNetCore.Authorization@9.0.3
 - pkg:nuget/Microsoft.AspNetCore.Authorization@9.0.4
