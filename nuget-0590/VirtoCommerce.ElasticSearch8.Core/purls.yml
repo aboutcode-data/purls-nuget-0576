@@ -1,6 +1,7 @@
 - pkg:nuget/VirtoCommerce.ElasticSearch8.Core@3.1000.1
 - pkg:nuget/VirtoCommerce.ElasticSearch8.Core@3.1002.0
 - pkg:nuget/VirtoCommerce.ElasticSearch8.Core@3.1003.0
+- pkg:nuget/VirtoCommerce.ElasticSearch8.Core@3.1006.0
 - pkg:nuget/VirtoCommerce.ElasticSearch8.Core@3.200.0
 - pkg:nuget/VirtoCommerce.ElasticSearch8.Core@3.200.0-alpha.44
 - pkg:nuget/VirtoCommerce.ElasticSearch8.Core@3.201.0
