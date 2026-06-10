@@ -83,3 +83,4 @@
 - pkg:nuget/Xamarin.Kotlin.StdLib@2.2.0
 - pkg:nuget/Xamarin.Kotlin.StdLib@2.2.0.1
 - pkg:nuget/Xamarin.Kotlin.StdLib@2.2.10
+- pkg:nuget/Xamarin.Kotlin.StdLib@2.4.0
