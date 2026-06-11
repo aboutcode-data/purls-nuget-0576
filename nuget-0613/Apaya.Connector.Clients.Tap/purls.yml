@@ -34,3 +34,5 @@
 - pkg:nuget/Apaya.Connector.Clients.Tap@1.1.4
 - pkg:nuget/Apaya.Connector.Clients.Tap@1.1.5
 - pkg:nuget/Apaya.Connector.Clients.Tap@1.1.9
+- pkg:nuget/Apaya.Connector.Clients.Tap@1.2.0
+- pkg:nuget/Apaya.Connector.Clients.Tap@1.3.0
