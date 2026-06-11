@@ -80,4 +80,8 @@
 - pkg:nuget/Parlem.ShoppingCart.Cdm@8.0.7
 - pkg:nuget/Parlem.ShoppingCart.Cdm@8.0.8
 - pkg:nuget/Parlem.ShoppingCart.Cdm@8.0.9
+- pkg:nuget/Parlem.ShoppingCart.Cdm@8.1.10-beta1
+- pkg:nuget/Parlem.ShoppingCart.Cdm@8.1.10-beta2
+- pkg:nuget/Parlem.ShoppingCart.Cdm@8.1.10-beta3
 - pkg:nuget/Parlem.ShoppingCart.Cdm@8.1.6
+- pkg:nuget/Parlem.ShoppingCart.Cdm@8.1.9
