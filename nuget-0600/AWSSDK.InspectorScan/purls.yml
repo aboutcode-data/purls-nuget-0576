@@ -382,3 +382,4 @@
 - pkg:nuget/AWSSDK.InspectorScan@4.0.3.13
 - pkg:nuget/AWSSDK.InspectorScan@4.0.3.14
 - pkg:nuget/AWSSDK.InspectorScan@4.0.3.22
+- pkg:nuget/AWSSDK.InspectorScan@4.0.4.4

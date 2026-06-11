@@ -1117,3 +1117,4 @@
 - pkg:nuget/AWSSDK.PersonalizeRuntime@4.0.1.23
 - pkg:nuget/AWSSDK.PersonalizeRuntime@4.0.1.24
 - pkg:nuget/AWSSDK.PersonalizeRuntime@4.0.1.32
+- pkg:nuget/AWSSDK.PersonalizeRuntime@4.0.2.3

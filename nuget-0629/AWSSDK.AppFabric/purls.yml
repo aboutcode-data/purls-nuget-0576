@@ -464,3 +464,4 @@
 - pkg:nuget/AWSSDK.AppFabric@4.0.2.23
 - pkg:nuget/AWSSDK.AppFabric@4.0.2.32
 - pkg:nuget/AWSSDK.AppFabric@4.0.2.34
+- pkg:nuget/AWSSDK.AppFabric@4.0.3.3
