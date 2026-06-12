@@ -166,4 +166,5 @@
 - pkg:nuget/WireMock.Net.Matchers.CSharpCode@1.9.0
 - pkg:nuget/WireMock.Net.Matchers.CSharpCode@1.9.1
 - pkg:nuget/WireMock.Net.Matchers.CSharpCode@2.1.0
+- pkg:nuget/WireMock.Net.Matchers.CSharpCode@2.11.0
 - pkg:nuget/WireMock.Net.Matchers.CSharpCode@2.2.0
