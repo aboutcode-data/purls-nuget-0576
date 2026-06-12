@@ -68,7 +68,10 @@
 - pkg:nuget/SIL.NuGetCleaner@1.4.1-beta.115
 - pkg:nuget/SIL.NuGetCleaner@1.4.1-beta.116
 - pkg:nuget/SIL.NuGetCleaner@1.4.1-beta.12
+- pkg:nuget/SIL.NuGetCleaner@1.4.1-beta.128
+- pkg:nuget/SIL.NuGetCleaner@1.4.1-beta.129
 - pkg:nuget/SIL.NuGetCleaner@1.4.1-beta.13
+- pkg:nuget/SIL.NuGetCleaner@1.4.1-beta.130
 - pkg:nuget/SIL.NuGetCleaner@1.4.1-beta.14
 - pkg:nuget/SIL.NuGetCleaner@1.4.1-beta.15
 - pkg:nuget/SIL.NuGetCleaner@1.4.1-beta.16
