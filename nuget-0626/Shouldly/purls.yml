@@ -57,3 +57,4 @@
 - pkg:nuget/Shouldly@4.2.0
 - pkg:nuget/Shouldly@4.2.1
 - pkg:nuget/Shouldly@4.3.0
+- pkg:nuget/Shouldly@5.0.0-preview.1
