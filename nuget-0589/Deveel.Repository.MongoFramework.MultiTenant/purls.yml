@@ -1,2 +1,3 @@
 - pkg:nuget/Deveel.Repository.MongoFramework.MultiTenant@1.4.2
 - pkg:nuget/Deveel.Repository.MongoFramework.MultiTenant@1.4.3
+- pkg:nuget/Deveel.Repository.MongoFramework.MultiTenant@1.5.1

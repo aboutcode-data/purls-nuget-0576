@@ -1,5 +1,8 @@
+- pkg:nuget/SweetMock.BaseFiles@0.9.37
 - pkg:nuget/SweetMock.BaseFiles@0.9.37.1
 - pkg:nuget/SweetMock.BaseFiles@0.9.38
 - pkg:nuget/SweetMock.BaseFiles@0.9.39-RC1
 - pkg:nuget/SweetMock.BaseFiles@0.9.40
 - pkg:nuget/SweetMock.BaseFiles@0.9.40-RC2
+- pkg:nuget/SweetMock.BaseFiles@0.9.41
+- pkg:nuget/SweetMock.BaseFiles@0.9.42-RC2
