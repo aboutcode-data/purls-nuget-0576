@@ -14,3 +14,4 @@
 - pkg:nuget/eArpc@0.0.7-alpha
 - pkg:nuget/eArpc@0.0.8-alpha
 - pkg:nuget/eArpc@0.0.9-alpha
+- pkg:nuget/eArpc@2.0.3
