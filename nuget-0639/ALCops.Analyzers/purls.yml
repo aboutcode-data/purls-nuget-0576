@@ -1,3 +1,4 @@
+- pkg:nuget/ALCops.Analyzers@0.10.0-alpha.2
 - pkg:nuget/ALCops.Analyzers@0.2.0-beta.1
 - pkg:nuget/ALCops.Analyzers@0.2.0-beta.10
 - pkg:nuget/ALCops.Analyzers@0.3.0-beta.100
@@ -46,3 +47,7 @@
 - pkg:nuget/ALCops.Analyzers@0.7.0-beta.1
 - pkg:nuget/ALCops.Analyzers@0.8.0
 - pkg:nuget/ALCops.Analyzers@0.8.0-beta.1
+- pkg:nuget/ALCops.Analyzers@0.8.4
+- pkg:nuget/ALCops.Analyzers@0.9.0-alpha.2
+- pkg:nuget/ALCops.Analyzers@0.9.0-alpha.3
+- pkg:nuget/ALCops.Analyzers@0.9.0-beta.2
