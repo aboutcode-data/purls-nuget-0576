@@ -155,6 +155,7 @@
 - pkg:nuget/Senparc.Weixin.WxOpen@3.23.8.1
 - pkg:nuget/Senparc.Weixin.WxOpen@3.23.9
 - pkg:nuget/Senparc.Weixin.WxOpen@3.24.0-preview.10
+- pkg:nuget/Senparc.Weixin.WxOpen@3.26.1
 - pkg:nuget/Senparc.Weixin.WxOpen@3.3.0
 - pkg:nuget/Senparc.Weixin.WxOpen@3.3.0-preview1
 - pkg:nuget/Senparc.Weixin.WxOpen@3.3.0-preview3
