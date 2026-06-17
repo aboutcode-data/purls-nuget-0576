@@ -46,6 +46,7 @@
 - pkg:nuget/HighTechInnovators.RxDatasets.StorageProvider.AzBlob@0.12.3-dev.1-gcsratefix.1
 - pkg:nuget/HighTechInnovators.RxDatasets.StorageProvider.AzBlob@0.13.0-dev.6
 - pkg:nuget/HighTechInnovators.RxDatasets.StorageProvider.AzBlob@0.17.0
+- pkg:nuget/HighTechInnovators.RxDatasets.StorageProvider.AzBlob@0.18.0-dev.12.pass-sla-and-trackingid.2
 - pkg:nuget/HighTechInnovators.RxDatasets.StorageProvider.AzBlob@0.18.0-dev.7
 - pkg:nuget/HighTechInnovators.RxDatasets.StorageProvider.AzBlob@0.18.0-dev.8.bigtable-and-hierarchy.37
 - pkg:nuget/HighTechInnovators.RxDatasets.StorageProvider.AzBlob@0.18.0-dev.8.bigtable-and-hierarchy.38
