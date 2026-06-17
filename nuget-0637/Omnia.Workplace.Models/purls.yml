@@ -1179,6 +1179,7 @@
 - pkg:nuget/Omnia.Workplace.Models@7.10.0-preview.7
 - pkg:nuget/Omnia.Workplace.Models@7.10.0-preview.8
 - pkg:nuget/Omnia.Workplace.Models@7.10.0-preview.9
+- pkg:nuget/Omnia.Workplace.Models@7.11.14
 - pkg:nuget/Omnia.Workplace.Models@7.5.0
 - pkg:nuget/Omnia.Workplace.Models@7.5.1
 - pkg:nuget/Omnia.Workplace.Models@7.5.1-dev
