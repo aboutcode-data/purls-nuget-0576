@@ -10,6 +10,7 @@
 - pkg:nuget/Expecto.Hopac@11.0.0-alpha6
 - pkg:nuget/Expecto.Hopac@11.0.0-alpha7
 - pkg:nuget/Expecto.Hopac@11.0.0-alpha8
+- pkg:nuget/Expecto.Hopac@11.1.0
 - pkg:nuget/Expecto.Hopac@7.0.0
 - pkg:nuget/Expecto.Hopac@7.0.1
 - pkg:nuget/Expecto.Hopac@8.0.0
