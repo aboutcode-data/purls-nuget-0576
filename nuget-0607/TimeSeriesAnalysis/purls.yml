@@ -57,6 +57,7 @@
 - pkg:nuget/TimeSeriesAnalysis@1.4.29
 - pkg:nuget/TimeSeriesAnalysis@1.4.3
 - pkg:nuget/TimeSeriesAnalysis@1.4.30
+- pkg:nuget/TimeSeriesAnalysis@1.4.38
 - pkg:nuget/TimeSeriesAnalysis@1.4.4
 - pkg:nuget/TimeSeriesAnalysis@1.4.5
 - pkg:nuget/TimeSeriesAnalysis@1.4.6
