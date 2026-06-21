@@ -36,5 +36,13 @@
 - pkg:nuget/CosmoSQLClient.CosmoKv.Cli@6.4.1
 - pkg:nuget/CosmoSQLClient.CosmoKv.Cli@6.4.2
 - pkg:nuget/CosmoSQLClient.CosmoKv.Cli@6.40.0
+- pkg:nuget/CosmoSQLClient.CosmoKv.Cli@6.48.1
+- pkg:nuget/CosmoSQLClient.CosmoKv.Cli@6.48.13
+- pkg:nuget/CosmoSQLClient.CosmoKv.Cli@6.48.14
+- pkg:nuget/CosmoSQLClient.CosmoKv.Cli@6.48.21
+- pkg:nuget/CosmoSQLClient.CosmoKv.Cli@6.48.22
+- pkg:nuget/CosmoSQLClient.CosmoKv.Cli@6.48.6
+- pkg:nuget/CosmoSQLClient.CosmoKv.Cli@6.48.7
+- pkg:nuget/CosmoSQLClient.CosmoKv.Cli@6.48.8
 - pkg:nuget/CosmoSQLClient.CosmoKv.Cli@6.6.0
 - pkg:nuget/CosmoSQLClient.CosmoKv.Cli@6.7.0
