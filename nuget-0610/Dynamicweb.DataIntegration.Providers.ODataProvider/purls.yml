@@ -112,6 +112,7 @@
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.ODataProvider@3.0.10
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.ODataProvider@3.0.11
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.ODataProvider@3.0.12
+- pkg:nuget/Dynamicweb.DataIntegration.Providers.ODataProvider@3.0.18
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.ODataProvider@3.0.2
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.ODataProvider@3.0.3
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.ODataProvider@3.0.4
