@@ -110,5 +110,8 @@
 - pkg:nuget/FlexyGoService@7.0.0.21-rc
 - pkg:nuget/FlexyGoService@7.0.0.3-rc
 - pkg:nuget/FlexyGoService@7.0.0.30-rc
+- pkg:nuget/FlexyGoService@7.0.0.39-rc
 - pkg:nuget/FlexyGoService@7.0.0.4-rc
+- pkg:nuget/FlexyGoService@7.0.0.41-rc
+- pkg:nuget/FlexyGoService@7.0.0.42
 - pkg:nuget/FlexyGoService@7.0.0.7-rc
