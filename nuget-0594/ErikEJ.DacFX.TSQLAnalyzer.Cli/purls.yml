@@ -44,6 +44,7 @@
 - pkg:nuget/ErikEJ.DacFX.TSQLAnalyzer.Cli@1.0.40
 - pkg:nuget/ErikEJ.DacFX.TSQLAnalyzer.Cli@1.0.46
 - pkg:nuget/ErikEJ.DacFX.TSQLAnalyzer.Cli@1.0.5
+- pkg:nuget/ErikEJ.DacFX.TSQLAnalyzer.Cli@1.0.57
 - pkg:nuget/ErikEJ.DacFX.TSQLAnalyzer.Cli@1.0.6
 - pkg:nuget/ErikEJ.DacFX.TSQLAnalyzer.Cli@1.0.7
 - pkg:nuget/ErikEJ.DacFX.TSQLAnalyzer.Cli@1.0.8
