@@ -13,3 +13,5 @@
 - pkg:nuget/Credfeto.Exceptions.SourceGenerator@0.0.6.119-main
 - pkg:nuget/Credfeto.Exceptions.SourceGenerator@0.0.6.122-main
 - pkg:nuget/Credfeto.Exceptions.SourceGenerator@0.0.6.123-main
+- pkg:nuget/Credfeto.Exceptions.SourceGenerator@0.0.6.130
+- pkg:nuget/Credfeto.Exceptions.SourceGenerator@0.0.7.131-main
