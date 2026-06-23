@@ -1,3 +1,7 @@
+- pkg:nuget/JD.SemanticKernel.Extensions.Mcp@0.1.105
+- pkg:nuget/JD.SemanticKernel.Extensions.Mcp@0.1.106
+- pkg:nuget/JD.SemanticKernel.Extensions.Mcp@0.1.107
+- pkg:nuget/JD.SemanticKernel.Extensions.Mcp@0.1.108
 - pkg:nuget/JD.SemanticKernel.Extensions.Mcp@0.1.42
 - pkg:nuget/JD.SemanticKernel.Extensions.Mcp@0.1.43
 - pkg:nuget/JD.SemanticKernel.Extensions.Mcp@0.1.44
@@ -12,3 +16,5 @@
 - pkg:nuget/JD.SemanticKernel.Extensions.Mcp@0.1.66
 - pkg:nuget/JD.SemanticKernel.Extensions.Mcp@0.1.78
 - pkg:nuget/JD.SemanticKernel.Extensions.Mcp@0.1.79
+- pkg:nuget/JD.SemanticKernel.Extensions.Mcp@0.1.98
+- pkg:nuget/JD.SemanticKernel.Extensions.Mcp@0.1.99
