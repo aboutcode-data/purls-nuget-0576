@@ -122,3 +122,4 @@
 - pkg:nuget/Squidex.Messaging.Subscriptions@7.8.0
 - pkg:nuget/Squidex.Messaging.Subscriptions@7.9.0
 - pkg:nuget/Squidex.Messaging.Subscriptions@8.0.1
+- pkg:nuget/Squidex.Messaging.Subscriptions@8.0.2
