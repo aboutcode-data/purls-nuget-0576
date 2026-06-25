@@ -249,4 +249,5 @@
 - pkg:nuget/GreenDonut.Data.Primitives@16.2.0-p.5
 - pkg:nuget/GreenDonut.Data.Primitives@16.2.0-p.6
 - pkg:nuget/GreenDonut.Data.Primitives@16.2.1
+- pkg:nuget/GreenDonut.Data.Primitives@16.3.0
 - pkg:nuget/GreenDonut.Data.Primitives@16.3.0-p.2
