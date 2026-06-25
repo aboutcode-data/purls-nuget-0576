@@ -1,3 +1,15 @@
 - pkg:nuget/NotoriousTest.TestSettings@4.0.1
 - pkg:nuget/NotoriousTest.TestSettings@4.0.1-beta.118
 - pkg:nuget/NotoriousTest.TestSettings@4.0.1-beta.121
+- pkg:nuget/NotoriousTest.TestSettings@4.0.1-beta.123
+- pkg:nuget/NotoriousTest.TestSettings@4.0.2
+- pkg:nuget/NotoriousTest.TestSettings@4.0.2-beta.126
+- pkg:nuget/NotoriousTest.TestSettings@4.0.3-beta.130
+- pkg:nuget/NotoriousTest.TestSettings@4.0.3-beta.132
+- pkg:nuget/NotoriousTest.TestSettings@4.0.3-beta.135
+- pkg:nuget/NotoriousTest.TestSettings@4.1.0
+- pkg:nuget/NotoriousTest.TestSettings@4.1.0-beta.139
+- pkg:nuget/NotoriousTest.TestSettings@4.1.0-beta.142
+- pkg:nuget/NotoriousTest.TestSettings@4.1.0-beta.144
+- pkg:nuget/NotoriousTest.TestSettings@4.1.0-beta.147
+- pkg:nuget/NotoriousTest.TestSettings@4.1.0-beta.149
