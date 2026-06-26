@@ -120,3 +120,4 @@
 - pkg:nuget/AlibabaCloud.SDK.CS20151215@4.9.8
 - pkg:nuget/AlibabaCloud.SDK.CS20151215@6.1.0
 - pkg:nuget/AlibabaCloud.SDK.CS20151215@6.7.0
+- pkg:nuget/AlibabaCloud.SDK.CS20151215@7.0.0
