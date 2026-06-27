@@ -5,3 +5,4 @@
 - pkg:nuget/GitHub.Copilot.SDK@1.0.0
 - pkg:nuget/GitHub.Copilot.SDK@1.0.0-beta.11
 - pkg:nuget/GitHub.Copilot.SDK@1.0.1
+- pkg:nuget/GitHub.Copilot.SDK@1.0.4
