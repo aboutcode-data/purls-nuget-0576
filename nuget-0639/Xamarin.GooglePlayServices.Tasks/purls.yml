@@ -38,6 +38,7 @@
 - pkg:nuget/Xamarin.GooglePlayServices.Tasks@118.3.1
 - pkg:nuget/Xamarin.GooglePlayServices.Tasks@118.3.2
 - pkg:nuget/Xamarin.GooglePlayServices.Tasks@118.3.2.1
+- pkg:nuget/Xamarin.GooglePlayServices.Tasks@118.4.1.2
 - pkg:nuget/Xamarin.GooglePlayServices.Tasks@30.0.1-alpha1
 - pkg:nuget/Xamarin.GooglePlayServices.Tasks@30.0.1-alpha2
 - pkg:nuget/Xamarin.GooglePlayServices.Tasks@30.0.1-alpha3
