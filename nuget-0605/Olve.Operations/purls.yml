@@ -28,3 +28,5 @@
 - pkg:nuget/Olve.Operations@0.33.0
 - pkg:nuget/Olve.Operations@0.41.0
 - pkg:nuget/Olve.Operations@0.42.0
+- pkg:nuget/Olve.Operations@0.47.0
+- pkg:nuget/Olve.Operations@0.47.1
