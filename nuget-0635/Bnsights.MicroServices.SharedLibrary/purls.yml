@@ -50,3 +50,5 @@
 - pkg:nuget/Bnsights.MicroServices.SharedLibrary@1.0.9
 - pkg:nuget/Bnsights.MicroServices.SharedLibrary@1.0.90
 - pkg:nuget/Bnsights.MicroServices.SharedLibrary@1.0.95
+- pkg:nuget/Bnsights.MicroServices.SharedLibrary@1.0.97
+- pkg:nuget/Bnsights.MicroServices.SharedLibrary@1.0.98
