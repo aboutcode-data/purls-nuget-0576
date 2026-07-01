@@ -225,4 +225,5 @@
 - pkg:nuget/CookieCrumble.Xunit@16.2.1
 - pkg:nuget/CookieCrumble.Xunit@16.3.0
 - pkg:nuget/CookieCrumble.Xunit@16.3.0-p.2
+- pkg:nuget/CookieCrumble.Xunit@16.4.0-p.11
 - pkg:nuget/CookieCrumble.Xunit@16.4.0-p.9
