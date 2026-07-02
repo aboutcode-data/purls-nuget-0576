@@ -18,6 +18,7 @@
 - pkg:nuget/XFramework.SmsGateway.Integration@1.0.1-dev.146
 - pkg:nuget/XFramework.SmsGateway.Integration@1.0.1-dev.151
 - pkg:nuget/XFramework.SmsGateway.Integration@1.0.1-dev.164
+- pkg:nuget/XFramework.SmsGateway.Integration@1.0.1-dev.187
 - pkg:nuget/XFramework.SmsGateway.Integration@1.0.1-dev.6
 - pkg:nuget/XFramework.SmsGateway.Integration@1.0.1-dev.7
 - pkg:nuget/XFramework.SmsGateway.Integration@1.0.1-dev.78
