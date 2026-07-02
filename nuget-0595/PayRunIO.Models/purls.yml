@@ -159,4 +159,5 @@
 - pkg:nuget/PayRunIO.Models@25.26.4.64
 - pkg:nuget/PayRunIO.Models@26.27.1.205
 - pkg:nuget/PayRunIO.Models@26.27.2.94
+- pkg:nuget/PayRunIO.Models@26.27.3.24-rc
 - pkg:nuget/PayRunIO.Models@3.24.8.440
