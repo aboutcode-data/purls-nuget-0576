@@ -89,3 +89,4 @@
 - pkg:nuget/Kayisoft.Abp.DataAnnotations@5.0.8
 - pkg:nuget/Kayisoft.Abp.DataAnnotations@5.1.3
 - pkg:nuget/Kayisoft.Abp.DataAnnotations@5.1.9
+- pkg:nuget/Kayisoft.Abp.DataAnnotations@5.2.2
