@@ -5,3 +5,4 @@
 - pkg:nuget/CoreGame.SharedMeta.Auth.Steam@0.28.0
 - pkg:nuget/CoreGame.SharedMeta.Auth.Steam@0.31.0
 - pkg:nuget/CoreGame.SharedMeta.Auth.Steam@0.31.1
+- pkg:nuget/CoreGame.SharedMeta.Auth.Steam@0.32.1
