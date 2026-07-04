@@ -9,3 +9,4 @@
 - pkg:nuget/ThinkGeo.Gdal.Dependency.Windows@14.0.1-beta005
 - pkg:nuget/ThinkGeo.Gdal.Dependency.Windows@14.0.1-beta006
 - pkg:nuget/ThinkGeo.Gdal.Dependency.Windows@14.5.2
+- pkg:nuget/ThinkGeo.Gdal.Dependency.Windows@14.5.4-beta001
