@@ -6,3 +6,4 @@
 - pkg:nuget/Hexalith.EventStore.Testing.Integration@3.22.0
 - pkg:nuget/Hexalith.EventStore.Testing.Integration@3.25.0
 - pkg:nuget/Hexalith.EventStore.Testing.Integration@3.33.4
+- pkg:nuget/Hexalith.EventStore.Testing.Integration@3.38.0
