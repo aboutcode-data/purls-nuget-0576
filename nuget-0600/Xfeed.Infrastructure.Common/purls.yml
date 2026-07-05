@@ -553,4 +553,5 @@
 - pkg:nuget/Xfeed.Infrastructure.Common@1.20260703.830
 - pkg:nuget/Xfeed.Infrastructure.Common@1.20260703.900
 - pkg:nuget/Xfeed.Infrastructure.Common@1.20260704.0
+- pkg:nuget/Xfeed.Infrastructure.Common@1.20260704.1030
 - pkg:nuget/Xfeed.Infrastructure.Common@1.20260704.30
