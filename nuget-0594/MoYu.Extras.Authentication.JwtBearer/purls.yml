@@ -7,3 +7,4 @@
 - pkg:nuget/MoYu.Extras.Authentication.JwtBearer@1.0.7
 - pkg:nuget/MoYu.Extras.Authentication.JwtBearer@1.0.8
 - pkg:nuget/MoYu.Extras.Authentication.JwtBearer@4.9.5.5
+- pkg:nuget/MoYu.Extras.Authentication.JwtBearer@4.9.9.15
