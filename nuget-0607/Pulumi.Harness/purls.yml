@@ -49,6 +49,7 @@
 - pkg:nuget/Pulumi.Harness@0.15.0-alpha.1782198657
 - pkg:nuget/Pulumi.Harness@0.15.0-alpha.1782717692
 - pkg:nuget/Pulumi.Harness@0.15.0-alpha.1782803504
+- pkg:nuget/Pulumi.Harness@0.15.0-alpha.1783581850
 - pkg:nuget/Pulumi.Harness@0.2.0
 - pkg:nuget/Pulumi.Harness@0.2.0-alpha.1720763117
 - pkg:nuget/Pulumi.Harness@0.2.0-alpha.1720849528
