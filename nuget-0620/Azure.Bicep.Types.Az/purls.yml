@@ -68,3 +68,4 @@
 - pkg:nuget/Azure.Bicep.Types.Az@0.2.800
 - pkg:nuget/Azure.Bicep.Types.Az@0.2.803
 - pkg:nuget/Azure.Bicep.Types.Az@0.2.850
+- pkg:nuget/Azure.Bicep.Types.Az@0.2.881
