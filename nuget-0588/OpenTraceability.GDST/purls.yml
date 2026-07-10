@@ -131,3 +131,4 @@
 - pkg:nuget/OpenTraceability.GDST@1.4.71
 - pkg:nuget/OpenTraceability.GDST@1.4.72
 - pkg:nuget/OpenTraceability.GDST@1.4.75
+- pkg:nuget/OpenTraceability.GDST@2.0.0-beta.101
