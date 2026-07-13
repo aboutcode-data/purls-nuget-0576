@@ -24,4 +24,6 @@
 - pkg:nuget/Zafiro.Compilers.Z80DotNet@0.0.291
 - pkg:nuget/Zafiro.Compilers.Z80DotNet@0.0.304
 - pkg:nuget/Zafiro.Compilers.Z80DotNet@0.0.306
+- pkg:nuget/Zafiro.Compilers.Z80DotNet@0.0.311
+- pkg:nuget/Zafiro.Compilers.Z80DotNet@0.0.313
 - pkg:nuget/Zafiro.Compilers.Z80DotNet@0.0.92
