@@ -16,6 +16,8 @@
 - pkg:nuget/Bolt.Net.Media@1.0.0-dev.198
 - pkg:nuget/Bolt.Net.Media@1.0.0-dev.201
 - pkg:nuget/Bolt.Net.Media@1.0.0-dev.204
+- pkg:nuget/Bolt.Net.Media@1.0.0-dev.210
+- pkg:nuget/Bolt.Net.Media@1.0.0-dev.212
 - pkg:nuget/Bolt.Net.Media@1.0.0-dev.78
 - pkg:nuget/Bolt.Net.Media@1.0.0-dev.92
 - pkg:nuget/Bolt.Net.Media@1.0.0-dev.93
