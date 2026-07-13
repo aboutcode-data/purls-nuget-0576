@@ -112,3 +112,4 @@
 - pkg:nuget/MSTest.TestAdapter@4.0.0-preview.25452.10
 - pkg:nuget/MSTest.TestAdapter@4.0.0-preview.25454.2
 - pkg:nuget/MSTest.TestAdapter@4.0.0-preview.25465.3
+- pkg:nuget/MSTest.TestAdapter@4.3.2
