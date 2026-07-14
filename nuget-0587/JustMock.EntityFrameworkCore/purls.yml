@@ -2,3 +2,4 @@
 - pkg:nuget/JustMock.EntityFrameworkCore@2025.1.211.365
 - pkg:nuget/JustMock.EntityFrameworkCore@2025.2.520.440
 - pkg:nuget/JustMock.EntityFrameworkCore@2025.3.813.457
+- pkg:nuget/JustMock.EntityFrameworkCore@2026.2.519.512
