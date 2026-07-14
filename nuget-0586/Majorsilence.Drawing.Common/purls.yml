@@ -1,3 +1,4 @@
+- pkg:nuget/Majorsilence.Drawing.Common@26.0.2
 - pkg:nuget/Majorsilence.Drawing.Common@5.0.1-alpha
 - pkg:nuget/Majorsilence.Drawing.Common@5.0.10
 - pkg:nuget/Majorsilence.Drawing.Common@5.0.11
