@@ -1,2 +1,3 @@
+- pkg:nuget/ProfanityFilter.Hosting@13.4.0
 - pkg:nuget/ProfanityFilter.Hosting@9.0.7-alpha.0.2
 - pkg:nuget/ProfanityFilter.Hosting@9.0.7-alpha.0.7
