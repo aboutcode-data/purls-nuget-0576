@@ -9,6 +9,7 @@
 - pkg:nuget/Rsk.Saml.IdentityProvider@1.2.2
 - pkg:nuget/Rsk.Saml.IdentityProvider@10.0.0
 - pkg:nuget/Rsk.Saml.IdentityProvider@10.0.1
+- pkg:nuget/Rsk.Saml.IdentityProvider@12.0.0
 - pkg:nuget/Rsk.Saml.IdentityProvider@5.0.0
 - pkg:nuget/Rsk.Saml.IdentityProvider@5.0.0-preview1
 - pkg:nuget/Rsk.Saml.IdentityProvider@5.0.1
