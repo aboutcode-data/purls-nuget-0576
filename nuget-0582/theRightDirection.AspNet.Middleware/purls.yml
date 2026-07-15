@@ -1,2 +1,3 @@
+- pkg:nuget/theRightDirection.AspNet.Middleware@10.0.1
 - pkg:nuget/theRightDirection.AspNet.Middleware@9.0.5
 - pkg:nuget/theRightDirection.AspNet.Middleware@9.0.6
