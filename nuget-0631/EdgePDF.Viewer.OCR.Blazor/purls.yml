@@ -5,3 +5,6 @@
 - pkg:nuget/EdgePDF.Viewer.OCR.Blazor@12.3.5.20
 - pkg:nuget/EdgePDF.Viewer.OCR.Blazor@12.3.5.27
 - pkg:nuget/EdgePDF.Viewer.OCR.Blazor@12.3.5.31
+- pkg:nuget/EdgePDF.Viewer.OCR.Blazor@12.3.5.36
+- pkg:nuget/EdgePDF.Viewer.OCR.Blazor@12.3.5.38
+- pkg:nuget/EdgePDF.Viewer.OCR.Blazor@12.3.5.40
