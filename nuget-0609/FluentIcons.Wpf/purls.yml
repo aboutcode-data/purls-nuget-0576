@@ -39,3 +39,5 @@
 - pkg:nuget/FluentIcons.Wpf@2.0.321
 - pkg:nuget/FluentIcons.Wpf@2.0.321-ci
 - pkg:nuget/FluentIcons.Wpf@2.1.324-ci
+- pkg:nuget/FluentIcons.Wpf@2.1.330-ci
+- pkg:nuget/FluentIcons.Wpf@2.1.331-ci
