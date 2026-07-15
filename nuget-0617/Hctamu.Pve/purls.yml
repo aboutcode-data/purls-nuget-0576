@@ -12,4 +12,6 @@
 - pkg:nuget/Hctamu.Pve@0.1.0-alpha.1754990190
 - pkg:nuget/Hctamu.Pve@0.1.0-alpha.1756300827
 - pkg:nuget/Hctamu.Pve@0.1.0-alpha.1756466248
+- pkg:nuget/Hctamu.Pve@0.2.0-beta.1
+- pkg:nuget/Hctamu.Pve@0.2.0-dev
 - pkg:nuget/Hctamu.Pve@1.0.0-alpha.0%2Bdev
