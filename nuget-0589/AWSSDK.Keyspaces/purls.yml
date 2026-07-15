@@ -707,6 +707,7 @@
 - pkg:nuget/AWSSDK.Keyspaces@4.0.1.8
 - pkg:nuget/AWSSDK.Keyspaces@4.0.1.9
 - pkg:nuget/AWSSDK.Keyspaces@4.0.100.1
+- pkg:nuget/AWSSDK.Keyspaces@4.0.100.4
 - pkg:nuget/AWSSDK.Keyspaces@4.0.3.4
 - pkg:nuget/AWSSDK.Keyspaces@4.0.3.6
 - pkg:nuget/AWSSDK.Keyspaces@4.0.3.7
