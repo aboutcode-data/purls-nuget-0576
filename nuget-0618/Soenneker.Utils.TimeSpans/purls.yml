@@ -76,6 +76,7 @@
 - pkg:nuget/Soenneker.Utils.TimeSpans@3.0.78
 - pkg:nuget/Soenneker.Utils.TimeSpans@3.0.8
 - pkg:nuget/Soenneker.Utils.TimeSpans@3.0.9
+- pkg:nuget/Soenneker.Utils.TimeSpans@4.0.106
 - pkg:nuget/Soenneker.Utils.TimeSpans@4.0.80
 - pkg:nuget/Soenneker.Utils.TimeSpans@4.0.81
 - pkg:nuget/Soenneker.Utils.TimeSpans@4.0.82
