@@ -37,3 +37,4 @@
 - pkg:nuget/Modrinth.Net@3.5.1
 - pkg:nuget/Modrinth.Net@3.5.2
 - pkg:nuget/Modrinth.Net@3.6.0
+- pkg:nuget/Modrinth.Net@3.8.0
