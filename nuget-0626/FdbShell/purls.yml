@@ -1,2 +1,3 @@
 - pkg:nuget/FdbShell@7.3.0-preview2
 - pkg:nuget/FdbShell@7.3.2
+- pkg:nuget/FdbShell@7.4.2
