@@ -56,6 +56,7 @@
 - pkg:nuget/Xamarin.Firebase.Auth@124.0.0
 - pkg:nuget/Xamarin.Firebase.Auth@124.0.0.1
 - pkg:nuget/Xamarin.Firebase.Auth@124.0.1
+- pkg:nuget/Xamarin.Firebase.Auth@124.2.0
 - pkg:nuget/Xamarin.Firebase.Auth@30.0.1-alpha1
 - pkg:nuget/Xamarin.Firebase.Auth@30.0.1-alpha2
 - pkg:nuget/Xamarin.Firebase.Auth@30.0.1-alpha3
