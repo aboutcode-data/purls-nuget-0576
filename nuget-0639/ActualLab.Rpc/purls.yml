@@ -96,6 +96,7 @@
 - pkg:nuget/ActualLab.Rpc@12.1.98
 - pkg:nuget/ActualLab.Rpc@12.3.70
 - pkg:nuget/ActualLab.Rpc@13.0.126
+- pkg:nuget/ActualLab.Rpc@14.0.17
 - pkg:nuget/ActualLab.Rpc@7.0.10
 - pkg:nuget/ActualLab.Rpc@7.0.12
 - pkg:nuget/ActualLab.Rpc@7.0.13
