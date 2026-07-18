@@ -1220,6 +1220,7 @@
 - pkg:nuget/AWSSDK.Connect@4.0.10
 - pkg:nuget/AWSSDK.Connect@4.0.10.1
 - pkg:nuget/AWSSDK.Connect@4.0.105
+- pkg:nuget/AWSSDK.Connect@4.0.105.1
 - pkg:nuget/AWSSDK.Connect@4.0.12
 - pkg:nuget/AWSSDK.Connect@4.0.12.1
 - pkg:nuget/AWSSDK.Connect@4.0.12.5
