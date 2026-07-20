@@ -1,3 +1,5 @@
 - pkg:nuget/NBenchmark.Tool@0.21.1
 - pkg:nuget/NBenchmark.Tool@0.22.0
 - pkg:nuget/NBenchmark.Tool@0.24.0
+- pkg:nuget/NBenchmark.Tool@0.30.2
+- pkg:nuget/NBenchmark.Tool@0.30.3
