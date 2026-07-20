@@ -2,6 +2,7 @@
 - pkg:nuget/Ch.Post.App.Cs.Coding.Sorting.StreamApi@10.0.0-feature-fix-version.2
 - pkg:nuget/Ch.Post.App.Cs.Coding.Sorting.StreamApi@10.1.0-feature-add-barcode-coding.13
 - pkg:nuget/Ch.Post.App.Cs.Coding.Sorting.StreamApi@10.4.0
+- pkg:nuget/Ch.Post.App.Cs.Coding.Sorting.StreamApi@10.6.0-feature-PZS-12106-multiple-order-ids.3
 - pkg:nuget/Ch.Post.App.Cs.Coding.Sorting.StreamApi@8.0.0
 - pkg:nuget/Ch.Post.App.Cs.Coding.Sorting.StreamApi@8.0.0-feature-provate-namespace.7
 - pkg:nuget/Ch.Post.App.Cs.Coding.Sorting.StreamApi@8.0.0-feature-provate-namespace.8
