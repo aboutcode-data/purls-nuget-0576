@@ -1,1 +1,2 @@
 - pkg:nuget/AeroDB.SourceGenerators@0.0.9.1-alpha
+- pkg:nuget/AeroDB.SourceGenerators@0.0.9.4-alpha
