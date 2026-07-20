@@ -128,6 +128,7 @@
 - pkg:nuget/SanteDB.Core.Model.ViewModelSerializers@3.0.2072-alpha
 - pkg:nuget/SanteDB.Core.Model.ViewModelSerializers@3.0.2073-alpha
 - pkg:nuget/SanteDB.Core.Model.ViewModelSerializers@3.0.2082-alpha
+- pkg:nuget/SanteDB.Core.Model.ViewModelSerializers@3.0.2087-alpha
 - pkg:nuget/SanteDB.Core.Model.ViewModelSerializers@3.0.480-alpha
 - pkg:nuget/SanteDB.Core.Model.ViewModelSerializers@3.0.540-alpha
 - pkg:nuget/SanteDB.Core.Model.ViewModelSerializers@3.0.600-alpha
