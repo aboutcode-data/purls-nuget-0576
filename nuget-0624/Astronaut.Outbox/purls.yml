@@ -1,3 +1,4 @@
+- pkg:nuget/Astronaut.Outbox@10.1.0
 - pkg:nuget/Astronaut.Outbox@3.0.0
 - pkg:nuget/Astronaut.Outbox@4.0.0
 - pkg:nuget/Astronaut.Outbox@4.0.1
