@@ -1,5 +1,7 @@
 - pkg:nuget/Piral.Blazor.Template@0.1.1
 - pkg:nuget/Piral.Blazor.Template@0.1.2
+- pkg:nuget/Piral.Blazor.Template@10.0.19-pre.12
+- pkg:nuget/Piral.Blazor.Template@10.0.19-pre.13
 - pkg:nuget/Piral.Blazor.Template@3.2.1
 - pkg:nuget/Piral.Blazor.Template@3.2.1-pre.20210301.4
 - pkg:nuget/Piral.Blazor.Template@3.2.1-pre.20210326.3
