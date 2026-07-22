@@ -8,6 +8,8 @@
 - pkg:nuget/Identity.Module.AccountManager@2.5.140
 - pkg:nuget/Identity.Module.AccountManager@2.5.141
 - pkg:nuget/Identity.Module.AccountManager@2.5.142
+- pkg:nuget/Identity.Module.AccountManager@2.5.144
+- pkg:nuget/Identity.Module.AccountManager@2.5.145
 - pkg:nuget/Identity.Module.AccountManager@2.5.15
 - pkg:nuget/Identity.Module.AccountManager@2.5.18
 - pkg:nuget/Identity.Module.AccountManager@2.5.19
