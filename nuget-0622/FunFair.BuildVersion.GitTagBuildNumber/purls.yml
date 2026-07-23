@@ -480,3 +480,4 @@
 - pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.19.2163-main
 - pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.19.2164-main
 - pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.19.2165-main
+- pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.19.2172-main
