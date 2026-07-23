@@ -162,3 +162,4 @@
 - pkg:nuget/CarinaStudio.AppSuite.Fonts@3.0.2.328-dev
 - pkg:nuget/CarinaStudio.AppSuite.Fonts@3.1.0.621-preview
 - pkg:nuget/CarinaStudio.AppSuite.Fonts@3.1.3.626-preview
+- pkg:nuget/CarinaStudio.AppSuite.Fonts@4.0.0.723-dev
