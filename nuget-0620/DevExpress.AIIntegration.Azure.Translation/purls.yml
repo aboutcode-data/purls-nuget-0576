@@ -1,3 +1,5 @@
+- pkg:nuget/DevExpress.AIIntegration.Azure.Translation@25.1.12
 - pkg:nuget/DevExpress.AIIntegration.Azure.Translation@25.1.6
 - pkg:nuget/DevExpress.AIIntegration.Azure.Translation@25.1.7
 - pkg:nuget/DevExpress.AIIntegration.Azure.Translation@25.2.6
+- pkg:nuget/DevExpress.AIIntegration.Azure.Translation@26.1.3
