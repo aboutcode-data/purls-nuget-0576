@@ -5,3 +5,5 @@
 - pkg:nuget/Reihitsu.Analyzer@0.5.0
 - pkg:nuget/Reihitsu.Analyzer@0.5.1
 - pkg:nuget/Reihitsu.Analyzer@0.6.0
+- pkg:nuget/Reihitsu.Analyzer@1.0.0-beta4
+- pkg:nuget/Reihitsu.Analyzer@1.0.0-beta5
