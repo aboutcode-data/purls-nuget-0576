@@ -8,3 +8,4 @@
 - pkg:nuget/BB84.EntityFrameworkCore.Entities@4.0.817
 - pkg:nuget/BB84.EntityFrameworkCore.Entities@4.0.916
 - pkg:nuget/BB84.EntityFrameworkCore.Entities@4.3.327
+- pkg:nuget/BB84.EntityFrameworkCore.Entities@4.4.724
