@@ -2,3 +2,4 @@
 - pkg:nuget/upstox-dotnet-sdk@1.1.0
 - pkg:nuget/upstox-dotnet-sdk@1.2.0
 - pkg:nuget/upstox-dotnet-sdk@2.0.0
+- pkg:nuget/upstox-dotnet-sdk@2.4.0
