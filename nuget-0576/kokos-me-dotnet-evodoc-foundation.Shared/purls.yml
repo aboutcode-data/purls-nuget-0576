@@ -1,0 +1,7 @@
+- pkg:nuget/kokos-me-dotnet-evodoc-foundation.Shared@1.0.0-dev-1
+- pkg:nuget/kokos-me-dotnet-evodoc-foundation.Shared@1.0.0-feature.feature-creazione-ambiente.0
+- pkg:nuget/kokos-me-dotnet-evodoc-foundation.Shared@1.0.0-feature.feature-creazione-ambiente.6
+- pkg:nuget/kokos-me-dotnet-evodoc-foundation.Shared@1.0.0-feature.implementazione-microservizio.3
+- pkg:nuget/kokos-me-dotnet-evodoc-foundation.Shared@1.0.0-feature.implementazione-microservizio.4
+- pkg:nuget/kokos-me-dotnet-evodoc-foundation.Shared@1.0.0-feature.implementazione-microservizio.6
+- pkg:nuget/kokos-me-dotnet-evodoc-foundation.Shared@1.0.0-feature.nuova-definizione-nome-batch.2
