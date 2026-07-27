@@ -8,3 +8,4 @@
 - pkg:nuget/Dekaf.SchemaRegistry.Avro@0.0.1-ci.2216
 - pkg:nuget/Dekaf.SchemaRegistry.Avro@0.0.1-ci.413
 - pkg:nuget/Dekaf.SchemaRegistry.Avro@1.4.0
+- pkg:nuget/Dekaf.SchemaRegistry.Avro@1.9.1
