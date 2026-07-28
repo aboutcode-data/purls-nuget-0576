@@ -618,3 +618,5 @@
 - pkg:nuget/Soenneker.GitHub.Repositories.Releases@4.0.890
 - pkg:nuget/Soenneker.GitHub.Repositories.Releases@4.0.892
 - pkg:nuget/Soenneker.GitHub.Repositories.Releases@4.0.902
+- pkg:nuget/Soenneker.GitHub.Repositories.Releases@4.0.907
+- pkg:nuget/Soenneker.GitHub.Repositories.Releases@4.0.908
