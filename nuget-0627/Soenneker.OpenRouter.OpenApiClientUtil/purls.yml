@@ -2,6 +2,7 @@
 - pkg:nuget/Soenneker.OpenRouter.OpenApiClientUtil@4.0.11
 - pkg:nuget/Soenneker.OpenRouter.OpenApiClientUtil@4.0.116
 - pkg:nuget/Soenneker.OpenRouter.OpenApiClientUtil@4.0.117
+- pkg:nuget/Soenneker.OpenRouter.OpenApiClientUtil@4.0.119
 - pkg:nuget/Soenneker.OpenRouter.OpenApiClientUtil@4.0.15
 - pkg:nuget/Soenneker.OpenRouter.OpenApiClientUtil@4.0.18
 - pkg:nuget/Soenneker.OpenRouter.OpenApiClientUtil@4.0.38
