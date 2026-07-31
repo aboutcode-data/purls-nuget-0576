@@ -84,6 +84,7 @@
 - pkg:nuget/Jint@4.0.2
 - pkg:nuget/Jint@4.0.3
 - pkg:nuget/Jint@4.1.0
+- pkg:nuget/Jint@4.15.1
 - pkg:nuget/Jint@4.2.0
 - pkg:nuget/Jint@4.2.1
 - pkg:nuget/Jint@4.2.2
