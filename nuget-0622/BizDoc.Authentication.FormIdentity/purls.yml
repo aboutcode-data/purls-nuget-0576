@@ -1,4 +1,5 @@
 - pkg:nuget/BizDoc.Authentication.FormIdentity@10.4.3
+- pkg:nuget/BizDoc.Authentication.FormIdentity@10.6.3
 - pkg:nuget/BizDoc.Authentication.FormIdentity@6.7.3
 - pkg:nuget/BizDoc.Authentication.FormIdentity@6.8.0
 - pkg:nuget/BizDoc.Authentication.FormIdentity@6.8.1
