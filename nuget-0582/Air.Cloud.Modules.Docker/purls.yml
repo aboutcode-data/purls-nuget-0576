@@ -5,4 +5,5 @@
 - pkg:nuget/Air.Cloud.Modules.Docker@1.2.0.1
 - pkg:nuget/Air.Cloud.Modules.Docker@1.2.1
 - pkg:nuget/Air.Cloud.Modules.Docker@1.2.3
+- pkg:nuget/Air.Cloud.Modules.Docker@10.0.2
 - pkg:nuget/Air.Cloud.Modules.Docker@2.0.0
