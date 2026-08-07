@@ -9,4 +9,5 @@
 - pkg:nuget/Azure.ResourceManager.HybridCompute@1.0.0-beta.7
 - pkg:nuget/Azure.ResourceManager.HybridCompute@1.0.0-beta.8
 - pkg:nuget/Azure.ResourceManager.HybridCompute@1.0.0-beta.9
+- pkg:nuget/Azure.ResourceManager.HybridCompute@1.1.0
 - pkg:nuget/Azure.ResourceManager.HybridCompute@1.1.0-beta.1
