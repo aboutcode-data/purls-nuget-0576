@@ -24,3 +24,4 @@
 - pkg:nuget/Microsoft.DurableTask.SqlServer.AzureFunctions@1.4.0
 - pkg:nuget/Microsoft.DurableTask.SqlServer.AzureFunctions@1.5.0
 - pkg:nuget/Microsoft.DurableTask.SqlServer.AzureFunctions@1.5.1
+- pkg:nuget/Microsoft.DurableTask.SqlServer.AzureFunctions@1.8.1
