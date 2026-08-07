@@ -42,3 +42,4 @@
 - pkg:nuget/RepoDb.SqlServer.BulkOperations@1.13.1
 - pkg:nuget/RepoDb.SqlServer.BulkOperations@1.13.1-alpha1
 - pkg:nuget/RepoDb.SqlServer.BulkOperations@1.13.2-alpha1
+- pkg:nuget/RepoDb.SqlServer.BulkOperations@1.16.0-alpha2
