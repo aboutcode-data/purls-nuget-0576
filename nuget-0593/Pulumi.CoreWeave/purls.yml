@@ -10,3 +10,5 @@
 - pkg:nuget/Pulumi.CoreWeave@1.1.0-alpha.1781528761
 - pkg:nuget/Pulumi.CoreWeave@1.1.0-alpha.1781593841
 - pkg:nuget/Pulumi.CoreWeave@1.1.0-alpha.1784234140
+- pkg:nuget/Pulumi.CoreWeave@1.1.0-alpha.1786434490
+- pkg:nuget/Pulumi.CoreWeave@1.1.0-alpha.1786434537
