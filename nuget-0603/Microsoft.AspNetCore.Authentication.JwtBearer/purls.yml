@@ -42,6 +42,7 @@
 - pkg:nuget/Microsoft.AspNetCore.Authentication.JwtBearer@2.2.0-preview3-35497
 - pkg:nuget/Microsoft.AspNetCore.Authentication.JwtBearer@2.3.0
 - pkg:nuget/Microsoft.AspNetCore.Authentication.JwtBearer@2.3.10
+- pkg:nuget/Microsoft.AspNetCore.Authentication.JwtBearer@2.3.12
 - pkg:nuget/Microsoft.AspNetCore.Authentication.JwtBearer@3.0.0
 - pkg:nuget/Microsoft.AspNetCore.Authentication.JwtBearer@3.0.0-preview-19075-0444
 - pkg:nuget/Microsoft.AspNetCore.Authentication.JwtBearer@3.0.0-preview3-19153-02
