@@ -42,6 +42,7 @@
 - pkg:nuget/Beep.OM.I.Communication@1.1.3-build.86
 - pkg:nuget/Beep.OM.I.Communication@1.1.4-build.1
 - pkg:nuget/Beep.OM.I.Communication@1.1.4-build.10
+- pkg:nuget/Beep.OM.I.Communication@1.1.4-build.100
 - pkg:nuget/Beep.OM.I.Communication@1.1.4-build.15
 - pkg:nuget/Beep.OM.I.Communication@1.1.4-build.16
 - pkg:nuget/Beep.OM.I.Communication@1.1.4-build.17
@@ -65,3 +66,5 @@
 - pkg:nuget/Beep.OM.I.Communication@1.1.4-build.66
 - pkg:nuget/Beep.OM.I.Communication@1.1.4-build.76
 - pkg:nuget/Beep.OM.I.Communication@1.1.4-build.82
+- pkg:nuget/Beep.OM.I.Communication@1.1.4-build.98
+- pkg:nuget/Beep.OM.I.Communication@1.1.4-build.99
