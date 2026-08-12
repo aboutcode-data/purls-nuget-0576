@@ -181,3 +181,4 @@
 - pkg:nuget/Meshmakers.Octo.Common.DistributionEventHub.MongoDB@3.4.4
 - pkg:nuget/Meshmakers.Octo.Common.DistributionEventHub.MongoDB@3.4.40
 - pkg:nuget/Meshmakers.Octo.Common.DistributionEventHub.MongoDB@3.4.42
+- pkg:nuget/Meshmakers.Octo.Common.DistributionEventHub.MongoDB@3.4.89
