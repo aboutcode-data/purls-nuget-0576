@@ -39,3 +39,4 @@
 - pkg:nuget/Enigmatry.Entry.CodeGeneration.Tools@19.0.0
 - pkg:nuget/Enigmatry.Entry.CodeGeneration.Tools@20.0.0
 - pkg:nuget/Enigmatry.Entry.CodeGeneration.Tools@20.0.1-preview.1
+- pkg:nuget/Enigmatry.Entry.CodeGeneration.Tools@21.1.4-preview.1
