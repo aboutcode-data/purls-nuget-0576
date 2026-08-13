@@ -12,3 +12,5 @@
 - pkg:nuget/AWSSDK.ElementalInference@4.0.1.5
 - pkg:nuget/AWSSDK.ElementalInference@4.0.100.1
 - pkg:nuget/AWSSDK.ElementalInference@4.0.101.2
+- pkg:nuget/AWSSDK.ElementalInference@4.0.101.3
+- pkg:nuget/AWSSDK.ElementalInference@4.0.103.1
