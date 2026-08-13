@@ -10,3 +10,4 @@
 - pkg:nuget/Verify.PdfPig@2.0.0-beta.3
 - pkg:nuget/Verify.PdfPig@2.0.1
 - pkg:nuget/Verify.PdfPig@2.1.0
+- pkg:nuget/Verify.PdfPig@2.4.0
