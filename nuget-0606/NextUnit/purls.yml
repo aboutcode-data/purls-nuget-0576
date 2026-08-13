@@ -2,3 +2,4 @@
 - pkg:nuget/NextUnit@1.4.0
 - pkg:nuget/NextUnit@1.6.5
 - pkg:nuget/NextUnit@1.6.6
+- pkg:nuget/NextUnit@2.0.0
