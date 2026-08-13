@@ -5,5 +5,6 @@
 - pkg:nuget/Forte.Migrations.EPiServer@1.0.5497
 - pkg:nuget/Forte.Migrations.EPiServer@1.0.6068
 - pkg:nuget/Forte.Migrations.EPiServer@1.0.6092
+- pkg:nuget/Forte.Migrations.EPiServer@2.0.233917
 - pkg:nuget/Forte.Migrations.EPiServer@2.0.60672
 - pkg:nuget/Forte.Migrations.EPiServer@2.0.95987
