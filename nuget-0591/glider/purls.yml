@@ -1,5 +1,6 @@
 - pkg:nuget/glider@0.2.0
 - pkg:nuget/glider@0.2.1
+- pkg:nuget/glider@10.1.1
 - pkg:nuget/glider@5.0.0
 - pkg:nuget/glider@5.0.0-preview.v5.5
 - pkg:nuget/glider@5.7.0
@@ -23,3 +24,4 @@
 - pkg:nuget/glider@7.0.0
 - pkg:nuget/glider@7.1.0
 - pkg:nuget/glider@7.4.0
+- pkg:nuget/glider@8.4.0
