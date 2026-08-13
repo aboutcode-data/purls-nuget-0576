@@ -1,0 +1,2 @@
+- pkg:nuget/AppFactory.Framework.EventBus.Azure@10.5.7
+- pkg:nuget/AppFactory.Framework.EventBus.Azure@10.7.0
