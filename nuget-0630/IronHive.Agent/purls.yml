@@ -1,1 +1,5 @@
+- pkg:nuget/IronHive.Agent@0.2.11
+- pkg:nuget/IronHive.Agent@0.2.13
+- pkg:nuget/IronHive.Agent@0.2.14
+- pkg:nuget/IronHive.Agent@0.2.18
 - pkg:nuget/IronHive.Agent@0.2.7
