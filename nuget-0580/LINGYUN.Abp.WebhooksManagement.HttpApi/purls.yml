@@ -1,3 +1,4 @@
+- pkg:nuget/LINGYUN.Abp.WebhooksManagement.HttpApi@10.4.0
 - pkg:nuget/LINGYUN.Abp.WebhooksManagement.HttpApi@6.0.1.1
 - pkg:nuget/LINGYUN.Abp.WebhooksManagement.HttpApi@6.0.2.1
 - pkg:nuget/LINGYUN.Abp.WebhooksManagement.HttpApi@8.0.3
