@@ -12,6 +12,7 @@
 - pkg:nuget/KY.Generator.Reflection@1.1.0
 - pkg:nuget/KY.Generator.Reflection@1.2.0
 - pkg:nuget/KY.Generator.Reflection@10.0.0-preview.15
+- pkg:nuget/KY.Generator.Reflection@10.1.0
 - pkg:nuget/KY.Generator.Reflection@2.0.0
 - pkg:nuget/KY.Generator.Reflection@2.2.0
 - pkg:nuget/KY.Generator.Reflection@2.3.0
