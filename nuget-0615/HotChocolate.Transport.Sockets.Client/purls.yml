@@ -804,3 +804,4 @@
 - pkg:nuget/HotChocolate.Transport.Sockets.Client@16.6.0-p.7
 - pkg:nuget/HotChocolate.Transport.Sockets.Client@16.6.0-p.8
 - pkg:nuget/HotChocolate.Transport.Sockets.Client@16.6.0-p.9
+- pkg:nuget/HotChocolate.Transport.Sockets.Client@16.6.1-p.3
