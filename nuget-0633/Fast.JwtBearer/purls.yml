@@ -103,6 +103,7 @@
 - pkg:nuget/Fast.JwtBearer@3.5.2
 - pkg:nuget/Fast.JwtBearer@3.5.3
 - pkg:nuget/Fast.JwtBearer@3.5.31
+- pkg:nuget/Fast.JwtBearer@3.5.34
 - pkg:nuget/Fast.JwtBearer@3.5.4
 - pkg:nuget/Fast.JwtBearer@3.5.5
 - pkg:nuget/Fast.JwtBearer@3.5.6
