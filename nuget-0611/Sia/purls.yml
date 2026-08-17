@@ -178,3 +178,4 @@
 - pkg:nuget/Sia@2.0.0
 - pkg:nuget/Sia@2.0.10
 - pkg:nuget/Sia@2.0.9
+- pkg:nuget/Sia@2.1.2
