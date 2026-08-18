@@ -30,6 +30,7 @@
 - pkg:nuget/VirtoCommerce.StoreModule.Data@3.1001.0
 - pkg:nuget/VirtoCommerce.StoreModule.Data@3.1004.0
 - pkg:nuget/VirtoCommerce.StoreModule.Data@3.1006.0
+- pkg:nuget/VirtoCommerce.StoreModule.Data@3.1007.0
 - pkg:nuget/VirtoCommerce.StoreModule.Data@3.11.0
 - pkg:nuget/VirtoCommerce.StoreModule.Data@3.11.0-alpha.493
 - pkg:nuget/VirtoCommerce.StoreModule.Data@3.11.0-alpha.494
