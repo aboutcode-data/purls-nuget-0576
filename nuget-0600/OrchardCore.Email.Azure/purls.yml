@@ -12,3 +12,4 @@
 - pkg:nuget/OrchardCore.Email.Azure@2.1.8
 - pkg:nuget/OrchardCore.Email.Azure@2.1.9
 - pkg:nuget/OrchardCore.Email.Azure@2.2.0
+- pkg:nuget/OrchardCore.Email.Azure@3.0.0
