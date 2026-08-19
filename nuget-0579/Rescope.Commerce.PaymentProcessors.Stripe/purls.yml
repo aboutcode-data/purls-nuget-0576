@@ -46,3 +46,4 @@
 - pkg:nuget/Rescope.Commerce.PaymentProcessors.Stripe@16.0.0
 - pkg:nuget/Rescope.Commerce.PaymentProcessors.Stripe@17.1.46
 - pkg:nuget/Rescope.Commerce.PaymentProcessors.Stripe@17.1.47
+- pkg:nuget/Rescope.Commerce.PaymentProcessors.Stripe@17.1.50
