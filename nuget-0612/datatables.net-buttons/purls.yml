@@ -24,3 +24,4 @@
 - pkg:nuget/datatables.net-buttons@3.2.3
 - pkg:nuget/datatables.net-buttons@3.2.4
 - pkg:nuget/datatables.net-buttons@3.2.5
+- pkg:nuget/datatables.net-buttons@4.0.2
