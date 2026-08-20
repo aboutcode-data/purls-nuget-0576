@@ -846,3 +846,4 @@
 - pkg:nuget/MassTransit.EventHub@9.2.0-develop.155
 - pkg:nuget/MassTransit.EventHub@9.2.0-develop.157
 - pkg:nuget/MassTransit.EventHub@9.2.0-develop.158
+- pkg:nuget/MassTransit.EventHub@9.2.1-develop.169
