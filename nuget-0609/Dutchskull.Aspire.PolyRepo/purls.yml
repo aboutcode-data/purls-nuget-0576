@@ -8,3 +8,4 @@
 - pkg:nuget/Dutchskull.Aspire.PolyRepo@0.3.3-alpha.165
 - pkg:nuget/Dutchskull.Aspire.PolyRepo@0.3.3-alpha.81
 - pkg:nuget/Dutchskull.Aspire.PolyRepo@0.3.3-bug-23-libgit2sharp-not-packed-properly.1%2B80
+- pkg:nuget/Dutchskull.Aspire.PolyRepo@10.0.0-alpha.320
