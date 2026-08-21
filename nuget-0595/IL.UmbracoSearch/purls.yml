@@ -81,3 +81,5 @@
 - pkg:nuget/IL.UmbracoSearch@17.7.3.8
 - pkg:nuget/IL.UmbracoSearch@17.7.6.5
 - pkg:nuget/IL.UmbracoSearch@17.8.1.14
+- pkg:nuget/IL.UmbracoSearch@17.8.2.1
+- pkg:nuget/IL.UmbracoSearch@17.8.2.2
