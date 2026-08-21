@@ -9,6 +9,7 @@
 - pkg:nuget/OpenTelemetry.Api.ProviderBuilderExtensions@1.14.0-rc.1
 - pkg:nuget/OpenTelemetry.Api.ProviderBuilderExtensions@1.15.1
 - pkg:nuget/OpenTelemetry.Api.ProviderBuilderExtensions@1.16.0-rc.1
+- pkg:nuget/OpenTelemetry.Api.ProviderBuilderExtensions@1.18.0-rc.1
 - pkg:nuget/OpenTelemetry.Api.ProviderBuilderExtensions@1.4.0
 - pkg:nuget/OpenTelemetry.Api.ProviderBuilderExtensions@1.4.0-rc.3
 - pkg:nuget/OpenTelemetry.Api.ProviderBuilderExtensions@1.4.0-rc.4
