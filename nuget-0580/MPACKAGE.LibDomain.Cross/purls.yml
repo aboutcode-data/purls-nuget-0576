@@ -74,3 +74,5 @@
 - pkg:nuget/MPACKAGE.LibDomain.Cross@1.0.818
 - pkg:nuget/MPACKAGE.LibDomain.Cross@1.0.837
 - pkg:nuget/MPACKAGE.LibDomain.Cross@1.0.841
+- pkg:nuget/MPACKAGE.LibDomain.Cross@1.0.850
+- pkg:nuget/MPACKAGE.LibDomain.Cross@1.0.852
