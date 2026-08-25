@@ -13,3 +13,4 @@
 - pkg:nuget/Xunit.SkippableFact@1.4.8
 - pkg:nuget/Xunit.SkippableFact@1.5.22-g0ae9b5ba5c
 - pkg:nuget/Xunit.SkippableFact@1.5.23
+- pkg:nuget/Xunit.SkippableFact@1.5.85
