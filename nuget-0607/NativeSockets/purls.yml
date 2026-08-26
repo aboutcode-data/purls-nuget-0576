@@ -9,3 +9,4 @@
 - pkg:nuget/NativeSockets@1.0.8
 - pkg:nuget/NativeSockets@1.0.9
 - pkg:nuget/NativeSockets@1.1.0
+- pkg:nuget/NativeSockets@1.1.6
