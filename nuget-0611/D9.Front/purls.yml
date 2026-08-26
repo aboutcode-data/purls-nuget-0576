@@ -1,3 +1,4 @@
+- pkg:nuget/D9.Front@10.0.0
 - pkg:nuget/D9.Front@8.2.0
 - pkg:nuget/D9.Front@9.0.0
 - pkg:nuget/D9.Front@9.0.1
