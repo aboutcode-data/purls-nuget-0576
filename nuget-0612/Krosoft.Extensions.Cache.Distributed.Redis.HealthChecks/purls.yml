@@ -18,3 +18,4 @@
 - pkg:nuget/Krosoft.Extensions.Cache.Distributed.Redis.HealthChecks@2025.4.29.1406
 - pkg:nuget/Krosoft.Extensions.Cache.Distributed.Redis.HealthChecks@2025.8.19.1570
 - pkg:nuget/Krosoft.Extensions.Cache.Distributed.Redis.HealthChecks@2025.9.9.2867
+- pkg:nuget/Krosoft.Extensions.Cache.Distributed.Redis.HealthChecks@2026.8.27.9675
