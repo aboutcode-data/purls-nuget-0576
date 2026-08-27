@@ -218,6 +218,8 @@
 - pkg:nuget/Pulumi.Automation@3.111.2-alpha.7aea1d1
 - pkg:nuget/Pulumi.Automation@3.112.0-alpha.50f089b
 - pkg:nuget/Pulumi.Automation@3.112.1-alpha.20c9181
+- pkg:nuget/Pulumi.Automation@3.113.1-alpha.71e1cbf
+- pkg:nuget/Pulumi.Automation@3.113.1-alpha.7feaecd
 - pkg:nuget/Pulumi.Automation@3.113.1-alpha.a57f62a
 - pkg:nuget/Pulumi.Automation@3.113.1-alpha.d3d482d
 - pkg:nuget/Pulumi.Automation@3.12.0
