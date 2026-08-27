@@ -171,3 +171,4 @@
 - pkg:nuget/TencentCloudSDK.Mqtt@3.0.1317
 - pkg:nuget/TencentCloudSDK.Mqtt@3.0.1345
 - pkg:nuget/TencentCloudSDK.Mqtt@3.0.1479
+- pkg:nuget/TencentCloudSDK.Mqtt@3.0.1497
