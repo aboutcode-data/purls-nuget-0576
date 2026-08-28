@@ -34,6 +34,7 @@
 - pkg:nuget/Digipost.Api.Client.Common@14.7.3
 - pkg:nuget/Digipost.Api.Client.Common@14.8.0
 - pkg:nuget/Digipost.Api.Client.Common@14.8.1
+- pkg:nuget/Digipost.Api.Client.Common@14.9.0
 - pkg:nuget/Digipost.Api.Client.Common@9.0.0
 - pkg:nuget/Digipost.Api.Client.Common@9.0.1
 - pkg:nuget/Digipost.Api.Client.Common@9.0.2
