@@ -64,6 +64,14 @@
 - pkg:nuget/nsquared.agents.api@0.0.601.40392-alpha
 - pkg:nuget/nsquared.agents.api@0.0.601.40421-alpha
 - pkg:nuget/nsquared.agents.api@0.0.601.40439-alpha
+- pkg:nuget/nsquared.agents.api@0.0.604.16745-alpha
+- pkg:nuget/nsquared.agents.api@0.0.604.16751-alpha
+- pkg:nuget/nsquared.agents.api@0.0.604.16776-alpha
+- pkg:nuget/nsquared.agents.api@0.0.604.16792-alpha
+- pkg:nuget/nsquared.agents.api@0.0.604.18714-alpha
+- pkg:nuget/nsquared.agents.api@0.0.604.18722-alpha
+- pkg:nuget/nsquared.agents.api@0.0.604.18765-alpha
+- pkg:nuget/nsquared.agents.api@0.0.604.18780-alpha
 - pkg:nuget/nsquared.agents.api@0.0.61.3740-alpha
 - pkg:nuget/nsquared.agents.api@0.0.61.3753-alpha
 - pkg:nuget/nsquared.agents.api@0.0.61.3780-alpha
