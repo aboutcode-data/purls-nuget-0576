@@ -94,3 +94,4 @@
 - pkg:nuget/XiHan.Framework.Http@2.3.5
 - pkg:nuget/XiHan.Framework.Http@3.10.0
 - pkg:nuget/XiHan.Framework.Http@3.11.1
+- pkg:nuget/XiHan.Framework.Http@4.0.0
