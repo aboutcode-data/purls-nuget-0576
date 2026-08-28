@@ -7,4 +7,5 @@
 - pkg:nuget/PepperDash.Core.Abstractions@3.0.0-dev-v3-routing.52
 - pkg:nuget/PepperDash.Core.Abstractions@3.0.0-dev-v3-routing.54
 - pkg:nuget/PepperDash.Core.Abstractions@3.0.0-dev-v3-testing.15
+- pkg:nuget/PepperDash.Core.Abstractions@3.0.0-feature-mockRoutingMidpoint-add-IHasNamedRoutingSlots.1
 - pkg:nuget/PepperDash.Core.Abstractions@3.0.0-fix-audio-codec-messenger-codec-info-null-ref.1
