@@ -1,1 +1,2 @@
 - pkg:nuget/Luck.Logging.Serilog@2.0.16
+- pkg:nuget/Luck.Logging.Serilog@2.0.17
