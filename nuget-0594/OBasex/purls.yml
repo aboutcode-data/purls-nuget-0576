@@ -134,3 +134,5 @@
 - pkg:nuget/OBasex@26.6.34
 - pkg:nuget/OBasex@26.6.6
 - pkg:nuget/OBasex@26.8.17
+- pkg:nuget/OBasex@26.8.27
+- pkg:nuget/OBasex@26.8.28
