@@ -41,6 +41,7 @@
 - pkg:nuget/Indice.Scalefin.SignalRModule@2.4.4
 - pkg:nuget/Indice.Scalefin.SignalRModule@2.4.5
 - pkg:nuget/Indice.Scalefin.SignalRModule@2.4.6
+- pkg:nuget/Indice.Scalefin.SignalRModule@2.40.0-beta-02
 - pkg:nuget/Indice.Scalefin.SignalRModule@2.5.0
 - pkg:nuget/Indice.Scalefin.SignalRModule@2.5.0-beta-01
 - pkg:nuget/Indice.Scalefin.SignalRModule@2.6.0
