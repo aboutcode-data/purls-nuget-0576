@@ -83,6 +83,7 @@
 - pkg:nuget/StockSharp.Web.Api.Client@5.0.187
 - pkg:nuget/StockSharp.Web.Api.Client@5.0.19
 - pkg:nuget/StockSharp.Web.Api.Client@5.0.194
+- pkg:nuget/StockSharp.Web.Api.Client@5.0.196
 - pkg:nuget/StockSharp.Web.Api.Client@5.0.20
 - pkg:nuget/StockSharp.Web.Api.Client@5.0.21
 - pkg:nuget/StockSharp.Web.Api.Client@5.0.22
