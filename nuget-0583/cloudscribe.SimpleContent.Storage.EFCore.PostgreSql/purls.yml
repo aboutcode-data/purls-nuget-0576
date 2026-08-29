@@ -1,3 +1,4 @@
+- pkg:nuget/cloudscribe.SimpleContent.Storage.EFCore.PostgreSql@10.1.0
 - pkg:nuget/cloudscribe.SimpleContent.Storage.EFCore.PostgreSql@4.0.10
 - pkg:nuget/cloudscribe.SimpleContent.Storage.EFCore.PostgreSql@4.0.11
 - pkg:nuget/cloudscribe.SimpleContent.Storage.EFCore.PostgreSql@4.0.12
