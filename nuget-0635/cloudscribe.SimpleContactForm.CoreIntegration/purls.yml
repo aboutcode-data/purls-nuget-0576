@@ -1,3 +1,4 @@
+- pkg:nuget/cloudscribe.SimpleContactForm.CoreIntegration@10.1.0
 - pkg:nuget/cloudscribe.SimpleContactForm.CoreIntegration@2.0.2
 - pkg:nuget/cloudscribe.SimpleContactForm.CoreIntegration@2.0.3
 - pkg:nuget/cloudscribe.SimpleContactForm.CoreIntegration@3.0.0
