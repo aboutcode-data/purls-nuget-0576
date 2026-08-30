@@ -1,3 +1,5 @@
+- pkg:nuget/Geex.MongoDB.Entities@10.0.5
+- pkg:nuget/Geex.MongoDB.Entities@10.0.6
 - pkg:nuget/Geex.MongoDB.Entities@7.0.2
 - pkg:nuget/Geex.MongoDB.Entities@7.0.2.1427
 - pkg:nuget/Geex.MongoDB.Entities@7.0.3
