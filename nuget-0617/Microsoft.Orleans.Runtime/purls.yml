@@ -1,4 +1,5 @@
 - pkg:nuget/Microsoft.Orleans.Runtime@10.3.0
+- pkg:nuget/Microsoft.Orleans.Runtime@10.3.1
 - pkg:nuget/Microsoft.Orleans.Runtime@7.0.0
 - pkg:nuget/Microsoft.Orleans.Runtime@7.0.0-rc2
 - pkg:nuget/Microsoft.Orleans.Runtime@7.1.0
