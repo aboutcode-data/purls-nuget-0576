@@ -370,3 +370,6 @@
 - pkg:nuget/Soenneker.Tests.Integration@4.0.874
 - pkg:nuget/Soenneker.Tests.Integration@4.0.882
 - pkg:nuget/Soenneker.Tests.Integration@4.0.889
+- pkg:nuget/Soenneker.Tests.Integration@4.0.894
+- pkg:nuget/Soenneker.Tests.Integration@4.0.897
+- pkg:nuget/Soenneker.Tests.Integration@4.0.899
