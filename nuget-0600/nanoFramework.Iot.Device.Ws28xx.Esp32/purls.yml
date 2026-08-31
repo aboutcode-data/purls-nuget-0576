@@ -6,6 +6,7 @@
 - pkg:nuget/nanoFramework.Iot.Device.Ws28xx.Esp32@1.1.51.31918
 - pkg:nuget/nanoFramework.Iot.Device.Ws28xx.Esp32@1.1.58.10097
 - pkg:nuget/nanoFramework.Iot.Device.Ws28xx.Esp32@1.1.7
+- pkg:nuget/nanoFramework.Iot.Device.Ws28xx.Esp32@1.2.1038
 - pkg:nuget/nanoFramework.Iot.Device.Ws28xx.Esp32@1.2.114
 - pkg:nuget/nanoFramework.Iot.Device.Ws28xx.Esp32@1.2.141
 - pkg:nuget/nanoFramework.Iot.Device.Ws28xx.Esp32@1.2.153
