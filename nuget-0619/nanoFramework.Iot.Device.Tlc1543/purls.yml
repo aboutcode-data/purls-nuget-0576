@@ -52,5 +52,6 @@
 - pkg:nuget/nanoFramework.Iot.Device.Tlc1543@1.2.864
 - pkg:nuget/nanoFramework.Iot.Device.Tlc1543@1.2.87
 - pkg:nuget/nanoFramework.Iot.Device.Tlc1543@1.2.95
+- pkg:nuget/nanoFramework.Iot.Device.Tlc1543@2.0.0-preview.121
 - pkg:nuget/nanoFramework.Iot.Device.Tlc1543@2.0.0-preview.16
 - pkg:nuget/nanoFramework.Iot.Device.Tlc1543@2.0.0-preview.49
