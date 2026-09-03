@@ -10,3 +10,4 @@
 - pkg:nuget/Linn.Cloud.Common.BackgroundJobs@1.0.8
 - pkg:nuget/Linn.Cloud.Common.BackgroundJobs@1.0.9
 - pkg:nuget/Linn.Cloud.Common.BackgroundJobs@1.2.2
+- pkg:nuget/Linn.Cloud.Common.BackgroundJobs@2.0.0
