@@ -14,5 +14,11 @@
 - pkg:nuget/Rask.SQLite.Browser@0.20.1-alpha.0.188
 - pkg:nuget/Rask.SQLite.Browser@0.20.1-alpha.0.197
 - pkg:nuget/Rask.SQLite.Browser@0.20.1-alpha.0.198
+- pkg:nuget/Rask.SQLite.Browser@0.20.1-alpha.0.203
+- pkg:nuget/Rask.SQLite.Browser@0.20.1-alpha.0.204
+- pkg:nuget/Rask.SQLite.Browser@0.20.1-alpha.0.207
+- pkg:nuget/Rask.SQLite.Browser@0.20.1-alpha.0.208
+- pkg:nuget/Rask.SQLite.Browser@0.20.1-alpha.0.209
+- pkg:nuget/Rask.SQLite.Browser@0.20.1-alpha.0.212
 - pkg:nuget/Rask.SQLite.Browser@0.20.1-alpha.0.68
 - pkg:nuget/Rask.SQLite.Browser@0.20.1-alpha.0.78
