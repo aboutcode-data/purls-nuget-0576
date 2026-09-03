@@ -1,2 +1,5 @@
 - pkg:nuget/Featureflip.Client.Extensions.DependencyInjection@0.1.0
 - pkg:nuget/Featureflip.Client.Extensions.DependencyInjection@1.0.1
+- pkg:nuget/Featureflip.Client.Extensions.DependencyInjection@2.5.0
+- pkg:nuget/Featureflip.Client.Extensions.DependencyInjection@2.6.0
+- pkg:nuget/Featureflip.Client.Extensions.DependencyInjection@2.9.0
