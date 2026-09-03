@@ -1,3 +1,4 @@
+- pkg:nuget/cloudscribe.Membership.StripeIntegration.Bootstrap5@10.1.0
 - pkg:nuget/cloudscribe.Membership.StripeIntegration.Bootstrap5@5.0.0
 - pkg:nuget/cloudscribe.Membership.StripeIntegration.Bootstrap5@6.0.0
 - pkg:nuget/cloudscribe.Membership.StripeIntegration.Bootstrap5@8.0.0
