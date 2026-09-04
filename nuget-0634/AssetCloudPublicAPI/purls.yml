@@ -133,3 +133,4 @@
 - pkg:nuget/AssetCloudPublicAPI@3.0.1.30975
 - pkg:nuget/AssetCloudPublicAPI@3.0.1.30975-beta
 - pkg:nuget/AssetCloudPublicAPI@3.0.12.30977
+- pkg:nuget/AssetCloudPublicAPI@3.0.14.30977-beta
