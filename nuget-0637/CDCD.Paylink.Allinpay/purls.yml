@@ -53,3 +53,5 @@
 - pkg:nuget/CDCD.Paylink.Allinpay@0.13.0
 - pkg:nuget/CDCD.Paylink.Allinpay@0.13.1
 - pkg:nuget/CDCD.Paylink.Allinpay@0.13.14
+- pkg:nuget/CDCD.Paylink.Allinpay@0.13.17
+- pkg:nuget/CDCD.Paylink.Allinpay@0.13.18
