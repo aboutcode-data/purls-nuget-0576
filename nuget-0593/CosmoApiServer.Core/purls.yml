@@ -15,4 +15,7 @@
 - pkg:nuget/CosmoApiServer.Core@3.8.0
 - pkg:nuget/CosmoApiServer.Core@3.8.1
 - pkg:nuget/CosmoApiServer.Core@3.9.1
+- pkg:nuget/CosmoApiServer.Core@4.0.11
+- pkg:nuget/CosmoApiServer.Core@4.0.12
+- pkg:nuget/CosmoApiServer.Core@4.0.13
 - pkg:nuget/CosmoApiServer.Core@4.0.3
