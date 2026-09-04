@@ -6,6 +6,7 @@
 - pkg:nuget/Admix.Core@1.1.161
 - pkg:nuget/Admix.Core@1.1.162
 - pkg:nuget/Admix.Core@1.1.163
+- pkg:nuget/Admix.Core@7.0.114
 - pkg:nuget/Admix.Core@7.0.38
 - pkg:nuget/Admix.Core@7.0.40
 - pkg:nuget/Admix.Core@7.0.42
