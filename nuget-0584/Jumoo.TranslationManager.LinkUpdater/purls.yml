@@ -96,6 +96,7 @@
 - pkg:nuget/Jumoo.TranslationManager.LinkUpdater@17.7.1
 - pkg:nuget/Jumoo.TranslationManager.LinkUpdater@18.0.0
 - pkg:nuget/Jumoo.TranslationManager.LinkUpdater@18.1.1
+- pkg:nuget/Jumoo.TranslationManager.LinkUpdater@18.2.1
 - pkg:nuget/Jumoo.TranslationManager.LinkUpdater@2.0.0-Beta2
 - pkg:nuget/Jumoo.TranslationManager.LinkUpdater@2.0.1
 - pkg:nuget/Jumoo.TranslationManager.LinkUpdater@2.0.2
