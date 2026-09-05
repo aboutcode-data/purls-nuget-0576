@@ -1,0 +1,5 @@
+- pkg:nuget/OutWit.Database.AdoNet@12.1.0
+- pkg:nuget/OutWit.Database.AdoNet@12.7.0
+- pkg:nuget/OutWit.Database.AdoNet@3.0.0
+- pkg:nuget/OutWit.Database.AdoNet@4.0.0
+- pkg:nuget/OutWit.Database.AdoNet@7.0.0
