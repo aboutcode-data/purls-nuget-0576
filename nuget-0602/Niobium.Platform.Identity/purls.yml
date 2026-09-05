@@ -13,3 +13,7 @@
 - pkg:nuget/Niobium.Platform.Identity@3.2.21
 - pkg:nuget/Niobium.Platform.Identity@3.2.9
 - pkg:nuget/Niobium.Platform.Identity@4.0.48
+- pkg:nuget/Niobium.Platform.Identity@4.0.53
+- pkg:nuget/Niobium.Platform.Identity@4.0.55
+- pkg:nuget/Niobium.Platform.Identity@4.0.61
+- pkg:nuget/Niobium.Platform.Identity@4.2.66
