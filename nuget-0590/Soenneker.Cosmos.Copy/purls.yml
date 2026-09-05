@@ -14,6 +14,9 @@
 - pkg:nuget/Soenneker.Cosmos.Copy@4.0.208
 - pkg:nuget/Soenneker.Cosmos.Copy@4.0.219
 - pkg:nuget/Soenneker.Cosmos.Copy@4.0.232
+- pkg:nuget/Soenneker.Cosmos.Copy@4.0.233
+- pkg:nuget/Soenneker.Cosmos.Copy@4.0.235
+- pkg:nuget/Soenneker.Cosmos.Copy@4.0.236
 - pkg:nuget/Soenneker.Cosmos.Copy@4.0.28
 - pkg:nuget/Soenneker.Cosmos.Copy@4.0.36
 - pkg:nuget/Soenneker.Cosmos.Copy@4.0.72
