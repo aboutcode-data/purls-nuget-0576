@@ -1,4 +1,5 @@
 - pkg:nuget/beamable.microservice.otel.exporter@0.0.0-PREVIEW.NIGHTLY-202510010001
+- pkg:nuget/beamable.microservice.otel.exporter@0.0.0-PREVIEW.NIGHTLY-202607301355
 - pkg:nuget/beamable.microservice.otel.exporter@6.0.0
 - pkg:nuget/beamable.microservice.otel.exporter@6.0.0-PREVIEW.RC1
 - pkg:nuget/beamable.microservice.otel.exporter@6.0.0-PREVIEW.RC2
@@ -13,3 +14,4 @@
 - pkg:nuget/beamable.microservice.otel.exporter@7.0.1-PREVIEW.RC4
 - pkg:nuget/beamable.microservice.otel.exporter@7.1.0-PREVIEW.RC1
 - pkg:nuget/beamable.microservice.otel.exporter@7.2.0-PREVIEW.RC3
+- pkg:nuget/beamable.microservice.otel.exporter@7.2.3-PREVIEW.RC1
