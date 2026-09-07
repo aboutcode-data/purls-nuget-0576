@@ -30,6 +30,7 @@
 - pkg:nuget/Benevia.Core.MCP@0.10.1-ci.418
 - pkg:nuget/Benevia.Core.MCP@0.10.1-ci.419
 - pkg:nuget/Benevia.Core.MCP@0.10.1-ci.420
+- pkg:nuget/Benevia.Core.MCP@0.10.1-ci.433
 - pkg:nuget/Benevia.Core.MCP@0.8.7
 - pkg:nuget/Benevia.Core.MCP@0.8.7-ci.42
 - pkg:nuget/Benevia.Core.MCP@0.8.7-ci.43
