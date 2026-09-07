@@ -1,1 +1,5 @@
 - pkg:nuget/EverModern.Chronos@0.0.12
+- pkg:nuget/EverModern.Chronos@0.0.30
+- pkg:nuget/EverModern.Chronos@0.0.32
+- pkg:nuget/EverModern.Chronos@0.0.38
+- pkg:nuget/EverModern.Chronos@0.0.40
