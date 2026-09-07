@@ -1,0 +1,13 @@
+- pkg:nuget/ArenaDotnet.Xunit@3.5.7
+- pkg:nuget/ArenaDotnet.Xunit@3.6.0
+- pkg:nuget/ArenaDotnet.Xunit@3.6.0-pr154-1412958
+- pkg:nuget/ArenaDotnet.Xunit@3.7.0-pr156-305b7f7
+- pkg:nuget/ArenaDotnet.Xunit@4.0.1
+- pkg:nuget/ArenaDotnet.Xunit@5.0.0
+- pkg:nuget/ArenaDotnet.Xunit@5.0.0-pr163-aa85939
+- pkg:nuget/ArenaDotnet.Xunit@5.1.2
+- pkg:nuget/ArenaDotnet.Xunit@5.1.2-pr183-97938a0
+- pkg:nuget/ArenaDotnet.Xunit@5.4.1
+- pkg:nuget/ArenaDotnet.Xunit@6.0.0-pr200-1db1389
+- pkg:nuget/ArenaDotnet.Xunit@6.2.1
+- pkg:nuget/ArenaDotnet.Xunit@6.2.1-pr223-53456ab
