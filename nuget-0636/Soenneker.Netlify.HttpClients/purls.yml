@@ -1,4 +1,6 @@
 - pkg:nuget/Soenneker.Netlify.HttpClients@4.0.106
+- pkg:nuget/Soenneker.Netlify.HttpClients@4.0.111
+- pkg:nuget/Soenneker.Netlify.HttpClients@4.0.114
 - pkg:nuget/Soenneker.Netlify.HttpClients@4.0.12
 - pkg:nuget/Soenneker.Netlify.HttpClients@4.0.2
 - pkg:nuget/Soenneker.Netlify.HttpClients@4.0.23
