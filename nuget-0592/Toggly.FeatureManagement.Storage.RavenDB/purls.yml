@@ -77,3 +77,4 @@
 - pkg:nuget/Toggly.FeatureManagement.Storage.RavenDB@2.9.0
 - pkg:nuget/Toggly.FeatureManagement.Storage.RavenDB@3.2.4
 - pkg:nuget/Toggly.FeatureManagement.Storage.RavenDB@3.6.5
+- pkg:nuget/Toggly.FeatureManagement.Storage.RavenDB@3.6.6
