@@ -175,4 +175,5 @@
 - pkg:nuget/XrmFramework.Analyzers@3.1.100-beta
 - pkg:nuget/XrmFramework.Analyzers@3.1.110-beta
 - pkg:nuget/XrmFramework.Analyzers@3.1.112-beta
+- pkg:nuget/XrmFramework.Analyzers@3.1.113-beta
 - pkg:nuget/XrmFramework.Analyzers@3.1.87-beta
