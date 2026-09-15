@@ -90,4 +90,5 @@
 - pkg:nuget/Microsoft.ServiceFabric.AspNetCore.Configuration@8.2.274
 - pkg:nuget/Microsoft.ServiceFabric.AspNetCore.Configuration@8.3.475
 - pkg:nuget/Microsoft.ServiceFabric.AspNetCore.Configuration@8.3.658
+- pkg:nuget/Microsoft.ServiceFabric.AspNetCore.Configuration@8.8.121
 - pkg:nuget/Microsoft.ServiceFabric.AspNetCore.Configuration@9.0.714-beta
