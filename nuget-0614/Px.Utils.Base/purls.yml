@@ -33,3 +33,5 @@
 - pkg:nuget/Px.Utils.Base@2.6.4
 - pkg:nuget/Px.Utils.Base@2.7.3
 - pkg:nuget/Px.Utils.Base@2.7.4
+- pkg:nuget/Px.Utils.Base@2.7.5
+- pkg:nuget/Px.Utils.Base@2.7.6
