@@ -164,3 +164,4 @@
 - pkg:nuget/MAIT.DataAccess@4.0.5
 - pkg:nuget/MAIT.DataAccess@5.1.2
 - pkg:nuget/MAIT.DataAccess@5.4.0
+- pkg:nuget/MAIT.DataAccess@5.5.0
