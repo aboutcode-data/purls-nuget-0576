@@ -163,4 +163,6 @@
 - pkg:nuget/PayRunIO.Core.Enums@26.27.3.100
 - pkg:nuget/PayRunIO.Core.Enums@26.27.3.104-rc
 - pkg:nuget/PayRunIO.Core.Enums@26.27.3.24-rc
+- pkg:nuget/PayRunIO.Core.Enums@26.27.4.4
+- pkg:nuget/PayRunIO.Core.Enums@26.27.4.5-rc
 - pkg:nuget/PayRunIO.Core.Enums@3.24.8.440
