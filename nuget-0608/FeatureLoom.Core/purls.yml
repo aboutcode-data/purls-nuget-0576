@@ -68,3 +68,5 @@
 - pkg:nuget/FeatureLoom.Core@0.6.2-alpha
 - pkg:nuget/FeatureLoom.Core@0.6.21-alpha
 - pkg:nuget/FeatureLoom.Core@0.7.2-alpha
+- pkg:nuget/FeatureLoom.Core@0.7.7-alpha
+- pkg:nuget/FeatureLoom.Core@0.7.9-alpha
