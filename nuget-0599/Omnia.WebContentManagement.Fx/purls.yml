@@ -1727,6 +1727,7 @@
 - pkg:nuget/Omnia.WebContentManagement.Fx@7.11.20
 - pkg:nuget/Omnia.WebContentManagement.Fx@7.11.24
 - pkg:nuget/Omnia.WebContentManagement.Fx@7.11.27
+- pkg:nuget/Omnia.WebContentManagement.Fx@7.11.29
 - pkg:nuget/Omnia.WebContentManagement.Fx@7.5.0
 - pkg:nuget/Omnia.WebContentManagement.Fx@7.5.1
 - pkg:nuget/Omnia.WebContentManagement.Fx@7.5.10
