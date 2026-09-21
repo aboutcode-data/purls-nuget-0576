@@ -24,3 +24,5 @@
 - pkg:nuget/Kifa.Tools.MediaUtil@4.1.0
 - pkg:nuget/Kifa.Tools.MediaUtil@4.1.1
 - pkg:nuget/Kifa.Tools.MediaUtil@4.2.0
+- pkg:nuget/Kifa.Tools.MediaUtil@7.1.1
+- pkg:nuget/Kifa.Tools.MediaUtil@7.1.2
