@@ -114,6 +114,7 @@
 - pkg:nuget/nanoFramework.Aws.IoTCore.Devices@1.1.155
 - pkg:nuget/nanoFramework.Aws.IoTCore.Devices@1.1.157
 - pkg:nuget/nanoFramework.Aws.IoTCore.Devices@1.1.158
+- pkg:nuget/nanoFramework.Aws.IoTCore.Devices@1.1.175
 - pkg:nuget/nanoFramework.Aws.IoTCore.Devices@1.1.18
 - pkg:nuget/nanoFramework.Aws.IoTCore.Devices@1.1.21
 - pkg:nuget/nanoFramework.Aws.IoTCore.Devices@1.1.23
