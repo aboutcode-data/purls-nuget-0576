@@ -14,3 +14,5 @@
 - pkg:nuget/EncySoftware.CAMIPC.Application.Net@1.2.4%2B78fa9a86bf1a4f179075ddb494cc71cd7ca298ed
 - pkg:nuget/EncySoftware.CAMIPC.Application.Net@2.0.3%2B874fbde4dc4dbcb96b2eb5904f8f0dcab2515fd3
 - pkg:nuget/EncySoftware.CAMIPC.Application.Net@3.0.1-rc.12%2B756134d8f3e7c74d858059314d45cca4ab449d98
+- pkg:nuget/EncySoftware.CAMIPC.Application.Net@3.0.2
+- pkg:nuget/EncySoftware.CAMIPC.Application.Net@3.0.6%2B9d19e08920adf4fdb48e8af213cd9f57badef280
