@@ -19,4 +19,5 @@
 - pkg:nuget/FluxIndex.SDK@0.44.5
 - pkg:nuget/FluxIndex.SDK@0.46.1
 - pkg:nuget/FluxIndex.SDK@0.5.8
+- pkg:nuget/FluxIndex.SDK@0.50.6
 - pkg:nuget/FluxIndex.SDK@0.8.0
