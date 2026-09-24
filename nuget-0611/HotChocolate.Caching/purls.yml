@@ -727,3 +727,4 @@
 - pkg:nuget/HotChocolate.Caching@16.6.2-p.7
 - pkg:nuget/HotChocolate.Caching@16.6.2-p.8
 - pkg:nuget/HotChocolate.Caching@16.6.3
+- pkg:nuget/HotChocolate.Caching@16.7.0-p.12
