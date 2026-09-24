@@ -1,6 +1,7 @@
 - pkg:nuget/Domore.Indexing@0.1.0.1
 - pkg:nuget/Domore.Indexing@0.2.0.2
 - pkg:nuget/Domore.Indexing@10.0.0
+- pkg:nuget/Domore.Indexing@10.4.0
 - pkg:nuget/Domore.Indexing@8.0.0.76
 - pkg:nuget/Domore.Indexing@8.0.0.77
 - pkg:nuget/Domore.Indexing@8.0.0.78
