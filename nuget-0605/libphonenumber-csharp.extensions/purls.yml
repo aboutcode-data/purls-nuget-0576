@@ -66,6 +66,7 @@
 - pkg:nuget/libphonenumber-csharp.extensions@9.0.28
 - pkg:nuget/libphonenumber-csharp.extensions@9.0.3
 - pkg:nuget/libphonenumber-csharp.extensions@9.0.4
+- pkg:nuget/libphonenumber-csharp.extensions@9.0.40
 - pkg:nuget/libphonenumber-csharp.extensions@9.0.5
 - pkg:nuget/libphonenumber-csharp.extensions@9.0.6
 - pkg:nuget/libphonenumber-csharp.extensions@9.0.7

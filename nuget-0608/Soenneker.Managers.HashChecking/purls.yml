@@ -625,3 +625,5 @@
 - pkg:nuget/Soenneker.Managers.HashChecking@4.0.846
 - pkg:nuget/Soenneker.Managers.HashChecking@4.0.847
 - pkg:nuget/Soenneker.Managers.HashChecking@4.0.851
+- pkg:nuget/Soenneker.Managers.HashChecking@4.0.862
+- pkg:nuget/Soenneker.Managers.HashChecking@4.0.864
