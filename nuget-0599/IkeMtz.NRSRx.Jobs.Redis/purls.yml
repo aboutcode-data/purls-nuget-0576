@@ -1,3 +1,4 @@
+- pkg:nuget/IkeMtz.NRSRx.Jobs.Redis@10.0.266.2
 - pkg:nuget/IkeMtz.NRSRx.Jobs.Redis@6.0.313.2
 - pkg:nuget/IkeMtz.NRSRx.Jobs.Redis@6.0.314.2
 - pkg:nuget/IkeMtz.NRSRx.Jobs.Redis@6.0.318.2
