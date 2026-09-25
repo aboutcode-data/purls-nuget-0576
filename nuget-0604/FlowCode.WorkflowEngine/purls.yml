@@ -25,3 +25,4 @@
 - pkg:nuget/FlowCode.WorkflowEngine@1.9.94
 - pkg:nuget/FlowCode.WorkflowEngine@1.9.95
 - pkg:nuget/FlowCode.WorkflowEngine@1.9.97
+- pkg:nuget/FlowCode.WorkflowEngine@2.1.5
