@@ -1,0 +1,2 @@
+- pkg:nuget/HelmSharp.Release@1.0.1
+- pkg:nuget/HelmSharp.Release@1.2.0
