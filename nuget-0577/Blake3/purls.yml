@@ -10,3 +10,4 @@
 - pkg:nuget/Blake3@1.0.0
 - pkg:nuget/Blake3@1.1.0
 - pkg:nuget/Blake3@2.0.0
+- pkg:nuget/Blake3@3.0.2
