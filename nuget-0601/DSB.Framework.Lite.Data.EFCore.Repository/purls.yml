@@ -1,6 +1,8 @@
 - pkg:nuget/DSB.Framework.Lite.Data.EFCore.Repository@1.0.0-alpha
 - pkg:nuget/DSB.Framework.Lite.Data.EFCore.Repository@1.0.1-alpha
 - pkg:nuget/DSB.Framework.Lite.Data.EFCore.Repository@1.0.13
+- pkg:nuget/DSB.Framework.Lite.Data.EFCore.Repository@1.0.17
+- pkg:nuget/DSB.Framework.Lite.Data.EFCore.Repository@1.0.18
 - pkg:nuget/DSB.Framework.Lite.Data.EFCore.Repository@1.0.2-alpha
 - pkg:nuget/DSB.Framework.Lite.Data.EFCore.Repository@1.0.3-alpha
 - pkg:nuget/DSB.Framework.Lite.Data.EFCore.Repository@1.0.9-alpha
