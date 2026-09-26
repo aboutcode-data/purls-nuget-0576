@@ -8,6 +8,7 @@
 - pkg:nuget/Surfus.Shell@1.0.92
 - pkg:nuget/Surfus.Shell@1.0.94
 - pkg:nuget/Surfus.Shell@1.1.0
+- pkg:nuget/Surfus.Shell@2.0.0
 - pkg:nuget/Surfus.Shell@2017.2.27.78631-Debug
 - pkg:nuget/Surfus.Shell@2017.2.27.79131-Debug
 - pkg:nuget/Surfus.Shell@2017.2.27.80886-Debug
