@@ -25,6 +25,8 @@
 - pkg:nuget/CK.DB.Actor.ActorPhoneNumber@2.0.0
 - pkg:nuget/CK.DB.Actor.ActorPhoneNumber@2.0.1
 - pkg:nuget/CK.DB.Actor.ActorPhoneNumber@20.0.0
+- pkg:nuget/CK.DB.Actor.ActorPhoneNumber@20.1.1
+- pkg:nuget/CK.DB.Actor.ActorPhoneNumber@21.0.0
 - pkg:nuget/CK.DB.Actor.ActorPhoneNumber@3.0.0
 - pkg:nuget/CK.DB.Actor.ActorPhoneNumber@3.1.0
 - pkg:nuget/CK.DB.Actor.ActorPhoneNumber@4.0.0
