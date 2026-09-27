@@ -1,0 +1,4 @@
+- pkg:nuget/Mostlylucid.BotDetection.Llm.LlamaSharp@8.11.2
+- pkg:nuget/Mostlylucid.BotDetection.Llm.LlamaSharp@8.8.1
+- pkg:nuget/Mostlylucid.BotDetection.Llm.LlamaSharp@8.8.2
+- pkg:nuget/Mostlylucid.BotDetection.Llm.LlamaSharp@8.9.0
