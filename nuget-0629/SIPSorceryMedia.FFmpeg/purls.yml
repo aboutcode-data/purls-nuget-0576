@@ -21,6 +21,7 @@
 - pkg:nuget/SIPSorceryMedia.FFmpeg@1.4.2
 - pkg:nuget/SIPSorceryMedia.FFmpeg@10.0.11
 - pkg:nuget/SIPSorceryMedia.FFmpeg@10.0.12
+- pkg:nuget/SIPSorceryMedia.FFmpeg@10.0.15
 - pkg:nuget/SIPSorceryMedia.FFmpeg@8.0.10
 - pkg:nuget/SIPSorceryMedia.FFmpeg@8.0.12
 - pkg:nuget/SIPSorceryMedia.FFmpeg@8.0.7
