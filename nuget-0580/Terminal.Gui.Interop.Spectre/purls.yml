@@ -2,6 +2,12 @@
 - pkg:nuget/Terminal.Gui.Interop.Spectre@2.4.11-develop.11
 - pkg:nuget/Terminal.Gui.Interop.Spectre@2.4.17-develop.2
 - pkg:nuget/Terminal.Gui.Interop.Spectre@2.4.17-develop.4
+- pkg:nuget/Terminal.Gui.Interop.Spectre@2.4.18-develop.37
+- pkg:nuget/Terminal.Gui.Interop.Spectre@2.4.18-develop.38
+- pkg:nuget/Terminal.Gui.Interop.Spectre@2.4.18-develop.39
+- pkg:nuget/Terminal.Gui.Interop.Spectre@2.4.18-develop.40
+- pkg:nuget/Terminal.Gui.Interop.Spectre@2.4.18-develop.41
+- pkg:nuget/Terminal.Gui.Interop.Spectre@2.4.18-develop.42
 - pkg:nuget/Terminal.Gui.Interop.Spectre@2.4.18-develop.5
 - pkg:nuget/Terminal.Gui.Interop.Spectre@2.4.18-develop.6
 - pkg:nuget/Terminal.Gui.Interop.Spectre@2.4.7-develop.22
@@ -10,3 +16,6 @@
 - pkg:nuget/Terminal.Gui.Interop.Spectre@2.4.9
 - pkg:nuget/Terminal.Gui.Interop.Spectre@2.4.9-develop.1
 - pkg:nuget/Terminal.Gui.Interop.Spectre@2.4.9-develop.5
+- pkg:nuget/Terminal.Gui.Interop.Spectre@2.5.1-develop.36
+- pkg:nuget/Terminal.Gui.Interop.Spectre@2.5.1-develop.40
+- pkg:nuget/Terminal.Gui.Interop.Spectre@2.5.1-develop.41
