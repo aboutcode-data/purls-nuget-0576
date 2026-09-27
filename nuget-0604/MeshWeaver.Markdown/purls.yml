@@ -8,3 +8,4 @@
 - pkg:nuget/MeshWeaver.Markdown@2.1.0
 - pkg:nuget/MeshWeaver.Markdown@2.2.0
 - pkg:nuget/MeshWeaver.Markdown@2.3.0
+- pkg:nuget/MeshWeaver.Markdown@3.0.0-rc12
