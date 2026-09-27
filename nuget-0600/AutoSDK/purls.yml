@@ -263,4 +263,5 @@
 - pkg:nuget/AutoSDK@0.35.0-preview.2.16
 - pkg:nuget/AutoSDK@0.35.0-preview.2.22
 - pkg:nuget/AutoSDK@0.35.0-preview.2.27
+- pkg:nuget/AutoSDK@0.35.0-preview.2.37
 - pkg:nuget/AutoSDK@0.35.0-preview.2.8
