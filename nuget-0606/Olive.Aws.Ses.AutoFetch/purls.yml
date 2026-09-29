@@ -22,6 +22,7 @@
 - pkg:nuget/Olive.Aws.Ses.AutoFetch@1.2.0.7
 - pkg:nuget/Olive.Aws.Ses.AutoFetch@1.2.0.8
 - pkg:nuget/Olive.Aws.Ses.AutoFetch@1.2.0.9
+- pkg:nuget/Olive.Aws.Ses.AutoFetch@10.2.1
 - pkg:nuget/Olive.Aws.Ses.AutoFetch@2.0.0
 - pkg:nuget/Olive.Aws.Ses.AutoFetch@2.0.0.1
 - pkg:nuget/Olive.Aws.Ses.AutoFetch@2.0.0.2
