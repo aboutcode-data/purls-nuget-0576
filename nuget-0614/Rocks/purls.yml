@@ -2,6 +2,7 @@
 - pkg:nuget/Rocks@1.0.0-beta1
 - pkg:nuget/Rocks@1.1.1
 - pkg:nuget/Rocks@10.0.0-alpha.1
+- pkg:nuget/Rocks@10.3.4
 - pkg:nuget/Rocks@2.0.0
 - pkg:nuget/Rocks@2.0.0-beta
 - pkg:nuget/Rocks@2.1.0
