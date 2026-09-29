@@ -52,3 +52,4 @@
 - pkg:nuget/DotNetBrowser.Chromium.macOS-x64@3.5.1
 - pkg:nuget/DotNetBrowser.Chromium.macOS-x64@4.2.1
 - pkg:nuget/DotNetBrowser.Chromium.macOS-x64@4.3.0
+- pkg:nuget/DotNetBrowser.Chromium.macOS-x64@4.3.2
