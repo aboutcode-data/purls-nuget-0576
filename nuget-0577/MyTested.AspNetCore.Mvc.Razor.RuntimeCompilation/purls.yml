@@ -1,3 +1,4 @@
+- pkg:nuget/MyTested.AspNetCore.Mvc.Razor.RuntimeCompilation@10.0.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.Razor.RuntimeCompilation@5.0.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.Razor.RuntimeCompilation@6.0.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.Razor.RuntimeCompilation@7.0.0
