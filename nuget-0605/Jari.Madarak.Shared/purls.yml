@@ -398,6 +398,8 @@
 - pkg:nuget/Jari.Madarak.Shared@2.2.36.9
 - pkg:nuget/Jari.Madarak.Shared@2.2.37
 - pkg:nuget/Jari.Madarak.Shared@2.2.37.1
+- pkg:nuget/Jari.Madarak.Shared@2.2.37.21
+- pkg:nuget/Jari.Madarak.Shared@2.2.37.22
 - pkg:nuget/Jari.Madarak.Shared@2.2.37.5
 - pkg:nuget/Jari.Madarak.Shared@2.2.4
 - pkg:nuget/Jari.Madarak.Shared@2.2.5
