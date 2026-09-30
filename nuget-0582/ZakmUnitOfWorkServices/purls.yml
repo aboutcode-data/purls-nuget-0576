@@ -40,4 +40,6 @@
 - pkg:nuget/ZakmUnitOfWorkServices@1.5.5
 - pkg:nuget/ZakmUnitOfWorkServices@1.5.56
 - pkg:nuget/ZakmUnitOfWorkServices@1.5.70
+- pkg:nuget/ZakmUnitOfWorkServices@1.5.75
+- pkg:nuget/ZakmUnitOfWorkServices@1.5.80
 - pkg:nuget/ZakmUnitOfWorkServices@1.5.9
