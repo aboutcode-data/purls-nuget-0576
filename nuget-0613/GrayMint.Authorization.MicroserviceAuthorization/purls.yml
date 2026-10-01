@@ -44,3 +44,4 @@
 - pkg:nuget/GrayMint.Authorization.MicroserviceAuthorization@3.2.164
 - pkg:nuget/GrayMint.Authorization.MicroserviceAuthorization@3.2.167
 - pkg:nuget/GrayMint.Authorization.MicroserviceAuthorization@3.2.178
+- pkg:nuget/GrayMint.Authorization.MicroserviceAuthorization@3.2.181
