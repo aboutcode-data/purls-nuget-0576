@@ -2,6 +2,7 @@
 - pkg:nuget/RobinTTY.NordigenApiClient@10.0.0
 - pkg:nuget/RobinTTY.NordigenApiClient@10.1.0
 - pkg:nuget/RobinTTY.NordigenApiClient@11.0.0
+- pkg:nuget/RobinTTY.NordigenApiClient@11.1.0
 - pkg:nuget/RobinTTY.NordigenApiClient@2.0.0
 - pkg:nuget/RobinTTY.NordigenApiClient@2.0.1
 - pkg:nuget/RobinTTY.NordigenApiClient@2.0.2
