@@ -36,5 +36,7 @@
 - pkg:nuget/FluentEngine@25.2.4.3
 - pkg:nuget/FluentEngine@25.2.5.2
 - pkg:nuget/FluentEngine@26.1.0.45
+- pkg:nuget/FluentEngine@26.3.0
 - pkg:nuget/FluentEngine@26.3.0-preview.26
 - pkg:nuget/FluentEngine@26.3.0-preview.34
+- pkg:nuget/FluentEngine@26.3.0-preview.70
