@@ -1,1 +1,11 @@
 - pkg:nuget/Sorcha.Cli@1.1.1
+- pkg:nuget/Sorcha.Cli@2.106.1
+- pkg:nuget/Sorcha.Cli@2.107.1
+- pkg:nuget/Sorcha.Cli@2.108.1
+- pkg:nuget/Sorcha.Cli@2.109.1
+- pkg:nuget/Sorcha.Cli@2.44.1
+- pkg:nuget/Sorcha.Cli@2.46.1
+- pkg:nuget/Sorcha.Cli@2.56.1
+- pkg:nuget/Sorcha.Cli@2.66.1
+- pkg:nuget/Sorcha.Cli@2.73.1
+- pkg:nuget/Sorcha.Cli@2.81.1
