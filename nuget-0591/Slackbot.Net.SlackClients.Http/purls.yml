@@ -121,3 +121,4 @@
 - pkg:nuget/Slackbot.Net.SlackClients.Http@8.1.4-ci0010-83080f3
 - pkg:nuget/Slackbot.Net.SlackClients.Http@9.0.3
 - pkg:nuget/Slackbot.Net.SlackClients.Http@9.0.5
+- pkg:nuget/Slackbot.Net.SlackClients.Http@9.1.0
