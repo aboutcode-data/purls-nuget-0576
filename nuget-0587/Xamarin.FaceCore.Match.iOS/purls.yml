@@ -62,3 +62,4 @@
 - pkg:nuget/Xamarin.FaceCore.Match.iOS@8.4.766-rc
 - pkg:nuget/Xamarin.FaceCore.Match.iOS@8.4.777-rc
 - pkg:nuget/Xamarin.FaceCore.Match.iOS@8.4.794-rc
+- pkg:nuget/Xamarin.FaceCore.Match.iOS@8.4.807-rc
