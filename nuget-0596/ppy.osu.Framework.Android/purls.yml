@@ -582,6 +582,7 @@
 - pkg:nuget/ppy.osu.Framework.Android@2025.908.0
 - pkg:nuget/ppy.osu.Framework.Android@2025.930.0
 - pkg:nuget/ppy.osu.Framework.Android@2026.1004.0
+- pkg:nuget/ppy.osu.Framework.Android@2026.1005.0
 - pkg:nuget/ppy.osu.Framework.Android@2026.209.0
 - pkg:nuget/ppy.osu.Framework.Android@2026.513.0
 - pkg:nuget/ppy.osu.Framework.Android@2026.616.0
@@ -590,3 +591,4 @@
 - pkg:nuget/ppy.osu.Framework.Android@2026.807.0
 - pkg:nuget/ppy.osu.Framework.Android@2026.918.0
 - pkg:nuget/ppy.osu.Framework.Android@2026.921.0
+- pkg:nuget/ppy.osu.Framework.Android@2026.921.1
