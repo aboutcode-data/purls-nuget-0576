@@ -6,3 +6,4 @@
 - pkg:nuget/Soenneker.Docker.Registry.HttpClients@4.0.52
 - pkg:nuget/Soenneker.Docker.Registry.HttpClients@4.0.53
 - pkg:nuget/Soenneker.Docker.Registry.HttpClients@4.0.59
+- pkg:nuget/Soenneker.Docker.Registry.HttpClients@4.0.62
