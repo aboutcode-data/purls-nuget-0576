@@ -9,3 +9,4 @@
 - pkg:nuget/TUnit.Assertions.Should@1.67.0-beta
 - pkg:nuget/TUnit.Assertions.Should@1.70.0-beta
 - pkg:nuget/TUnit.Assertions.Should@1.72.0-beta
+- pkg:nuget/TUnit.Assertions.Should@1.73.0-beta
