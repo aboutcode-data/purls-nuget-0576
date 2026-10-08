@@ -68,6 +68,7 @@
 - pkg:nuget/Firebend.AutoCrud.Core@15.0.5
 - pkg:nuget/Firebend.AutoCrud.Core@15.0.6
 - pkg:nuget/Firebend.AutoCrud.Core@15.0.7
+- pkg:nuget/Firebend.AutoCrud.Core@17.0.1
 - pkg:nuget/Firebend.AutoCrud.Core@2.0.0
 - pkg:nuget/Firebend.AutoCrud.Core@2.1.0
 - pkg:nuget/Firebend.AutoCrud.Core@2.2.0
