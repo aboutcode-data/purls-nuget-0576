@@ -399,6 +399,7 @@
 - pkg:nuget/HotChocolate.PersistedOperations.Redis@16.6.2
 - pkg:nuget/HotChocolate.PersistedOperations.Redis@16.6.2-p.8
 - pkg:nuget/HotChocolate.PersistedOperations.Redis@16.6.3
+- pkg:nuget/HotChocolate.PersistedOperations.Redis@16.6.8
 - pkg:nuget/HotChocolate.PersistedOperations.Redis@16.7.0-p.1
 - pkg:nuget/HotChocolate.PersistedOperations.Redis@16.7.0-p.10
 - pkg:nuget/HotChocolate.PersistedOperations.Redis@16.7.0-p.11
