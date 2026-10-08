@@ -1,4 +1,5 @@
 - pkg:nuget/CretNet.Platform.Fluxor.Generators@0.10.0
+- pkg:nuget/CretNet.Platform.Fluxor.Generators@0.13.0
 - pkg:nuget/CretNet.Platform.Fluxor.Generators@0.3.1
 - pkg:nuget/CretNet.Platform.Fluxor.Generators@0.4.0
 - pkg:nuget/CretNet.Platform.Fluxor.Generators@0.4.1
