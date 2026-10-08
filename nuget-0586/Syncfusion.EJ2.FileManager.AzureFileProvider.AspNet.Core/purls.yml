@@ -40,3 +40,4 @@
 - pkg:nuget/Syncfusion.EJ2.FileManager.AzureFileProvider.AspNet.Core@31.1.17
 - pkg:nuget/Syncfusion.EJ2.FileManager.AzureFileProvider.AspNet.Core@34.1.29
 - pkg:nuget/Syncfusion.EJ2.FileManager.AzureFileProvider.AspNet.Core@34.2.3
+- pkg:nuget/Syncfusion.EJ2.FileManager.AzureFileProvider.AspNet.Core@35.1.39
