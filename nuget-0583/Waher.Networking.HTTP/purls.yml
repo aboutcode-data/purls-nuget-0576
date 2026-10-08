@@ -105,3 +105,4 @@
 - pkg:nuget/Waher.Networking.HTTP@4.4.4
 - pkg:nuget/Waher.Networking.HTTP@4.4.5
 - pkg:nuget/Waher.Networking.HTTP@4.5.0
+- pkg:nuget/Waher.Networking.HTTP@4.9.0
