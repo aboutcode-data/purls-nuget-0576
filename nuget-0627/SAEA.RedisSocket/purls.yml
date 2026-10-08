@@ -6,6 +6,7 @@
 - pkg:nuget/SAEA.RedisSocket@2.2.0
 - pkg:nuget/SAEA.RedisSocket@2.2.2
 - pkg:nuget/SAEA.RedisSocket@2.2.2.1
+- pkg:nuget/SAEA.RedisSocket@26.10.8.1
 - pkg:nuget/SAEA.RedisSocket@3.0.0.1
 - pkg:nuget/SAEA.RedisSocket@3.1.0
 - pkg:nuget/SAEA.RedisSocket@3.1.1
