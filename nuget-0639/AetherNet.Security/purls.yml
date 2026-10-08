@@ -1,0 +1,4 @@
+- pkg:nuget/AetherNet.Security@1.8.0
+- pkg:nuget/AetherNet.Security@2.0.0
+- pkg:nuget/AetherNet.Security@3.0.0
+- pkg:nuget/AetherNet.Security@3.2.0
