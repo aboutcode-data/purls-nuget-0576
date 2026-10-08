@@ -102,4 +102,5 @@
 - pkg:nuget/Microsoft.PowerApps.CLI@1.9.8
 - pkg:nuget/Microsoft.PowerApps.CLI@1.9.9
 - pkg:nuget/Microsoft.PowerApps.CLI@2.1.1
+- pkg:nuget/Microsoft.PowerApps.CLI@2.13.1
 - pkg:nuget/Microsoft.PowerApps.CLI@2.5.1
