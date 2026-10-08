@@ -1059,6 +1059,7 @@
 - pkg:nuget/GemBox.Pdf@2025.9.113
 - pkg:nuget/GemBox.Pdf@20251.0.101-hotfix
 - pkg:nuget/GemBox.Pdf@2026.1.102
+- pkg:nuget/GemBox.Pdf@2026.10.103
 - pkg:nuget/GemBox.Pdf@2026.2.112
 - pkg:nuget/GemBox.Pdf@2026.3.101
 - pkg:nuget/GemBox.Pdf@2026.3.116
