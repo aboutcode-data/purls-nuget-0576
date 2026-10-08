@@ -8,3 +8,4 @@
 - pkg:nuget/Microsoft.Windows.AI.MachineLearning@2.1.75-experimental
 - pkg:nuget/Microsoft.Windows.AI.MachineLearning@2.3.10-preview
 - pkg:nuget/Microsoft.Windows.AI.MachineLearning@2.3.42
+- pkg:nuget/Microsoft.Windows.AI.MachineLearning@2.5.83-rc
