@@ -64,6 +64,7 @@
 - pkg:nuget/Firebend.AutoCrud.ChangeTracking.EntityFramework@15.0.5
 - pkg:nuget/Firebend.AutoCrud.ChangeTracking.EntityFramework@15.0.6
 - pkg:nuget/Firebend.AutoCrud.ChangeTracking.EntityFramework@15.0.7
+- pkg:nuget/Firebend.AutoCrud.ChangeTracking.EntityFramework@17.0.1
 - pkg:nuget/Firebend.AutoCrud.ChangeTracking.EntityFramework@2.0.0
 - pkg:nuget/Firebend.AutoCrud.ChangeTracking.EntityFramework@2.1.0
 - pkg:nuget/Firebend.AutoCrud.ChangeTracking.EntityFramework@2.2.0
