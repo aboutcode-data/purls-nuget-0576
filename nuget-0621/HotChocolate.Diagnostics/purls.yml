@@ -965,3 +965,4 @@
 - pkg:nuget/HotChocolate.Diagnostics@16.7.0-p.14
 - pkg:nuget/HotChocolate.Diagnostics@16.7.0-p.20
 - pkg:nuget/HotChocolate.Diagnostics@16.7.0-p.22
+- pkg:nuget/HotChocolate.Diagnostics@16.7.0-p.23
