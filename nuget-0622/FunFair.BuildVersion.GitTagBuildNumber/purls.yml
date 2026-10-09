@@ -509,3 +509,4 @@
 - pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.20.2393-pull-406-merge
 - pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.20.2394-main
 - pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.20.2397-main
+- pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.20.2399-main
