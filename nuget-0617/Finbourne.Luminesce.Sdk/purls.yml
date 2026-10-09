@@ -495,6 +495,7 @@
 - pkg:nuget/Finbourne.Luminesce.Sdk@2.5.176
 - pkg:nuget/Finbourne.Luminesce.Sdk@2.5.18
 - pkg:nuget/Finbourne.Luminesce.Sdk@2.5.180
+- pkg:nuget/Finbourne.Luminesce.Sdk@2.5.184
 - pkg:nuget/Finbourne.Luminesce.Sdk@2.5.2
 - pkg:nuget/Finbourne.Luminesce.Sdk@2.5.22
 - pkg:nuget/Finbourne.Luminesce.Sdk@2.5.27
