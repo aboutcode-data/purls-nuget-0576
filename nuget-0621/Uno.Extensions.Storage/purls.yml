@@ -509,3 +509,4 @@
 - pkg:nuget/Uno.Extensions.Storage@7.4.0-dev.3
 - pkg:nuget/Uno.Extensions.Storage@7.4.0-dev.50
 - pkg:nuget/Uno.Extensions.Storage@7.4.0-dev.61
+- pkg:nuget/Uno.Extensions.Storage@8.0.0-dev.76
