@@ -1,4 +1,5 @@
 - pkg:nuget/VirtoCommerce.ImportModule.CsvHelper@3.1000.0
+- pkg:nuget/VirtoCommerce.ImportModule.CsvHelper@3.1004.0
 - pkg:nuget/VirtoCommerce.ImportModule.CsvHelper@3.200.0
 - pkg:nuget/VirtoCommerce.ImportModule.CsvHelper@3.200.0-alpha.14
 - pkg:nuget/VirtoCommerce.ImportModule.CsvHelper@3.200.0-alpha.15
