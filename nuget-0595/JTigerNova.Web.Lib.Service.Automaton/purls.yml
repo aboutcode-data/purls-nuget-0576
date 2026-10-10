@@ -248,3 +248,4 @@
 - pkg:nuget/JTigerNova.Web.Lib.Service.Automaton@6.20.6
 - pkg:nuget/JTigerNova.Web.Lib.Service.Automaton@6.28.7
 - pkg:nuget/JTigerNova.Web.Lib.Service.Automaton@9.1.3
+- pkg:nuget/JTigerNova.Web.Lib.Service.Automaton@9.2.1
