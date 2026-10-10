@@ -47,6 +47,7 @@
 - pkg:nuget/FluentValidation@11.9.2
 - pkg:nuget/FluentValidation@12.0.0
 - pkg:nuget/FluentValidation@12.0.0-preview1
+- pkg:nuget/FluentValidation@12.2.0
 - pkg:nuget/FluentValidation@2.0.0
 - pkg:nuget/FluentValidation@3.0.0
 - pkg:nuget/FluentValidation@3.0.0.1
