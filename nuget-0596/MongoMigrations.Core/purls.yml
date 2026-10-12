@@ -218,6 +218,7 @@
 - pkg:nuget/MongoMigrations.Core@4.0.2
 - pkg:nuget/MongoMigrations.Core@4.0.2-prerelease0003
 - pkg:nuget/MongoMigrations.Core@4.0.2-prerelease0025
+- pkg:nuget/MongoMigrations.Core@4.0.24-prerelease.8
 - pkg:nuget/MongoMigrations.Core@4.0.3
 - pkg:nuget/MongoMigrations.Core@4.0.3-prerelease0003
 - pkg:nuget/MongoMigrations.Core@4.0.3-prerelease0004
