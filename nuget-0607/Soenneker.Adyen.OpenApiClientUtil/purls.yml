@@ -14,6 +14,7 @@
 - pkg:nuget/Soenneker.Adyen.OpenApiClientUtil@4.0.183
 - pkg:nuget/Soenneker.Adyen.OpenApiClientUtil@4.0.185
 - pkg:nuget/Soenneker.Adyen.OpenApiClientUtil@4.0.19
+- pkg:nuget/Soenneker.Adyen.OpenApiClientUtil@4.0.199
 - pkg:nuget/Soenneker.Adyen.OpenApiClientUtil@4.0.24
 - pkg:nuget/Soenneker.Adyen.OpenApiClientUtil@4.0.25
 - pkg:nuget/Soenneker.Adyen.OpenApiClientUtil@4.0.32
