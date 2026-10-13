@@ -51,6 +51,7 @@
 - pkg:nuget/Skulboard.Helper@1.0.272.1
 - pkg:nuget/Skulboard.Helper@1.0.275.2
 - pkg:nuget/Skulboard.Helper@1.0.285.1
+- pkg:nuget/Skulboard.Helper@1.0.285.12
 - pkg:nuget/Skulboard.Helper@1.0.291.1
 - pkg:nuget/Skulboard.Helper@1.0.297.3
 - pkg:nuget/Skulboard.Helper@1.0.307.1
