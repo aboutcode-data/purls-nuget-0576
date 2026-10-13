@@ -42,6 +42,7 @@
 - pkg:nuget/Nerdbank.Streams@2.12.87
 - pkg:nuget/Nerdbank.Streams@2.12.90
 - pkg:nuget/Nerdbank.Streams@2.13.16
+- pkg:nuget/Nerdbank.Streams@2.14.405
 - pkg:nuget/Nerdbank.Streams@2.2.12
 - pkg:nuget/Nerdbank.Streams@2.2.24-rc
 - pkg:nuget/Nerdbank.Streams@2.2.26
