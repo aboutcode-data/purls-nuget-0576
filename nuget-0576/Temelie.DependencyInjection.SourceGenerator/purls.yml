@@ -74,6 +74,7 @@
 - pkg:nuget/Temelie.DependencyInjection.SourceGenerator@1.0.178%2Bc120065
 - pkg:nuget/Temelie.DependencyInjection.SourceGenerator@1.0.179%2B096d8fb
 - pkg:nuget/Temelie.DependencyInjection.SourceGenerator@1.0.185%2B8bd6792
+- pkg:nuget/Temelie.DependencyInjection.SourceGenerator@1.0.202%2Bf822c12
 - pkg:nuget/Temelie.DependencyInjection.SourceGenerator@1.0.29%2B65fd9e7
 - pkg:nuget/Temelie.DependencyInjection.SourceGenerator@1.0.30%2Bde0309f
 - pkg:nuget/Temelie.DependencyInjection.SourceGenerator@1.0.32%2B69007c9
