@@ -1,6 +1,7 @@
 - pkg:nuget/dotnet-monitor@10.0.0-rc.1.25453.1
 - pkg:nuget/dotnet-monitor@10.0.0-rc.1.25460.1
 - pkg:nuget/dotnet-monitor@10.0.0-rc.2.25503.6
+- pkg:nuget/dotnet-monitor@10.0.5
 - pkg:nuget/dotnet-monitor@5.0.0-preview.4.21219.3
 - pkg:nuget/dotnet-monitor@5.0.0-preview.5.21302.5
 - pkg:nuget/dotnet-monitor@5.0.0-preview.6.21370.3
