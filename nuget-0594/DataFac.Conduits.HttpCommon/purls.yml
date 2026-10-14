@@ -1,1 +1,4 @@
 - pkg:nuget/DataFac.Conduits.HttpCommon@1.0.18-dev
+- pkg:nuget/DataFac.Conduits.HttpCommon@1.0.72-dev
+- pkg:nuget/DataFac.Conduits.HttpCommon@1.0.75-dev
+- pkg:nuget/DataFac.Conduits.HttpCommon@1.0.77-dev
