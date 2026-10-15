@@ -22,6 +22,7 @@
 - pkg:nuget/Bsa.Msa.RabbitMq.Core@10.0.76
 - pkg:nuget/Bsa.Msa.RabbitMq.Core@10.0.78
 - pkg:nuget/Bsa.Msa.RabbitMq.Core@10.0.80
+- pkg:nuget/Bsa.Msa.RabbitMq.Core@10.0.83
 - pkg:nuget/Bsa.Msa.RabbitMq.Core@2.0.0
 - pkg:nuget/Bsa.Msa.RabbitMq.Core@2.0.1
 - pkg:nuget/Bsa.Msa.RabbitMq.Core@2.0.2
@@ -96,6 +97,7 @@
 - pkg:nuget/Bsa.Msa.RabbitMq.Core@6.0.78
 - pkg:nuget/Bsa.Msa.RabbitMq.Core@6.0.8
 - pkg:nuget/Bsa.Msa.RabbitMq.Core@6.0.80
+- pkg:nuget/Bsa.Msa.RabbitMq.Core@6.0.83
 - pkg:nuget/Bsa.Msa.RabbitMq.Core@6.0.9
 - pkg:nuget/Bsa.Msa.RabbitMq.Core@7.0.0
 - pkg:nuget/Bsa.Msa.RabbitMq.Core@7.0.1
