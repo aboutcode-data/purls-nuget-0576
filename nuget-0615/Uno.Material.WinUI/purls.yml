@@ -474,3 +474,5 @@
 - pkg:nuget/Uno.Material.WinUI@7.2.0-dev.1
 - pkg:nuget/Uno.Material.WinUI@7.2.0-dev.3
 - pkg:nuget/Uno.Material.WinUI@9.0.0-dev.34
+- pkg:nuget/Uno.Material.WinUI@9.0.0-dev.44
+- pkg:nuget/Uno.Material.WinUI@9.0.0-dev.56
