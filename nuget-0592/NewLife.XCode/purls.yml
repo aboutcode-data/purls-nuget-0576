@@ -493,6 +493,9 @@
 - pkg:nuget/NewLife.XCode@12.0.2026.715-beta0358
 - pkg:nuget/NewLife.XCode@12.1.2026.827-beta1517
 - pkg:nuget/NewLife.XCode@12.1.2026.827-beta1519
+- pkg:nuget/NewLife.XCode@12.2.2026.1016-beta0258
+- pkg:nuget/NewLife.XCode@12.2.2026.1016-beta0306
+- pkg:nuget/NewLife.XCode@12.2.2026.1018-beta1730
 - pkg:nuget/NewLife.XCode@12.2.2026.901
 - pkg:nuget/NewLife.XCode@12.2.2026.901-beta1107
 - pkg:nuget/NewLife.XCode@12.2.2026.911-beta1544
