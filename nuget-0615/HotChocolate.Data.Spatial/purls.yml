@@ -930,6 +930,7 @@
 - pkg:nuget/HotChocolate.Data.Spatial@14.3.0
 - pkg:nuget/HotChocolate.Data.Spatial@14.3.0-p.1
 - pkg:nuget/HotChocolate.Data.Spatial@14.3.0-p.2
+- pkg:nuget/HotChocolate.Data.Spatial@14.3.3
 - pkg:nuget/HotChocolate.Data.Spatial@14.4.0-p.1
 - pkg:nuget/HotChocolate.Data.Spatial@14.4.0-p.10
 - pkg:nuget/HotChocolate.Data.Spatial@14.4.0-p.2
@@ -1265,3 +1266,8 @@
 - pkg:nuget/HotChocolate.Data.Spatial@16.7.0-p.23
 - pkg:nuget/HotChocolate.Data.Spatial@16.7.0-p.25
 - pkg:nuget/HotChocolate.Data.Spatial@16.7.0-p.26
+- pkg:nuget/HotChocolate.Data.Spatial@16.7.0-p.32
+- pkg:nuget/HotChocolate.Data.Spatial@16.7.0-p.33
+- pkg:nuget/HotChocolate.Data.Spatial@16.8.0-p.4
+- pkg:nuget/HotChocolate.Data.Spatial@16.8.0-p.8
+- pkg:nuget/HotChocolate.Data.Spatial@16.8.0-p.9
