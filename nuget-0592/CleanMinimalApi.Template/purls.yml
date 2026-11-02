@@ -84,5 +84,9 @@
 - pkg:nuget/CleanMinimalApi.Template@2024.7.26.142
 - pkg:nuget/CleanMinimalApi.Template@2024.8.1.143
 - pkg:nuget/CleanMinimalApi.Template@2024.9.1.146
+- pkg:nuget/CleanMinimalApi.Template@2026.10.27.186
+- pkg:nuget/CleanMinimalApi.Template@2026.10.27.188
+- pkg:nuget/CleanMinimalApi.Template@2026.10.28.208
+- pkg:nuget/CleanMinimalApi.Template@2026.10.28.218
 - pkg:nuget/CleanMinimalApi.Template@2026.4.1.166
 - pkg:nuget/CleanMinimalApi.Template@2026.5.1.167
