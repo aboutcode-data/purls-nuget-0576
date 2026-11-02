@@ -30,3 +30,5 @@
 - pkg:nuget/Atc.XamlToolkit.Avalonia@1.5.7
 - pkg:nuget/Atc.XamlToolkit.Avalonia@3.0.18
 - pkg:nuget/Atc.XamlToolkit.Avalonia@3.1.5
+- pkg:nuget/Atc.XamlToolkit.Avalonia@3.2.0
+- pkg:nuget/Atc.XamlToolkit.Avalonia@3.2.1
