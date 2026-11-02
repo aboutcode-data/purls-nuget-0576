@@ -90,5 +90,7 @@
 - pkg:nuget/Snet.Beckhoff@26.219.1
 - pkg:nuget/Snet.Beckhoff@26.222.1
 - pkg:nuget/Snet.Beckhoff@26.226.1
+- pkg:nuget/Snet.Beckhoff@26.282.1
+- pkg:nuget/Snet.Beckhoff@26.283.1-preview.1
 - pkg:nuget/Snet.Beckhoff@26.77.1
 - pkg:nuget/Snet.Beckhoff@26.78.1
