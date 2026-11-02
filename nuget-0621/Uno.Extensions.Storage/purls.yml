@@ -503,6 +503,8 @@
 - pkg:nuget/Uno.Extensions.Storage@7.3.0-dev.39
 - pkg:nuget/Uno.Extensions.Storage@7.3.0-dev.94
 - pkg:nuget/Uno.Extensions.Storage@7.3.6
+- pkg:nuget/Uno.Extensions.Storage@7.4.0-dev.115
+- pkg:nuget/Uno.Extensions.Storage@7.4.0-dev.118
 - pkg:nuget/Uno.Extensions.Storage@7.4.0-dev.14
 - pkg:nuget/Uno.Extensions.Storage@7.4.0-dev.16
 - pkg:nuget/Uno.Extensions.Storage@7.4.0-dev.26
@@ -510,6 +512,8 @@
 - pkg:nuget/Uno.Extensions.Storage@7.4.0-dev.50
 - pkg:nuget/Uno.Extensions.Storage@7.4.0-dev.61
 - pkg:nuget/Uno.Extensions.Storage@8.0.0-dev.100
+- pkg:nuget/Uno.Extensions.Storage@8.0.0-dev.118
+- pkg:nuget/Uno.Extensions.Storage@8.0.0-dev.126
 - pkg:nuget/Uno.Extensions.Storage@8.0.0-dev.76
 - pkg:nuget/Uno.Extensions.Storage@8.0.0-dev.83
 - pkg:nuget/Uno.Extensions.Storage@8.0.0-dev.96
