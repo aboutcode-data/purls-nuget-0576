@@ -143,3 +143,5 @@
 - pkg:nuget/Pulumiverse.Grafana@2.37.0-alpha.1785753094
 - pkg:nuget/Pulumiverse.Grafana@2.4.0
 - pkg:nuget/Pulumiverse.Grafana@2.4.0-alpha.1759498179
+- pkg:nuget/Pulumiverse.Grafana@2.44.0
+- pkg:nuget/Pulumiverse.Grafana@2.44.0-alpha.1792586436
