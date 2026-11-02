@@ -18,7 +18,9 @@
 - pkg:nuget/IronHive.Agent@0.39.1
 - pkg:nuget/IronHive.Agent@0.44.0
 - pkg:nuget/IronHive.Agent@0.52.5
+- pkg:nuget/IronHive.Agent@0.55.0
 - pkg:nuget/IronHive.Agent@0.7.1
+- pkg:nuget/IronHive.Agent@0.71.0
 - pkg:nuget/IronHive.Agent@0.8.1
 - pkg:nuget/IronHive.Agent@0.9.10
 - pkg:nuget/IronHive.Agent@0.9.2
