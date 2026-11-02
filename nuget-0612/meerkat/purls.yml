@@ -24,3 +24,4 @@
 - pkg:nuget/meerkat@1.0.9
 - pkg:nuget/meerkat@1.1.0
 - pkg:nuget/meerkat@2.0.0
+- pkg:nuget/meerkat@3.0.0
