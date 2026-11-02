@@ -22,3 +22,5 @@
 - pkg:nuget/MicroPrint.Services.Contract@2.1.19
 - pkg:nuget/MicroPrint.Services.Contract@2.1.2
 - pkg:nuget/MicroPrint.Services.Contract@2.1.26
+- pkg:nuget/MicroPrint.Services.Contract@2.1.28
+- pkg:nuget/MicroPrint.Services.Contract@2.1.30

@@ -12,3 +12,7 @@
 - pkg:nuget/Prowl.Vector@2.8.3
 - pkg:nuget/Prowl.Vector@2.8.5
 - pkg:nuget/Prowl.Vector@2.8.6
+- pkg:nuget/Prowl.Vector@3.2.1
+- pkg:nuget/Prowl.Vector@3.6.8
+- pkg:nuget/Prowl.Vector@3.8.2
+- pkg:nuget/Prowl.Vector@3.8.5
