@@ -1,2 +1,5 @@
 - pkg:nuget/PicoActor@2026.1.2
 - pkg:nuget/PicoActor@2026.3.0
+- pkg:nuget/PicoActor@2026.3.2
+- pkg:nuget/PicoActor@2026.4.0
+- pkg:nuget/PicoActor@2026.5.0
