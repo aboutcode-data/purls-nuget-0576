@@ -29,3 +29,7 @@
 - pkg:nuget/NativeSockets@1.6.5
 - pkg:nuget/NativeSockets@1.6.8
 - pkg:nuget/NativeSockets@1.6.9
+- pkg:nuget/NativeSockets@1.7.0
+- pkg:nuget/NativeSockets@1.7.1
+- pkg:nuget/NativeSockets@1.7.5
+- pkg:nuget/NativeSockets@1.7.6
