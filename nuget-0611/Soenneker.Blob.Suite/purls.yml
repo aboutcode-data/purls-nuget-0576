@@ -467,6 +467,11 @@
 - pkg:nuget/Soenneker.Blob.Suite@1.0.97
 - pkg:nuget/Soenneker.Blob.Suite@1.0.98
 - pkg:nuget/Soenneker.Blob.Suite@1.0.99
+- pkg:nuget/Soenneker.Blob.Suite@11.0.7835
+- pkg:nuget/Soenneker.Blob.Suite@11.0.7836
+- pkg:nuget/Soenneker.Blob.Suite@11.0.7848
+- pkg:nuget/Soenneker.Blob.Suite@11.0.7849
+- pkg:nuget/Soenneker.Blob.Suite@11.0.7850
 - pkg:nuget/Soenneker.Blob.Suite@2.0.1
 - pkg:nuget/Soenneker.Blob.Suite@2.0.2
 - pkg:nuget/Soenneker.Blob.Suite@2.0.470
@@ -6973,3 +6978,5 @@
 - pkg:nuget/Soenneker.Blob.Suite@4.0.7783
 - pkg:nuget/Soenneker.Blob.Suite@4.0.7787
 - pkg:nuget/Soenneker.Blob.Suite@4.0.7806
+- pkg:nuget/Soenneker.Blob.Suite@4.0.7822
+- pkg:nuget/Soenneker.Blob.Suite@4.0.7823
