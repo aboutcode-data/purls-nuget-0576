@@ -1,3 +1,4 @@
+- pkg:nuget/Soenneker.Coordinators.Entities@11.0.474
 - pkg:nuget/Soenneker.Coordinators.Entities@3.0.10
 - pkg:nuget/Soenneker.Coordinators.Entities@3.0.100
 - pkg:nuget/Soenneker.Coordinators.Entities@3.0.101
@@ -178,3 +179,6 @@
 - pkg:nuget/Soenneker.Coordinators.Entities@4.0.379
 - pkg:nuget/Soenneker.Coordinators.Entities@4.0.380
 - pkg:nuget/Soenneker.Coordinators.Entities@4.0.435
+- pkg:nuget/Soenneker.Coordinators.Entities@4.0.441
+- pkg:nuget/Soenneker.Coordinators.Entities@4.0.456
+- pkg:nuget/Soenneker.Coordinators.Entities@4.0.460
