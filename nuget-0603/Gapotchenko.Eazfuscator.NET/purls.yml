@@ -275,3 +275,5 @@
 - pkg:nuget/Gapotchenko.Eazfuscator.NET@2025.2.29-beta
 - pkg:nuget/Gapotchenko.Eazfuscator.NET@2026.1.805
 - pkg:nuget/Gapotchenko.Eazfuscator.NET@2026.2.324
+- pkg:nuget/Gapotchenko.Eazfuscator.NET@2026.3.165-beta
+- pkg:nuget/Gapotchenko.Eazfuscator.NET@2026.3.184-beta
