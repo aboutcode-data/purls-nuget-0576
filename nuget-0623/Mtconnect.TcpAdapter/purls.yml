@@ -92,6 +92,7 @@
 - pkg:nuget/Mtconnect.TcpAdapter@3.0.1.2-beta.2
 - pkg:nuget/Mtconnect.TcpAdapter@3.0.2
 - pkg:nuget/Mtconnect.TcpAdapter@3.0.2.1
+- pkg:nuget/Mtconnect.TcpAdapter@3.0.2.10
 - pkg:nuget/Mtconnect.TcpAdapter@3.0.2.2
 - pkg:nuget/Mtconnect.TcpAdapter@3.0.2.3
 - pkg:nuget/Mtconnect.TcpAdapter@3.0.2.4
