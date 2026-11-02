@@ -1306,6 +1306,8 @@
 - pkg:nuget/AWSSDK.Lambda@4.0.104.1
 - pkg:nuget/AWSSDK.Lambda@4.0.105.1
 - pkg:nuget/AWSSDK.Lambda@4.0.110
+- pkg:nuget/AWSSDK.Lambda@4.0.110.2
+- pkg:nuget/AWSSDK.Lambda@4.0.111
 - pkg:nuget/AWSSDK.Lambda@4.0.12
 - pkg:nuget/AWSSDK.Lambda@4.0.13.4
 - pkg:nuget/AWSSDK.Lambda@4.0.13.6
