@@ -272,3 +272,4 @@
 - pkg:nuget/Kayisoft.Abp.FoDicom.Codecs@5.2.7
 - pkg:nuget/Kayisoft.Abp.FoDicom.Codecs@5.2.9
 - pkg:nuget/Kayisoft.Abp.FoDicom.Codecs@5.3.8
+- pkg:nuget/Kayisoft.Abp.FoDicom.Codecs@5.4.2
