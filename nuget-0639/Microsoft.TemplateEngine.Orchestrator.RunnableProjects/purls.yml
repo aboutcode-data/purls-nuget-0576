@@ -13,6 +13,7 @@
 - pkg:nuget/Microsoft.TemplateEngine.Orchestrator.RunnableProjects@10.0.203
 - pkg:nuget/Microsoft.TemplateEngine.Orchestrator.RunnableProjects@10.0.400
 - pkg:nuget/Microsoft.TemplateEngine.Orchestrator.RunnableProjects@10.0.402
+- pkg:nuget/Microsoft.TemplateEngine.Orchestrator.RunnableProjects@10.0.403
 - pkg:nuget/Microsoft.TemplateEngine.Orchestrator.RunnableProjects@11.0.100-preview.1.26104.118
 - pkg:nuget/Microsoft.TemplateEngine.Orchestrator.RunnableProjects@5.0.0
 - pkg:nuget/Microsoft.TemplateEngine.Orchestrator.RunnableProjects@5.0.0-rc.1.20431.3
