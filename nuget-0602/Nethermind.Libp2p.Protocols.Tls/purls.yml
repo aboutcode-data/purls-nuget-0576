@@ -1,3 +1,4 @@
+- pkg:nuget/Nethermind.Libp2p.Protocols.Tls@1.0.0
 - pkg:nuget/Nethermind.Libp2p.Protocols.Tls@1.0.0-preview.34
 - pkg:nuget/Nethermind.Libp2p.Protocols.Tls@1.0.0-preview.35
 - pkg:nuget/Nethermind.Libp2p.Protocols.Tls@1.0.0-preview.36
@@ -5,3 +6,5 @@
 - pkg:nuget/Nethermind.Libp2p.Protocols.Tls@1.0.0-preview.43
 - pkg:nuget/Nethermind.Libp2p.Protocols.Tls@1.0.0-preview.44
 - pkg:nuget/Nethermind.Libp2p.Protocols.Tls@1.0.0-preview.45
+- pkg:nuget/Nethermind.Libp2p.Protocols.Tls@1.0.2
+- pkg:nuget/Nethermind.Libp2p.Protocols.Tls@1.1.0
