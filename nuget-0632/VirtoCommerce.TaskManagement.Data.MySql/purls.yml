@@ -1,3 +1,4 @@
+- pkg:nuget/VirtoCommerce.TaskManagement.Data.MySql@3.1003.0
 - pkg:nuget/VirtoCommerce.TaskManagement.Data.MySql@3.401.0
 - pkg:nuget/VirtoCommerce.TaskManagement.Data.MySql@3.401.0-alpha.60
 - pkg:nuget/VirtoCommerce.TaskManagement.Data.MySql@3.402.0
