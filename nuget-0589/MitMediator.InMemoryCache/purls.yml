@@ -1,2 +1,4 @@
+- pkg:nuget/MitMediator.InMemoryCache@10.0.0
+- pkg:nuget/MitMediator.InMemoryCache@10.0.0-alfa
 - pkg:nuget/MitMediator.InMemoryCache@9.0.0-alfa
 - pkg:nuget/MitMediator.InMemoryCache@9.0.0-alfa-2
