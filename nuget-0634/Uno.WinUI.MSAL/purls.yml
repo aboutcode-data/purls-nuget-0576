@@ -4549,6 +4549,7 @@
 - pkg:nuget/Uno.WinUI.MSAL@6.8.0-dev.232
 - pkg:nuget/Uno.WinUI.MSAL@6.8.0-dev.259
 - pkg:nuget/Uno.WinUI.MSAL@6.8.0-dev.3
+- pkg:nuget/Uno.WinUI.MSAL@6.8.0-dev.339
 - pkg:nuget/Uno.WinUI.MSAL@7.0.0-dev.1254
 - pkg:nuget/Uno.WinUI.MSAL@7.0.0-dev.1259
 - pkg:nuget/Uno.WinUI.MSAL@7.0.0-dev.1273
@@ -4592,6 +4593,9 @@
 - pkg:nuget/Uno.WinUI.MSAL@7.0.0-dev.2520
 - pkg:nuget/Uno.WinUI.MSAL@7.0.0-dev.2523
 - pkg:nuget/Uno.WinUI.MSAL@7.0.0-dev.2539
+- pkg:nuget/Uno.WinUI.MSAL@7.0.0-dev.2556
+- pkg:nuget/Uno.WinUI.MSAL@7.0.0-dev.2557
+- pkg:nuget/Uno.WinUI.MSAL@7.0.0-dev.2558
 - pkg:nuget/Uno.WinUI.MSAL@7.0.0-dev.680
 - pkg:nuget/Uno.WinUI.MSAL@7.0.0-dev.722
 - pkg:nuget/Uno.WinUI.MSAL@7.0.0-dev.966
