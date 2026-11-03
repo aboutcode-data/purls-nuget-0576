@@ -16,3 +16,4 @@
 - pkg:nuget/Mindfire.EFRepository@2.3.4
 - pkg:nuget/Mindfire.EFRepository@2.3.5
 - pkg:nuget/Mindfire.EFRepository@2.5.0
+- pkg:nuget/Mindfire.EFRepository@3.0.0
