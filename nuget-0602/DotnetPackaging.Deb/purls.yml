@@ -19,6 +19,7 @@
 - pkg:nuget/DotnetPackaging.Deb@10.1.30
 - pkg:nuget/DotnetPackaging.Deb@10.1.31
 - pkg:nuget/DotnetPackaging.Deb@10.1.32
+- pkg:nuget/DotnetPackaging.Deb@10.1.40
 - pkg:nuget/DotnetPackaging.Deb@2.0.0
 - pkg:nuget/DotnetPackaging.Deb@2.0.1
 - pkg:nuget/DotnetPackaging.Deb@2.0.10
