@@ -1,3 +1,8 @@
+- pkg:nuget/Soenneker.HighLevel.ClientUtil@11.0.374
+- pkg:nuget/Soenneker.HighLevel.ClientUtil@11.0.375
+- pkg:nuget/Soenneker.HighLevel.ClientUtil@11.0.380
+- pkg:nuget/Soenneker.HighLevel.ClientUtil@11.0.388
+- pkg:nuget/Soenneker.HighLevel.ClientUtil@11.0.389
 - pkg:nuget/Soenneker.HighLevel.ClientUtil@3.0.14
 - pkg:nuget/Soenneker.HighLevel.ClientUtil@3.0.18
 - pkg:nuget/Soenneker.HighLevel.ClientUtil@3.0.4
@@ -41,6 +46,7 @@
 - pkg:nuget/Soenneker.HighLevel.ClientUtil@4.0.322
 - pkg:nuget/Soenneker.HighLevel.ClientUtil@4.0.35
 - pkg:nuget/Soenneker.HighLevel.ClientUtil@4.0.364
+- pkg:nuget/Soenneker.HighLevel.ClientUtil@4.0.369
 - pkg:nuget/Soenneker.HighLevel.ClientUtil@4.0.38
 - pkg:nuget/Soenneker.HighLevel.ClientUtil@4.0.86
 - pkg:nuget/Soenneker.HighLevel.ClientUtil@4.0.93
