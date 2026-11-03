@@ -31,3 +31,4 @@
 - pkg:nuget/SlimMessageBus.Host.CircuitBreaker@3.3.2-rc102
 - pkg:nuget/SlimMessageBus.Host.CircuitBreaker@3.3.3
 - pkg:nuget/SlimMessageBus.Host.CircuitBreaker@3.3.7-rc200
+- pkg:nuget/SlimMessageBus.Host.CircuitBreaker@3.6.0
