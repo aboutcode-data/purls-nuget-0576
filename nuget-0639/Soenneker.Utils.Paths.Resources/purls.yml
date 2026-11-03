@@ -1,4 +1,6 @@
 - pkg:nuget/Soenneker.Utils.Paths.Resources@11.0.301
+- pkg:nuget/Soenneker.Utils.Paths.Resources@11.0.309
+- pkg:nuget/Soenneker.Utils.Paths.Resources@11.0.310
 - pkg:nuget/Soenneker.Utils.Paths.Resources@3.0.1
 - pkg:nuget/Soenneker.Utils.Paths.Resources@3.0.10
 - pkg:nuget/Soenneker.Utils.Paths.Resources@3.0.2
