@@ -1,6 +1,8 @@
 - pkg:nuget/Soenneker.Blazor.FilePond@11.0.4037
 - pkg:nuget/Soenneker.Blazor.FilePond@11.0.4048
 - pkg:nuget/Soenneker.Blazor.FilePond@11.0.4051
+- pkg:nuget/Soenneker.Blazor.FilePond@11.0.4061
+- pkg:nuget/Soenneker.Blazor.FilePond@11.0.4067
 - pkg:nuget/Soenneker.Blazor.FilePond@2.1.1
 - pkg:nuget/Soenneker.Blazor.FilePond@2.1.10
 - pkg:nuget/Soenneker.Blazor.FilePond@2.1.100
