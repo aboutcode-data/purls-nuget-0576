@@ -15,6 +15,7 @@
 - pkg:nuget/Microsoft.AspNetCore.Authentication.Certificate@11.0.0-preview.3.26207.106
 - pkg:nuget/Microsoft.AspNetCore.Authentication.Certificate@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.AspNetCore.Authentication.Certificate@11.0.0-rc.1.26425.128
+- pkg:nuget/Microsoft.AspNetCore.Authentication.Certificate@11.0.0-rc.3.26522.148
 - pkg:nuget/Microsoft.AspNetCore.Authentication.Certificate@3.0.0
 - pkg:nuget/Microsoft.AspNetCore.Authentication.Certificate@3.0.0-preview6.19307.2
 - pkg:nuget/Microsoft.AspNetCore.Authentication.Certificate@3.0.0-preview7.19365.7
