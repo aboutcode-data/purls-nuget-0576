@@ -222,6 +222,7 @@
 - pkg:nuget/Google.Apis.Dns.v1@1.70.0.3892
 - pkg:nuget/Google.Apis.Dns.v1@1.75.0.4212
 - pkg:nuget/Google.Apis.Dns.v1@1.76.0.4275
+- pkg:nuget/Google.Apis.Dns.v1@1.77.0.4299
 - pkg:nuget/Google.Apis.Dns.v1@1.9.0.10
 - pkg:nuget/Google.Apis.Dns.v1@1.9.0.20
 - pkg:nuget/Google.Apis.Dns.v1@1.9.2.20
