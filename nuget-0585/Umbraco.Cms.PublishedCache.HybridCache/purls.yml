@@ -42,3 +42,6 @@
 - pkg:nuget/Umbraco.Cms.PublishedCache.HybridCache@17.3.0-rc3
 - pkg:nuget/Umbraco.Cms.PublishedCache.HybridCache@17.4.0-rc
 - pkg:nuget/Umbraco.Cms.PublishedCache.HybridCache@17.5.0
+- pkg:nuget/Umbraco.Cms.PublishedCache.HybridCache@17.8.0
+- pkg:nuget/Umbraco.Cms.PublishedCache.HybridCache@18.3.0
+- pkg:nuget/Umbraco.Cms.PublishedCache.HybridCache@19.0.0-beta1

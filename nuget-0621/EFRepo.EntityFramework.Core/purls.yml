@@ -14,3 +14,4 @@
 - pkg:nuget/EFRepo.EntityFramework.Core@1.3.8
 - pkg:nuget/EFRepo.EntityFramework.Core@1.3.9
 - pkg:nuget/EFRepo.EntityFramework.Core@1.4.0
+- pkg:nuget/EFRepo.EntityFramework.Core@1.6.3
