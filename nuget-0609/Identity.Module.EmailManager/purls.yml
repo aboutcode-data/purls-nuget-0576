@@ -2,7 +2,10 @@
 - pkg:nuget/Identity.Module.EmailManager@2.5.109
 - pkg:nuget/Identity.Module.EmailManager@2.5.110
 - pkg:nuget/Identity.Module.EmailManager@2.5.111
+- pkg:nuget/Identity.Module.EmailManager@2.5.124
+- pkg:nuget/Identity.Module.EmailManager@2.5.127
 - pkg:nuget/Identity.Module.EmailManager@2.5.13
+- pkg:nuget/Identity.Module.EmailManager@2.5.130
 - pkg:nuget/Identity.Module.EmailManager@2.5.14
 - pkg:nuget/Identity.Module.EmailManager@2.5.17
 - pkg:nuget/Identity.Module.EmailManager@2.5.18
