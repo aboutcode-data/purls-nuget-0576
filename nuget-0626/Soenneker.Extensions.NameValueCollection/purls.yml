@@ -2,6 +2,8 @@
 - pkg:nuget/Soenneker.Extensions.NameValueCollection@1.0.2
 - pkg:nuget/Soenneker.Extensions.NameValueCollection@1.0.3
 - pkg:nuget/Soenneker.Extensions.NameValueCollection@1.0.4
+- pkg:nuget/Soenneker.Extensions.NameValueCollection@11.0.884
+- pkg:nuget/Soenneker.Extensions.NameValueCollection@11.0.885
 - pkg:nuget/Soenneker.Extensions.NameValueCollection@2.0.1
 - pkg:nuget/Soenneker.Extensions.NameValueCollection@2.0.2
 - pkg:nuget/Soenneker.Extensions.NameValueCollection@2.0.5
