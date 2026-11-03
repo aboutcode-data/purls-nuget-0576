@@ -6,3 +6,6 @@
 - pkg:nuget/Vidyano.Core@5.51.0
 - pkg:nuget/Vidyano.Core@5.52.0
 - pkg:nuget/Vidyano.Core@5.53.0
+- pkg:nuget/Vidyano.Core@5.63.0
+- pkg:nuget/Vidyano.Core@5.66.0
+- pkg:nuget/Vidyano.Core@5.68.0
