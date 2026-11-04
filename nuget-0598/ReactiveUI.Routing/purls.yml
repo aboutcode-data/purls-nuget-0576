@@ -1,2 +1,3 @@
 - pkg:nuget/ReactiveUI.Routing@24.0.0-beta.1
 - pkg:nuget/ReactiveUI.Routing@24.2.0
+- pkg:nuget/ReactiveUI.Routing@24.3.0
