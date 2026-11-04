@@ -1,3 +1,6 @@
+- pkg:nuget/Soenneker.HighLevel.OpenApiClient@11.0.151
+- pkg:nuget/Soenneker.HighLevel.OpenApiClient@11.0.154
+- pkg:nuget/Soenneker.HighLevel.OpenApiClient@11.0.155
 - pkg:nuget/Soenneker.HighLevel.OpenApiClient@3.0.1
 - pkg:nuget/Soenneker.HighLevel.OpenApiClient@3.0.11
 - pkg:nuget/Soenneker.HighLevel.OpenApiClient@3.0.12
@@ -11,6 +14,7 @@
 - pkg:nuget/Soenneker.HighLevel.OpenApiClient@3.0.9
 - pkg:nuget/Soenneker.HighLevel.OpenApiClient@4.0.103
 - pkg:nuget/Soenneker.HighLevel.OpenApiClient@4.0.108
+- pkg:nuget/Soenneker.HighLevel.OpenApiClient@4.0.130
 - pkg:nuget/Soenneker.HighLevel.OpenApiClient@4.0.39
 - pkg:nuget/Soenneker.HighLevel.OpenApiClient@4.0.57
 - pkg:nuget/Soenneker.HighLevel.OpenApiClient@4.0.58
