@@ -119,6 +119,7 @@
 - pkg:nuget/ceTe.DynamicPDF.CoreSuite.NET@12.37.0
 - pkg:nuget/ceTe.DynamicPDF.CoreSuite.NET@12.39.0
 - pkg:nuget/ceTe.DynamicPDF.CoreSuite.NET@12.4.0
+- pkg:nuget/ceTe.DynamicPDF.CoreSuite.NET@12.48.0
 - pkg:nuget/ceTe.DynamicPDF.CoreSuite.NET@12.5.0
 - pkg:nuget/ceTe.DynamicPDF.CoreSuite.NET@12.6.0
 - pkg:nuget/ceTe.DynamicPDF.CoreSuite.NET@12.7.0
