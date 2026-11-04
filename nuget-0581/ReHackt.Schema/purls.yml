@@ -1,4 +1,5 @@
 - pkg:nuget/ReHackt.Schema@10.0.6
+- pkg:nuget/ReHackt.Schema@10.1.0
 - pkg:nuget/ReHackt.Schema@8.0.0
 - pkg:nuget/ReHackt.Schema@8.0.100
 - pkg:nuget/ReHackt.Schema@8.0.101
