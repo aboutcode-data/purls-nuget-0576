@@ -1,2 +1,7 @@
 - pkg:nuget/Voltaic@0.1.8
+- pkg:nuget/Voltaic@0.6.1
+- pkg:nuget/Voltaic@0.7.0
 - pkg:nuget/Voltaic@1.0.0
+- pkg:nuget/Voltaic@1.1.0
+- pkg:nuget/Voltaic@2.1.3
+- pkg:nuget/Voltaic@2.1.7
