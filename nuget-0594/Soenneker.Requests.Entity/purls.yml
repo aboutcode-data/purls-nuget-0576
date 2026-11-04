@@ -1,3 +1,8 @@
+- pkg:nuget/Soenneker.Requests.Entity@11.0.296
+- pkg:nuget/Soenneker.Requests.Entity@11.0.297
+- pkg:nuget/Soenneker.Requests.Entity@11.0.298
+- pkg:nuget/Soenneker.Requests.Entity@11.0.300
+- pkg:nuget/Soenneker.Requests.Entity@11.0.301
 - pkg:nuget/Soenneker.Requests.Entity@3.0.1
 - pkg:nuget/Soenneker.Requests.Entity@3.0.10
 - pkg:nuget/Soenneker.Requests.Entity@3.0.11
@@ -109,6 +114,10 @@
 - pkg:nuget/Soenneker.Requests.Entity@4.0.252
 - pkg:nuget/Soenneker.Requests.Entity@4.0.269
 - pkg:nuget/Soenneker.Requests.Entity@4.0.272
+- pkg:nuget/Soenneker.Requests.Entity@4.0.275
+- pkg:nuget/Soenneker.Requests.Entity@4.0.281
+- pkg:nuget/Soenneker.Requests.Entity@4.0.288
+- pkg:nuget/Soenneker.Requests.Entity@4.0.289
 - pkg:nuget/Soenneker.Requests.Entity@4.0.90
 - pkg:nuget/Soenneker.Requests.Entity@4.0.96
 - pkg:nuget/Soenneker.Requests.Entity@4.0.97
