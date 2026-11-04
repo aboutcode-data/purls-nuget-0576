@@ -1,0 +1,4 @@
+- pkg:nuget/TensorStack.StableDiffusionCpp@0.12.11
+- pkg:nuget/TensorStack.StableDiffusionCpp@0.13.12
+- pkg:nuget/TensorStack.StableDiffusionCpp@0.13.7
+- pkg:nuget/TensorStack.StableDiffusionCpp@0.14.3
