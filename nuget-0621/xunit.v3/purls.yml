@@ -19,3 +19,8 @@
 - pkg:nuget/xunit.v3@3.1.0
 - pkg:nuget/xunit.v3@3.2.0-pre.10
 - pkg:nuget/xunit.v3@3.2.0-pre.5
+- pkg:nuget/xunit.v3@4.0.0-pre.108
+- pkg:nuget/xunit.v3@4.0.0-pre.128
+- pkg:nuget/xunit.v3@4.0.0-pre.154
+- pkg:nuget/xunit.v3@4.0.0-pre.33
+- pkg:nuget/xunit.v3@4.0.0-pre.81
