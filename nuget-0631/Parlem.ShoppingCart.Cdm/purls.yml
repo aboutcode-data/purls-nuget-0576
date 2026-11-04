@@ -23,6 +23,7 @@
 - pkg:nuget/Parlem.ShoppingCart.Cdm@1.0.7
 - pkg:nuget/Parlem.ShoppingCart.Cdm@1.0.8
 - pkg:nuget/Parlem.ShoppingCart.Cdm@1.0.9
+- pkg:nuget/Parlem.ShoppingCart.Cdm@10.0.1-beta1
 - pkg:nuget/Parlem.ShoppingCart.Cdm@7.0.0
 - pkg:nuget/Parlem.ShoppingCart.Cdm@7.0.1
 - pkg:nuget/Parlem.ShoppingCart.Cdm@7.0.10
