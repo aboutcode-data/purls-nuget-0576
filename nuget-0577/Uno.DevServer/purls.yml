@@ -168,4 +168,5 @@
 - pkg:nuget/Uno.DevServer@7.0.0-dev.722
 - pkg:nuget/Uno.DevServer@7.0.0-dev.723
 - pkg:nuget/Uno.DevServer@7.0.0-dev.966
+- pkg:nuget/Uno.DevServer@7.1.0-dev.19
 - pkg:nuget/Uno.DevServer@7.1.0-dev.5
