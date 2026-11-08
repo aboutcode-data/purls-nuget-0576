@@ -16,3 +16,4 @@
 - pkg:nuget/Kinetix.Tools.Analyzers@1.11.4
 - pkg:nuget/Kinetix.Tools.Analyzers@1.11.5
 - pkg:nuget/Kinetix.Tools.Analyzers@1.11.6
+- pkg:nuget/Kinetix.Tools.Analyzers@5.9.0
