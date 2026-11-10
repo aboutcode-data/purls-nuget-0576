@@ -1,4 +1,5 @@
 - pkg:nuget/Z.EntityFramework.Extensions@0.0.1
+- pkg:nuget/Z.EntityFramework.Extensions@11.106.0
 - pkg:nuget/Z.EntityFramework.Extensions@2.0.0
 - pkg:nuget/Z.EntityFramework.Extensions@2.0.1
 - pkg:nuget/Z.EntityFramework.Extensions@2.0.2
