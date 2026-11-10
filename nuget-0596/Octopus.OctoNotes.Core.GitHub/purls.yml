@@ -348,3 +348,4 @@
 - pkg:nuget/Octopus.OctoNotes.Core.GitHub@1.0.5
 - pkg:nuget/Octopus.OctoNotes.Core.GitHub@1.0.6
 - pkg:nuget/Octopus.OctoNotes.Core.GitHub@1.0.9
+- pkg:nuget/Octopus.OctoNotes.Core.GitHub@2.0.0
