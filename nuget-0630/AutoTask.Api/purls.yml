@@ -20,3 +20,4 @@
 - pkg:nuget/AutoTask.Api@1.6.7
 - pkg:nuget/AutoTask.Api@1.6.9
 - pkg:nuget/AutoTask.Api@1.7.2
+- pkg:nuget/AutoTask.Api@1.7.66
