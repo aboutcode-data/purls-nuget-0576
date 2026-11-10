@@ -5,3 +5,4 @@
 - pkg:nuget/Reveal.Sdk.Data.Databricks@2.0.0
 - pkg:nuget/Reveal.Sdk.Data.Databricks@2.1.1-preview.22
 - pkg:nuget/Reveal.Sdk.Data.Databricks@2.1.1-preview.9
+- pkg:nuget/Reveal.Sdk.Data.Databricks@2.3.1
