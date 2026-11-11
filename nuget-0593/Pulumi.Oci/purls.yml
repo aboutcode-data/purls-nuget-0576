@@ -567,3 +567,4 @@
 - pkg:nuget/Pulumi.Oci@5.5.0-alpha.1792641656
 - pkg:nuget/Pulumi.Oci@5.5.1
 - pkg:nuget/Pulumi.Oci@5.5.1-alpha.1793184378
+- pkg:nuget/Pulumi.Oci@5.7.0-alpha.1794380731
