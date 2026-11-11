@@ -40,3 +40,4 @@
 - pkg:nuget/Microsoft.VisualStudio.Language@17.7.188
 - pkg:nuget/Microsoft.VisualStudio.Language@17.8.222
 - pkg:nuget/Microsoft.VisualStudio.Language@17.9.187
+- pkg:nuget/Microsoft.VisualStudio.Language@18.12.81

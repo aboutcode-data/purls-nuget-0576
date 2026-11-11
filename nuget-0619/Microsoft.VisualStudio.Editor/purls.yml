@@ -61,3 +61,4 @@
 - pkg:nuget/Microsoft.VisualStudio.Editor@17.7.188
 - pkg:nuget/Microsoft.VisualStudio.Editor@17.8.222
 - pkg:nuget/Microsoft.VisualStudio.Editor@17.9.187
+- pkg:nuget/Microsoft.VisualStudio.Editor@18.12.81
