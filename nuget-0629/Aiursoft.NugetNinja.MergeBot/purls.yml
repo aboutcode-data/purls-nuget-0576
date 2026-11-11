@@ -14,6 +14,8 @@
 - pkg:nuget/Aiursoft.NugetNinja.MergeBot@10.0.75
 - pkg:nuget/Aiursoft.NugetNinja.MergeBot@10.0.78
 - pkg:nuget/Aiursoft.NugetNinja.MergeBot@10.0.79
+- pkg:nuget/Aiursoft.NugetNinja.MergeBot@10.0.85
+- pkg:nuget/Aiursoft.NugetNinja.MergeBot@10.0.87
 - pkg:nuget/Aiursoft.NugetNinja.MergeBot@7.0.45
 - pkg:nuget/Aiursoft.NugetNinja.MergeBot@7.0.46
 - pkg:nuget/Aiursoft.NugetNinja.MergeBot@7.0.47
