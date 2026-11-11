@@ -38,6 +38,8 @@
 - pkg:nuget/Aiursoft.NugetNinja.PrBot@10.0.132
 - pkg:nuget/Aiursoft.NugetNinja.PrBot@10.0.133
 - pkg:nuget/Aiursoft.NugetNinja.PrBot@10.0.136
+- pkg:nuget/Aiursoft.NugetNinja.PrBot@10.0.146
+- pkg:nuget/Aiursoft.NugetNinja.PrBot@10.0.148
 - pkg:nuget/Aiursoft.NugetNinja.PrBot@10.0.40
 - pkg:nuget/Aiursoft.NugetNinja.PrBot@10.0.44
 - pkg:nuget/Aiursoft.NugetNinja.PrBot@10.0.56
