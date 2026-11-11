@@ -170,3 +170,4 @@
 - pkg:nuget/Akka.TestKit.Xunit@1.5.8
 - pkg:nuget/Akka.TestKit.Xunit@1.5.9
 - pkg:nuget/Akka.TestKit.Xunit@1.6.0-beta2
+- pkg:nuget/Akka.TestKit.Xunit@1.6.0-beta7
