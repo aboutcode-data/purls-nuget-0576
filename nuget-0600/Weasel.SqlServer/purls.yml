@@ -20,6 +20,7 @@
 - pkg:nuget/Weasel.SqlServer@1.1.1
 - pkg:nuget/Weasel.SqlServer@1.2.0
 - pkg:nuget/Weasel.SqlServer@1.3.0
+- pkg:nuget/Weasel.SqlServer@10.0.0-alpha.1
 - pkg:nuget/Weasel.SqlServer@2.0.0
 - pkg:nuget/Weasel.SqlServer@2.0.0-alpha.1
 - pkg:nuget/Weasel.SqlServer@2.0.0-alpha.2
