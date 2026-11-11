@@ -22,6 +22,7 @@
 - pkg:nuget/Sekiban.Dcb.CosmosDb@10.12.0
 - pkg:nuget/Sekiban.Dcb.CosmosDb@10.23.0
 - pkg:nuget/Sekiban.Dcb.CosmosDb@10.23.3
+- pkg:nuget/Sekiban.Dcb.CosmosDb@10.24.1
 - pkg:nuget/Sekiban.Dcb.CosmosDb@10.4.0
 - pkg:nuget/Sekiban.Dcb.CosmosDb@10.8.0
 - pkg:nuget/Sekiban.Dcb.CosmosDb@10.8.1
