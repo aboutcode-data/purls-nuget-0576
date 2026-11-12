@@ -1,3 +1,7 @@
+- pkg:nuget/Soenneker.Bitly.OpenApiClientUtil@11.0.211
+- pkg:nuget/Soenneker.Bitly.OpenApiClientUtil@11.0.214
+- pkg:nuget/Soenneker.Bitly.OpenApiClientUtil@11.0.221
+- pkg:nuget/Soenneker.Bitly.OpenApiClientUtil@11.0.224
 - pkg:nuget/Soenneker.Bitly.OpenApiClientUtil@4.0.101
 - pkg:nuget/Soenneker.Bitly.OpenApiClientUtil@4.0.111
 - pkg:nuget/Soenneker.Bitly.OpenApiClientUtil@4.0.121
@@ -8,6 +12,7 @@
 - pkg:nuget/Soenneker.Bitly.OpenApiClientUtil@4.0.141
 - pkg:nuget/Soenneker.Bitly.OpenApiClientUtil@4.0.179
 - pkg:nuget/Soenneker.Bitly.OpenApiClientUtil@4.0.180
+- pkg:nuget/Soenneker.Bitly.OpenApiClientUtil@4.0.189
 - pkg:nuget/Soenneker.Bitly.OpenApiClientUtil@4.0.2
 - pkg:nuget/Soenneker.Bitly.OpenApiClientUtil@4.0.28
 - pkg:nuget/Soenneker.Bitly.OpenApiClientUtil@4.0.3
