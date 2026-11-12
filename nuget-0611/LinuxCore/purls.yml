@@ -11,3 +11,4 @@
 - pkg:nuget/LinuxCore@0.2.9
 - pkg:nuget/LinuxCore@0.3.0
 - pkg:nuget/LinuxCore@0.3.2
+- pkg:nuget/LinuxCore@0.4.8
