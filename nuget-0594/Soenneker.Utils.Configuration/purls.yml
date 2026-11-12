@@ -1,3 +1,4 @@
+- pkg:nuget/Soenneker.Utils.Configuration@11.0.105
 - pkg:nuget/Soenneker.Utils.Configuration@3.0.1
 - pkg:nuget/Soenneker.Utils.Configuration@3.0.10
 - pkg:nuget/Soenneker.Utils.Configuration@3.0.11
