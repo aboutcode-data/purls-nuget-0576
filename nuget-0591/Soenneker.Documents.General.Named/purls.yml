@@ -1,6 +1,8 @@
 - pkg:nuget/Soenneker.Documents.General.Named@11.0.527
 - pkg:nuget/Soenneker.Documents.General.Named@11.0.532
 - pkg:nuget/Soenneker.Documents.General.Named@11.0.535
+- pkg:nuget/Soenneker.Documents.General.Named@11.0.537
+- pkg:nuget/Soenneker.Documents.General.Named@11.0.543
 - pkg:nuget/Soenneker.Documents.General.Named@3.0.1
 - pkg:nuget/Soenneker.Documents.General.Named@3.0.10
 - pkg:nuget/Soenneker.Documents.General.Named@3.0.100
