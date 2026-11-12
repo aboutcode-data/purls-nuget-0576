@@ -130,3 +130,4 @@
 - pkg:nuget/Sitko.Core.Tasks.Kafka@13.0.0-beta.2
 - pkg:nuget/Sitko.Core.Tasks.Kafka@13.1.1
 - pkg:nuget/Sitko.Core.Tasks.Kafka@13.1.2
+- pkg:nuget/Sitko.Core.Tasks.Kafka@13.1.3
