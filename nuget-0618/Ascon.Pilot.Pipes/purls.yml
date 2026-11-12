@@ -6,4 +6,8 @@
 - pkg:nuget/Ascon.Pilot.Pipes@24.44.9-alpha
 - pkg:nuget/Ascon.Pilot.Pipes@24.45.10-alpha
 - pkg:nuget/Ascon.Pilot.Pipes@24.5.6-alpha
+- pkg:nuget/Ascon.Pilot.Pipes@26.14.16-alpha
+- pkg:nuget/Ascon.Pilot.Pipes@26.18.18-alpha
+- pkg:nuget/Ascon.Pilot.Pipes@26.18.19-alpha
+- pkg:nuget/Ascon.Pilot.Pipes@26.21.24-alpha
 - pkg:nuget/Ascon.Pilot.Pipes@26.8.15-alpha
