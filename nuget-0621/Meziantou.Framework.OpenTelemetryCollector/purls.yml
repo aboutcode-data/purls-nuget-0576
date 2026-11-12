@@ -1,1 +1,3 @@
 - pkg:nuget/Meziantou.Framework.OpenTelemetryCollector@1.0.1
+- pkg:nuget/Meziantou.Framework.OpenTelemetryCollector@2.0.0
+- pkg:nuget/Meziantou.Framework.OpenTelemetryCollector@3.0.5

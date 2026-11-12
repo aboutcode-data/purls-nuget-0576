@@ -1,2 +1,6 @@
 - pkg:nuget/Meziantou.Framework.DependencyScanning.Tool@1.0.0
 - pkg:nuget/Meziantou.Framework.DependencyScanning.Tool@1.0.1
+- pkg:nuget/Meziantou.Framework.DependencyScanning.Tool@2.0.0
+- pkg:nuget/Meziantou.Framework.DependencyScanning.Tool@2.0.13
+- pkg:nuget/Meziantou.Framework.DependencyScanning.Tool@2.0.22
+- pkg:nuget/Meziantou.Framework.DependencyScanning.Tool@2.0.27
