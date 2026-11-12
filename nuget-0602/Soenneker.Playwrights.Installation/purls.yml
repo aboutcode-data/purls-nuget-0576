@@ -1,3 +1,10 @@
+- pkg:nuget/Soenneker.Playwrights.Installation@11.0.235
+- pkg:nuget/Soenneker.Playwrights.Installation@11.0.244
+- pkg:nuget/Soenneker.Playwrights.Installation@11.0.246
+- pkg:nuget/Soenneker.Playwrights.Installation@11.0.247
+- pkg:nuget/Soenneker.Playwrights.Installation@11.0.248
+- pkg:nuget/Soenneker.Playwrights.Installation@11.0.249
+- pkg:nuget/Soenneker.Playwrights.Installation@11.0.252
 - pkg:nuget/Soenneker.Playwrights.Installation@4.0.1
 - pkg:nuget/Soenneker.Playwrights.Installation@4.0.100
 - pkg:nuget/Soenneker.Playwrights.Installation@4.0.104
@@ -21,6 +28,7 @@
 - pkg:nuget/Soenneker.Playwrights.Installation@4.0.217
 - pkg:nuget/Soenneker.Playwrights.Installation@4.0.223
 - pkg:nuget/Soenneker.Playwrights.Installation@4.0.224
+- pkg:nuget/Soenneker.Playwrights.Installation@4.0.229
 - pkg:nuget/Soenneker.Playwrights.Installation@4.0.31
 - pkg:nuget/Soenneker.Playwrights.Installation@4.0.32
 - pkg:nuget/Soenneker.Playwrights.Installation@4.0.33
