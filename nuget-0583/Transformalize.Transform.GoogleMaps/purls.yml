@@ -1,3 +1,4 @@
 - pkg:nuget/Transformalize.Transform.GoogleMaps@0.3.11-beta
 - pkg:nuget/Transformalize.Transform.GoogleMaps@0.3.12-beta
 - pkg:nuget/Transformalize.Transform.GoogleMaps@0.3.20-beta
+- pkg:nuget/Transformalize.Transform.GoogleMaps@1.5.0
