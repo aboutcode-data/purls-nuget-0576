@@ -35,6 +35,7 @@
 - pkg:nuget/ValveResourceFormat@14.1.4764
 - pkg:nuget/ValveResourceFormat@15.0.4937
 - pkg:nuget/ValveResourceFormat@17.0.5499
+- pkg:nuget/ValveResourceFormat@21.1.7798
 - pkg:nuget/ValveResourceFormat@5.0.2120
 - pkg:nuget/ValveResourceFormat@6.0.2421
 - pkg:nuget/ValveResourceFormat@7.0.2479
