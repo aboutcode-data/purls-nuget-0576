@@ -89,6 +89,7 @@
 - pkg:nuget/Zoo.ServerJs@1.9.0
 - pkg:nuget/Zoo.ServerJs@10.0.15
 - pkg:nuget/Zoo.ServerJs@10.0.6
+- pkg:nuget/Zoo.ServerJs@10.1.2
 - pkg:nuget/Zoo.ServerJs@2.0.0
 - pkg:nuget/Zoo.ServerJs@2.1.0
 - pkg:nuget/Zoo.ServerJs@2.2.0
