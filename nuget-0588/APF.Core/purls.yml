@@ -38,6 +38,7 @@
 - pkg:nuget/APF.Core@1.0.0.7
 - pkg:nuget/APF.Core@1.0.0.8
 - pkg:nuget/APF.Core@1.0.0.9
+- pkg:nuget/APF.Core@10.0.0.6-Beta-01
 - pkg:nuget/APF.Core@6.0.0
 - pkg:nuget/APF.Core@6.0.0.1
 - pkg:nuget/APF.Core@6.0.0.10
