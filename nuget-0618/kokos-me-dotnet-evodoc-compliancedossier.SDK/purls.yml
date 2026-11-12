@@ -9,3 +9,5 @@
 - pkg:nuget/kokos-me-dotnet-evodoc-compliancedossier.SDK@1.6.0-dev-0
 - pkg:nuget/kokos-me-dotnet-evodoc-compliancedossier.SDK@1.9.0
 - pkg:nuget/kokos-me-dotnet-evodoc-compliancedossier.SDK@1.9.0-feature.feature-370-ixce-http-auth-errors.371
+- pkg:nuget/kokos-me-dotnet-evodoc-compliancedossier.SDK@2.1.0-dev-0
+- pkg:nuget/kokos-me-dotnet-evodoc-compliancedossier.SDK@2.1.0-dev-3
