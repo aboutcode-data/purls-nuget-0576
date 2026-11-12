@@ -8,3 +8,4 @@
 - pkg:nuget/Cats.CertificateTransparency@2.1.1
 - pkg:nuget/Cats.CertificateTransparency@3.0.0
 - pkg:nuget/Cats.CertificateTransparency@3.0.1
+- pkg:nuget/Cats.CertificateTransparency@5.0.1
