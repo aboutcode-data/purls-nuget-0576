@@ -9,6 +9,8 @@
 - pkg:nuget/VirtoCommerce.CatalogCsvImportModule.Data@3.10.0-alpha.130
 - pkg:nuget/VirtoCommerce.CatalogCsvImportModule.Data@3.10.0-alpha.131
 - pkg:nuget/VirtoCommerce.CatalogCsvImportModule.Data@3.10.0-alpha.132
+- pkg:nuget/VirtoCommerce.CatalogCsvImportModule.Data@3.1007.1
+- pkg:nuget/VirtoCommerce.CatalogCsvImportModule.Data@3.1008.0
 - pkg:nuget/VirtoCommerce.CatalogCsvImportModule.Data@3.11.0
 - pkg:nuget/VirtoCommerce.CatalogCsvImportModule.Data@3.11.0-alpha.133
 - pkg:nuget/VirtoCommerce.CatalogCsvImportModule.Data@3.11.0-alpha.134
