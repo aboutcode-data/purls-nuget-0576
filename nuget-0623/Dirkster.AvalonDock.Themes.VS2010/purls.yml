@@ -54,3 +54,5 @@
 - pkg:nuget/Dirkster.AvalonDock.Themes.VS2010@5.0.1-preview.127
 - pkg:nuget/Dirkster.AvalonDock.Themes.VS2010@5.0.1-preview.130
 - pkg:nuget/Dirkster.AvalonDock.Themes.VS2010@5.0.1-preview.133
+- pkg:nuget/Dirkster.AvalonDock.Themes.VS2010@5.0.2
+- pkg:nuget/Dirkster.AvalonDock.Themes.VS2010@5.0.2-preview.147
