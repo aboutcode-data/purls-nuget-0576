@@ -15,6 +15,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.wasi-wasm.Msi.x64@11.0.0-preview.2.26159.112
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.wasi-wasm.Msi.x64@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.wasi-wasm.Msi.x64@11.0.0-preview.5.26302.115
+- pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.wasi-wasm.Msi.x64@11.0.0-rc.3.26522.148
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.wasi-wasm.Msi.x64@8.0.0
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.wasi-wasm.Msi.x64@8.0.0-preview.4.23259.5
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.wasi-wasm.Msi.x64@8.0.0-preview.5.23280.8
