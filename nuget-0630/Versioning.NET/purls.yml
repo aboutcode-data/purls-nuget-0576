@@ -26,3 +26,4 @@
 - pkg:nuget/Versioning.NET@0.7.3
 - pkg:nuget/Versioning.NET@0.7.4
 - pkg:nuget/Versioning.NET@0.7.5
+- pkg:nuget/Versioning.NET@0.9.0
