@@ -33,6 +33,7 @@
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Components.WebAssembly.BasicTheme@1.8.2
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Components.WebAssembly.BasicTheme@1.8.5
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Components.WebAssembly.BasicTheme@10.0.0
+- pkg:nuget/ZhileTime.Hope.AspNetCore.Components.WebAssembly.BasicTheme@12.0.0
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Components.WebAssembly.BasicTheme@2.1.0
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Components.WebAssembly.BasicTheme@2.2.0
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Components.WebAssembly.BasicTheme@2.2.1
