@@ -188,3 +188,4 @@
 - pkg:nuget/WolverineFx.Http@6.63.0
 - pkg:nuget/WolverineFx.Http@6.64.0
 - pkg:nuget/WolverineFx.Http@6.7.0
+- pkg:nuget/WolverineFx.Http@7.0.0-alpha.2
