@@ -5,6 +5,7 @@
 - pkg:nuget/Soenneker.ServiceBus.Receptors.Email@11.0.974
 - pkg:nuget/Soenneker.ServiceBus.Receptors.Email@11.0.975
 - pkg:nuget/Soenneker.ServiceBus.Receptors.Email@11.0.977
+- pkg:nuget/Soenneker.ServiceBus.Receptors.Email@11.0.994
 - pkg:nuget/Soenneker.ServiceBus.Receptors.Email@3.0.1
 - pkg:nuget/Soenneker.ServiceBus.Receptors.Email@3.0.10
 - pkg:nuget/Soenneker.ServiceBus.Receptors.Email@3.0.100
