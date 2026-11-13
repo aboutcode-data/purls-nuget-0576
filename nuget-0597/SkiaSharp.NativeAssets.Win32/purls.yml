@@ -63,3 +63,6 @@
 - pkg:nuget/SkiaSharp.NativeAssets.Win32@4.148.0-rc.1.2
 - pkg:nuget/SkiaSharp.NativeAssets.Win32@4.150.1
 - pkg:nuget/SkiaSharp.NativeAssets.Win32@4.151.2
+- pkg:nuget/SkiaSharp.NativeAssets.Win32@4.153.2
+- pkg:nuget/SkiaSharp.NativeAssets.Win32@4.154.0
+- pkg:nuget/SkiaSharp.NativeAssets.Win32@4.157.0-rc.1.26560.6
