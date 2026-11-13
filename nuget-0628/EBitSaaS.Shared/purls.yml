@@ -1,1 +1,6 @@
+- pkg:nuget/EBitSaaS.Shared@0.0.17
+- pkg:nuget/EBitSaaS.Shared@0.0.26
+- pkg:nuget/EBitSaaS.Shared@0.0.27
+- pkg:nuget/EBitSaaS.Shared@0.0.28
 - pkg:nuget/EBitSaaS.Shared@0.0.3
+- pkg:nuget/EBitSaaS.Shared@0.0.30
