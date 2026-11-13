@@ -82,3 +82,5 @@
 - pkg:nuget/SkiaSharp.NativeAssets.WebAssembly@4.148.0-rc.1.2
 - pkg:nuget/SkiaSharp.NativeAssets.WebAssembly@4.150.1
 - pkg:nuget/SkiaSharp.NativeAssets.WebAssembly@4.150.2
+- pkg:nuget/SkiaSharp.NativeAssets.WebAssembly@4.153.2
+- pkg:nuget/SkiaSharp.NativeAssets.WebAssembly@4.154.0
