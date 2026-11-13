@@ -15,3 +15,4 @@
 - pkg:nuget/Community.OpenIddict.AmazonDynamoDB@2.2.1
 - pkg:nuget/Community.OpenIddict.AmazonDynamoDB@3.0.0
 - pkg:nuget/Community.OpenIddict.AmazonDynamoDB@3.1.0
+- pkg:nuget/Community.OpenIddict.AmazonDynamoDB@4.0.0
