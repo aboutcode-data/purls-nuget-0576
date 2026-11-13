@@ -34,6 +34,7 @@
 - pkg:nuget/ZhileTime.Hope.BackgroundJobs.HangFire@1.8.5
 - pkg:nuget/ZhileTime.Hope.BackgroundJobs.HangFire@11.4.0
 - pkg:nuget/ZhileTime.Hope.BackgroundJobs.HangFire@11.5.1
+- pkg:nuget/ZhileTime.Hope.BackgroundJobs.HangFire@12.0.0
 - pkg:nuget/ZhileTime.Hope.BackgroundJobs.HangFire@2.1.0
 - pkg:nuget/ZhileTime.Hope.BackgroundJobs.HangFire@2.2.0
 - pkg:nuget/ZhileTime.Hope.BackgroundJobs.HangFire@2.2.1
