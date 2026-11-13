@@ -66,3 +66,14 @@
 - pkg:nuget/DubUrl.BulkCopy@0.29.7
 - pkg:nuget/DubUrl.BulkCopy@0.29.8
 - pkg:nuget/DubUrl.BulkCopy@0.29.9
+- pkg:nuget/DubUrl.BulkCopy@0.35.0
+- pkg:nuget/DubUrl.BulkCopy@0.36.0
+- pkg:nuget/DubUrl.BulkCopy@0.39.1
+- pkg:nuget/DubUrl.BulkCopy@0.42.1
+- pkg:nuget/DubUrl.BulkCopy@0.44.0
+- pkg:nuget/DubUrl.BulkCopy@0.52.0
+- pkg:nuget/DubUrl.BulkCopy@0.53.0
+- pkg:nuget/DubUrl.BulkCopy@0.54.0
+- pkg:nuget/DubUrl.BulkCopy@0.55.0
+- pkg:nuget/DubUrl.BulkCopy@0.56.0
+- pkg:nuget/DubUrl.BulkCopy@0.64.0
