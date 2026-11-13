@@ -17,6 +17,7 @@
 - pkg:nuget/LLamaSharp.Backend.Cuda12@0.24.0
 - pkg:nuget/LLamaSharp.Backend.Cuda12@0.25.0
 - pkg:nuget/LLamaSharp.Backend.Cuda12@0.3.0
+- pkg:nuget/LLamaSharp.Backend.Cuda12@0.30.0
 - pkg:nuget/LLamaSharp.Backend.Cuda12@0.4.2-preview
 - pkg:nuget/LLamaSharp.Backend.Cuda12@0.5.0
 - pkg:nuget/LLamaSharp.Backend.Cuda12@0.5.1
