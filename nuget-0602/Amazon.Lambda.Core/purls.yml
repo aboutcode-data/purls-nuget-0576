@@ -10,3 +10,5 @@
 - pkg:nuget/Amazon.Lambda.Core@2.5.1
 - pkg:nuget/Amazon.Lambda.Core@2.6.0
 - pkg:nuget/Amazon.Lambda.Core@2.7.0
+- pkg:nuget/Amazon.Lambda.Core@3.2.0
+- pkg:nuget/Amazon.Lambda.Core@3.3.0
