@@ -3,3 +3,4 @@
 - pkg:nuget/Carbon.HttpClient@1.0.9
 - pkg:nuget/Carbon.HttpClient@1.1.0
 - pkg:nuget/Carbon.HttpClient@1.1.1
+- pkg:nuget/Carbon.HttpClient@1.2.0
