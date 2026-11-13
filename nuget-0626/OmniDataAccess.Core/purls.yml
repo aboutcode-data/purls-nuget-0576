@@ -7,4 +7,5 @@
 - pkg:nuget/OmniDataAccess.Core@1.0.5
 - pkg:nuget/OmniDataAccess.Core@1.0.6-rc.1.250921
 - pkg:nuget/OmniDataAccess.Core@1.2.0-rc1.260415
+- pkg:nuget/OmniDataAccess.Core@1.2.1-preview.261110.1
 - pkg:nuget/OmniDataAccess.Core@2025.7.1
