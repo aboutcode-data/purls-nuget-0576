@@ -16,3 +16,4 @@
 - pkg:nuget/DotNetBrowser.Win-x64@4.3.0
 - pkg:nuget/DotNetBrowser.Win-x64@4.3.2
 - pkg:nuget/DotNetBrowser.Win-x64@4.4.0
+- pkg:nuget/DotNetBrowser.Win-x64@4.4.1
