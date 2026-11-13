@@ -35,3 +35,5 @@
 - pkg:nuget/Dosaic.Hosting.Abstractions@1.2.40
 - pkg:nuget/Dosaic.Hosting.Abstractions@1.2.40-alpha.1
 - pkg:nuget/Dosaic.Hosting.Abstractions@1.2.42
+- pkg:nuget/Dosaic.Hosting.Abstractions@1.2.47
+- pkg:nuget/Dosaic.Hosting.Abstractions@1.2.48
