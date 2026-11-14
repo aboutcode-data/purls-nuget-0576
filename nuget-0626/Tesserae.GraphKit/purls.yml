@@ -1,3 +1,4 @@
+- pkg:nuget/Tesserae.GraphKit@26.10.7256
 - pkg:nuget/Tesserae.GraphKit@26.6.1972
 - pkg:nuget/Tesserae.GraphKit@26.6.1979
 - pkg:nuget/Tesserae.GraphKit@26.6.1980
@@ -7,3 +8,5 @@
 - pkg:nuget/Tesserae.GraphKit@26.7.2792
 - pkg:nuget/Tesserae.GraphKit@26.7.2798
 - pkg:nuget/Tesserae.GraphKit@26.7.2910
+- pkg:nuget/Tesserae.GraphKit@26.8.4506
+- pkg:nuget/Tesserae.GraphKit@26.9.5639

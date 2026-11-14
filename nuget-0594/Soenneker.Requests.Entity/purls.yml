@@ -3,6 +3,8 @@
 - pkg:nuget/Soenneker.Requests.Entity@11.0.298
 - pkg:nuget/Soenneker.Requests.Entity@11.0.300
 - pkg:nuget/Soenneker.Requests.Entity@11.0.301
+- pkg:nuget/Soenneker.Requests.Entity@11.0.303
+- pkg:nuget/Soenneker.Requests.Entity@11.0.307
 - pkg:nuget/Soenneker.Requests.Entity@3.0.1
 - pkg:nuget/Soenneker.Requests.Entity@3.0.10
 - pkg:nuget/Soenneker.Requests.Entity@3.0.11
