@@ -41,6 +41,7 @@
 - pkg:nuget/Microsoft.Identity.Web.GraphServiceClientBeta@3.13.2
 - pkg:nuget/Microsoft.Identity.Web.GraphServiceClientBeta@3.14.0
 - pkg:nuget/Microsoft.Identity.Web.GraphServiceClientBeta@3.14.1
+- pkg:nuget/Microsoft.Identity.Web.GraphServiceClientBeta@3.16.0
 - pkg:nuget/Microsoft.Identity.Web.GraphServiceClientBeta@3.2.0
 - pkg:nuget/Microsoft.Identity.Web.GraphServiceClientBeta@3.2.1
 - pkg:nuget/Microsoft.Identity.Web.GraphServiceClientBeta@3.2.2
@@ -65,5 +66,7 @@
 - pkg:nuget/Microsoft.Identity.Web.GraphServiceClientBeta@3.9.4
 - pkg:nuget/Microsoft.Identity.Web.GraphServiceClientBeta@4.12.0
 - pkg:nuget/Microsoft.Identity.Web.GraphServiceClientBeta@4.14.2
+- pkg:nuget/Microsoft.Identity.Web.GraphServiceClientBeta@4.16.1
+- pkg:nuget/Microsoft.Identity.Web.GraphServiceClientBeta@4.17.0
 - pkg:nuget/Microsoft.Identity.Web.GraphServiceClientBeta@4.6.0
 - pkg:nuget/Microsoft.Identity.Web.GraphServiceClientBeta@4.7.0
