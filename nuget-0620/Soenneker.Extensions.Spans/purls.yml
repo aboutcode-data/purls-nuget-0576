@@ -1,5 +1,11 @@
+- pkg:nuget/Soenneker.Extensions.Spans@11.0.41
 - pkg:nuget/Soenneker.Extensions.Spans@3.0.1
 - pkg:nuget/Soenneker.Extensions.Spans@3.0.2
 - pkg:nuget/Soenneker.Extensions.Spans@4.0.12
 - pkg:nuget/Soenneker.Extensions.Spans@4.0.13
+- pkg:nuget/Soenneker.Extensions.Spans@4.0.17
+- pkg:nuget/Soenneker.Extensions.Spans@4.0.18
+- pkg:nuget/Soenneker.Extensions.Spans@4.0.23
+- pkg:nuget/Soenneker.Extensions.Spans@4.0.25
+- pkg:nuget/Soenneker.Extensions.Spans@4.0.27
 - pkg:nuget/Soenneker.Extensions.Spans@4.0.4
