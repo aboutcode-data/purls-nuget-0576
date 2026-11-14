@@ -27,3 +27,4 @@
 - pkg:nuget/Fido2.AspNet@4.0.0-beta4
 - pkg:nuget/Fido2.AspNet@4.0.0-beta8
 - pkg:nuget/Fido2.AspNet@4.0.0-beta9
+- pkg:nuget/Fido2.AspNet@4.3.0
