@@ -40,3 +40,4 @@
 - pkg:nuget/Serilog.Sinks.AzureBlobStorage@4.0.2
 - pkg:nuget/Serilog.Sinks.AzureBlobStorage@4.0.3
 - pkg:nuget/Serilog.Sinks.AzureBlobStorage@4.0.5
+- pkg:nuget/Serilog.Sinks.AzureBlobStorage@5.0.0
