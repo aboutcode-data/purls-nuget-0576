@@ -4,6 +4,7 @@
 - pkg:nuget/fm.Extensions.Logging.Testing.MSTest@1.0.0-preview9
 - pkg:nuget/fm.Extensions.Logging.Testing.MSTest@1.1.0
 - pkg:nuget/fm.Extensions.Logging.Testing.MSTest@1.2.0
+- pkg:nuget/fm.Extensions.Logging.Testing.MSTest@10.0.0
 - pkg:nuget/fm.Extensions.Logging.Testing.MSTest@2.0.0
 - pkg:nuget/fm.Extensions.Logging.Testing.MSTest@3.0.0
 - pkg:nuget/fm.Extensions.Logging.Testing.MSTest@3.1.0
