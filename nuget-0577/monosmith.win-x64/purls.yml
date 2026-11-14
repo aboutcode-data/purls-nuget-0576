@@ -59,6 +59,7 @@
 - pkg:nuget/monosmith.win-x64@2.34.0
 - pkg:nuget/monosmith.win-x64@2.36.0
 - pkg:nuget/monosmith.win-x64@2.38.0
+- pkg:nuget/monosmith.win-x64@2.40.0
 - pkg:nuget/monosmith.win-x64@2.5.0
 - pkg:nuget/monosmith.win-x64@2.8.0
 - pkg:nuget/monosmith.win-x64@2.9.0
