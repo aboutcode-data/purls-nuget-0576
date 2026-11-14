@@ -9,3 +9,13 @@
 - pkg:nuget/MeshWeaver.Fixture@2.1.0
 - pkg:nuget/MeshWeaver.Fixture@2.2.0
 - pkg:nuget/MeshWeaver.Fixture@2.3.0
+- pkg:nuget/MeshWeaver.Fixture@2.4.0
+- pkg:nuget/MeshWeaver.Fixture@2.5.0
+- pkg:nuget/MeshWeaver.Fixture@3.0.0-preview1
+- pkg:nuget/MeshWeaver.Fixture@3.0.0-rc1
+- pkg:nuget/MeshWeaver.Fixture@3.0.0-rc2
+- pkg:nuget/MeshWeaver.Fixture@3.0.0-rc3
+- pkg:nuget/MeshWeaver.Fixture@3.0.0-rc5
+- pkg:nuget/MeshWeaver.Fixture@3.0.0-rc6
+- pkg:nuget/MeshWeaver.Fixture@3.0.0-rc7
+- pkg:nuget/MeshWeaver.Fixture@3.0.0-rc8
