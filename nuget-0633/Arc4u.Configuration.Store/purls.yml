@@ -19,7 +19,9 @@
 - pkg:nuget/Arc4u.Configuration.Store@8.2.0-preview18
 - pkg:nuget/Arc4u.Configuration.Store@8.2.0-preview19
 - pkg:nuget/Arc4u.Configuration.Store@8.2.0-preview20
+- pkg:nuget/Arc4u.Configuration.Store@9.0.0
 - pkg:nuget/Arc4u.Configuration.Store@9.0.0-preview01
 - pkg:nuget/Arc4u.Configuration.Store@9.0.0-preview02
 - pkg:nuget/Arc4u.Configuration.Store@9.0.0-preview04
 - pkg:nuget/Arc4u.Configuration.Store@9.0.0-preview18
+- pkg:nuget/Arc4u.Configuration.Store@9.0.0-preview40
