@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Quark.Enums.FontWeights@11.0.96
+- pkg:nuget/Soenneker.Quark.Enums.FontWeights@11.0.98
 - pkg:nuget/Soenneker.Quark.Enums.FontWeights@3.0.1
 - pkg:nuget/Soenneker.Quark.Enums.FontWeights@3.0.3
 - pkg:nuget/Soenneker.Quark.Enums.FontWeights@3.0.4
@@ -15,3 +17,7 @@
 - pkg:nuget/Soenneker.Quark.Enums.FontWeights@4.0.44
 - pkg:nuget/Soenneker.Quark.Enums.FontWeights@4.0.49
 - pkg:nuget/Soenneker.Quark.Enums.FontWeights@4.0.63
+- pkg:nuget/Soenneker.Quark.Enums.FontWeights@4.0.70
+- pkg:nuget/Soenneker.Quark.Enums.FontWeights@4.0.80
+- pkg:nuget/Soenneker.Quark.Enums.FontWeights@4.0.81
+- pkg:nuget/Soenneker.Quark.Enums.FontWeights@4.0.91
