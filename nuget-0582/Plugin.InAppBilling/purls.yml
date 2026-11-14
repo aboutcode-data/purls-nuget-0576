@@ -39,6 +39,7 @@
 - pkg:nuget/Plugin.InAppBilling@1.4.0
 - pkg:nuget/Plugin.InAppBilling@1.4.1
 - pkg:nuget/Plugin.InAppBilling@1.4.1.157-beta
+- pkg:nuget/Plugin.InAppBilling@11.0.1
 - pkg:nuget/Plugin.InAppBilling@2.0.0
 - pkg:nuget/Plugin.InAppBilling@2.0.0.173-beta
 - pkg:nuget/Plugin.InAppBilling@2.1.0.187-beta
