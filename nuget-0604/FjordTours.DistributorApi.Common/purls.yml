@@ -42,3 +42,5 @@
 - pkg:nuget/FjordTours.DistributorApi.Common@4.5.0
 - pkg:nuget/FjordTours.DistributorApi.Common@4.5.2
 - pkg:nuget/FjordTours.DistributorApi.Common@4.6.0
+- pkg:nuget/FjordTours.DistributorApi.Common@4.7.3
+- pkg:nuget/FjordTours.DistributorApi.Common@4.7.4
