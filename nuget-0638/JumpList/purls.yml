@@ -28,3 +28,5 @@
 - pkg:nuget/JumpList@1.2.7
 - pkg:nuget/JumpList@1.4.0
 - pkg:nuget/JumpList@1.5.0
+- pkg:nuget/JumpList@2026.10.0
+- pkg:nuget/JumpList@2026.10.6
