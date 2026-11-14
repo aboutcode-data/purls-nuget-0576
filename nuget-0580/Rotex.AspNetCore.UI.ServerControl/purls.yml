@@ -1,3 +1,4 @@
+- pkg:nuget/Rotex.AspNetCore.UI.ServerControl@10.2.3
 - pkg:nuget/Rotex.AspNetCore.UI.ServerControl@2.0.0
 - pkg:nuget/Rotex.AspNetCore.UI.ServerControl@3.0.0
 - pkg:nuget/Rotex.AspNetCore.UI.ServerControl@3.1.0
