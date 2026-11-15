@@ -6,3 +6,4 @@
 - pkg:nuget/eQuantic.Core.Persistence.MySql@1.9.1
 - pkg:nuget/eQuantic.Core.Persistence.MySql@1.9.2
 - pkg:nuget/eQuantic.Core.Persistence.MySql@1.9.3
+- pkg:nuget/eQuantic.Core.Persistence.MySql@6.0.0
