@@ -49,3 +49,5 @@
 - pkg:nuget/Abasto.LibraryCore@4.2.9
 - pkg:nuget/Abasto.LibraryCore@4.3.0
 - pkg:nuget/Abasto.LibraryCore@4.3.9
+- pkg:nuget/Abasto.LibraryCore@5.2.3
+- pkg:nuget/Abasto.LibraryCore@5.2.5
