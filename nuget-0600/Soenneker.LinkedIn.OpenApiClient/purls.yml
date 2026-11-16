@@ -6,6 +6,7 @@
 - pkg:nuget/Soenneker.LinkedIn.OpenApiClient@11.0.66
 - pkg:nuget/Soenneker.LinkedIn.OpenApiClient@11.0.69
 - pkg:nuget/Soenneker.LinkedIn.OpenApiClient@11.0.70
+- pkg:nuget/Soenneker.LinkedIn.OpenApiClient@11.0.72
 - pkg:nuget/Soenneker.LinkedIn.OpenApiClient@4.0.3
 - pkg:nuget/Soenneker.LinkedIn.OpenApiClient@4.0.31
 - pkg:nuget/Soenneker.LinkedIn.OpenApiClient@4.0.32
