@@ -106,3 +106,4 @@
 - pkg:nuget/Sentry.Android.AssemblyReader@6.3.0
 - pkg:nuget/Sentry.Android.AssemblyReader@6.3.2
 - pkg:nuget/Sentry.Android.AssemblyReader@7.0.0-rc.2
+- pkg:nuget/Sentry.Android.AssemblyReader@7.0.1
