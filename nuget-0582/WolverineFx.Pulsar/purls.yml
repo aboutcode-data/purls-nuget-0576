@@ -86,5 +86,6 @@
 - pkg:nuget/WolverineFx.Pulsar@6.59.1
 - pkg:nuget/WolverineFx.Pulsar@6.63.0
 - pkg:nuget/WolverineFx.Pulsar@6.64.0
+- pkg:nuget/WolverineFx.Pulsar@6.64.2
 - pkg:nuget/WolverineFx.Pulsar@6.7.0
 - pkg:nuget/WolverineFx.Pulsar@7.0.0-alpha.2
