@@ -20,3 +20,5 @@
 - pkg:nuget/Dflat.System.Web@1.7.2.77
 - pkg:nuget/Dflat.System.Web@1.7.2.78
 - pkg:nuget/Dflat.System.Web@1.7.2.79
+- pkg:nuget/Dflat.System.Web@1.7.2.93
+- pkg:nuget/Dflat.System.Web@1.7.2.95
