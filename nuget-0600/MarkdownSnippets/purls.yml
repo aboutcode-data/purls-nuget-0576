@@ -153,6 +153,8 @@
 - pkg:nuget/MarkdownSnippets@28.1.0
 - pkg:nuget/MarkdownSnippets@28.3.0
 - pkg:nuget/MarkdownSnippets@29.0.0
+- pkg:nuget/MarkdownSnippets@30.0.0
+- pkg:nuget/MarkdownSnippets@30.0.1
 - pkg:nuget/MarkdownSnippets@8.6.5
 - pkg:nuget/MarkdownSnippets@8.6.6
 - pkg:nuget/MarkdownSnippets@8.6.7
