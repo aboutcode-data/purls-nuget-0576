@@ -219,6 +219,7 @@
 - pkg:nuget/CW.Assistant.Extensions.Assistant@26.11.0-beta.238.67771
 - pkg:nuget/CW.Assistant.Extensions.Assistant@26.11.0-beta.242.67869
 - pkg:nuget/CW.Assistant.Extensions.Assistant@26.11.0-beta.243.67938
+- pkg:nuget/CW.Assistant.Extensions.Assistant@26.11.0-beta.250.68030
 - pkg:nuget/CW.Assistant.Extensions.Assistant@26.11.0-codex-scriptbox-temporary-runs.1.66790
 - pkg:nuget/CW.Assistant.Extensions.Assistant@26.11.0-codex-scriptbox-temporary-runs.1.66793
 - pkg:nuget/CW.Assistant.Extensions.Assistant@26.12.0-1097-machine-install.1.67440
@@ -267,8 +268,10 @@
 - pkg:nuget/CW.Assistant.Extensions.Assistant@26.12.0-PullRequest1466.86.67847
 - pkg:nuget/CW.Assistant.Extensions.Assistant@26.12.0-PullRequest1530.104.67942
 - pkg:nuget/CW.Assistant.Extensions.Assistant@26.12.0-PullRequest1535.87.67941
+- pkg:nuget/CW.Assistant.Extensions.Assistant@26.12.0-PullRequest1538.102.68033
 - pkg:nuget/CW.Assistant.Extensions.Assistant@26.12.0-PullRequest1542.87.67957
 - pkg:nuget/CW.Assistant.Extensions.Assistant@26.12.0-PullRequest1545.87.67964
+- pkg:nuget/CW.Assistant.Extensions.Assistant@26.12.0-PullRequest1570.2.68010
 - pkg:nuget/CW.Assistant.Extensions.Assistant@26.12.0-PullRequest702.9.67464
 - pkg:nuget/CW.Assistant.Extensions.Assistant@26.12.0-PullRequest702.9.67482
 - pkg:nuget/CW.Assistant.Extensions.Assistant@26.12.0-PullRequest853.485.67790
