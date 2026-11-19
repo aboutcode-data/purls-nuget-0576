@@ -529,3 +529,5 @@
 - pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.20.2529-main
 - pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.20.2540-main
 - pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.20.2549-main
+- pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.20.2559-native-aot-tool
+- pkg:nuget/FunFair.BuildVersion.GitTagBuildNumber@6.2.20.2560-main
