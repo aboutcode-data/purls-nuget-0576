@@ -48,6 +48,7 @@
 - pkg:nuget/OCI.DotNetSDK.Recovery@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Recovery@144.1.0
 - pkg:nuget/OCI.DotNetSDK.Recovery@149.0.0
+- pkg:nuget/OCI.DotNetSDK.Recovery@151.0.0
 - pkg:nuget/OCI.DotNetSDK.Recovery@52.1.0
 - pkg:nuget/OCI.DotNetSDK.Recovery@53.0.0
 - pkg:nuget/OCI.DotNetSDK.Recovery@53.1.0

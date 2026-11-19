@@ -141,6 +141,7 @@
 - pkg:nuget/SFA.DAS.Payments.Model.Core@2.5.0-prerelease-90
 - pkg:nuget/SFA.DAS.Payments.Model.Core@2.5.1
 - pkg:nuget/SFA.DAS.Payments.Model.Core@2.5.1-prerelease-2
+- pkg:nuget/SFA.DAS.Payments.Model.Core@2.8.3-prerelease-2
 - pkg:nuget/SFA.DAS.Payments.Model.Core@2.9.0-prerelease-4
 - pkg:nuget/SFA.DAS.Payments.Model.Core@2.9.1-prerelease-4
 - pkg:nuget/SFA.DAS.Payments.Model.Core@2.9.1-prerelease-5
