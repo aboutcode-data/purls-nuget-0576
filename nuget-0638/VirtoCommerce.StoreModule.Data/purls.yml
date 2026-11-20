@@ -35,6 +35,7 @@
 - pkg:nuget/VirtoCommerce.StoreModule.Data@3.1011.0-alpha.809-vcst-6169
 - pkg:nuget/VirtoCommerce.StoreModule.Data@3.1012.0
 - pkg:nuget/VirtoCommerce.StoreModule.Data@3.1013.0
+- pkg:nuget/VirtoCommerce.StoreModule.Data@3.1014.0-alpha.824-vcst-6918-store-admin-toolset
 - pkg:nuget/VirtoCommerce.StoreModule.Data@3.11.0
 - pkg:nuget/VirtoCommerce.StoreModule.Data@3.11.0-alpha.493
 - pkg:nuget/VirtoCommerce.StoreModule.Data@3.11.0-alpha.494
