@@ -85,6 +85,7 @@
 - pkg:nuget/Handsontable@18.1.2
 - pkg:nuget/Handsontable@18.1.2-rc2
 - pkg:nuget/Handsontable@18.1.3
+- pkg:nuget/Handsontable@19.0.0-rc5
 - pkg:nuget/Handsontable@2.0.0
 - pkg:nuget/Handsontable@3.0.0
 - pkg:nuget/Handsontable@4.0.0
