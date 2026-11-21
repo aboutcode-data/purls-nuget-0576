@@ -1,2 +1,3 @@
 - pkg:nuget/SteamKitSDK.Windows@0.9.0
 - pkg:nuget/SteamKitSDK.Windows@0.9.1
+- pkg:nuget/SteamKitSDK.Windows@0.9.5
