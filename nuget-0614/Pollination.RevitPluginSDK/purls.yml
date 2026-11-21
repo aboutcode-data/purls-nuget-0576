@@ -39,5 +39,7 @@
 - pkg:nuget/Pollination.RevitPluginSDK@0.8.9
 - pkg:nuget/Pollination.RevitPluginSDK@0.80.0
 - pkg:nuget/Pollination.RevitPluginSDK@0.81.1
+- pkg:nuget/Pollination.RevitPluginSDK@0.82.4
+- pkg:nuget/Pollination.RevitPluginSDK@0.82.5
 - pkg:nuget/Pollination.RevitPluginSDK@0.9.0
 - pkg:nuget/Pollination.RevitPluginSDK@0.9.1
