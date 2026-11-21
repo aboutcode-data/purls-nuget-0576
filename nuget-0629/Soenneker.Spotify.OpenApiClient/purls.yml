@@ -4,6 +4,7 @@
 - pkg:nuget/Soenneker.Spotify.OpenApiClient@11.0.110
 - pkg:nuget/Soenneker.Spotify.OpenApiClient@11.0.118
 - pkg:nuget/Soenneker.Spotify.OpenApiClient@11.0.122
+- pkg:nuget/Soenneker.Spotify.OpenApiClient@11.0.125
 - pkg:nuget/Soenneker.Spotify.OpenApiClient@4.0.10
 - pkg:nuget/Soenneker.Spotify.OpenApiClient@4.0.11
 - pkg:nuget/Soenneker.Spotify.OpenApiClient@4.0.12
