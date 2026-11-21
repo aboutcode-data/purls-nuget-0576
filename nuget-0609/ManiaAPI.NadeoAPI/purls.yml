@@ -23,6 +23,7 @@
 - pkg:nuget/ManiaAPI.NadeoAPI@2.0.0-beta2
 - pkg:nuget/ManiaAPI.NadeoAPI@2.0.0-beta3
 - pkg:nuget/ManiaAPI.NadeoAPI@2.1.0
+- pkg:nuget/ManiaAPI.NadeoAPI@2.11.0
 - pkg:nuget/ManiaAPI.NadeoAPI@2.2.0
 - pkg:nuget/ManiaAPI.NadeoAPI@2.3.0
 - pkg:nuget/ManiaAPI.NadeoAPI@2.3.1
