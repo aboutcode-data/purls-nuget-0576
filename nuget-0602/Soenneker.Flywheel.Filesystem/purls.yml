@@ -8,6 +8,13 @@
 - pkg:nuget/Soenneker.Flywheel.Filesystem@11.0.491
 - pkg:nuget/Soenneker.Flywheel.Filesystem@11.0.500
 - pkg:nuget/Soenneker.Flywheel.Filesystem@11.0.517
+- pkg:nuget/Soenneker.Flywheel.Filesystem@11.0.530
+- pkg:nuget/Soenneker.Flywheel.Filesystem@11.0.536
+- pkg:nuget/Soenneker.Flywheel.Filesystem@11.0.543
+- pkg:nuget/Soenneker.Flywheel.Filesystem@11.0.547
+- pkg:nuget/Soenneker.Flywheel.Filesystem@11.0.551
+- pkg:nuget/Soenneker.Flywheel.Filesystem@11.0.553
+- pkg:nuget/Soenneker.Flywheel.Filesystem@11.0.554
 - pkg:nuget/Soenneker.Flywheel.Filesystem@5.0.103
 - pkg:nuget/Soenneker.Flywheel.Filesystem@5.0.106
 - pkg:nuget/Soenneker.Flywheel.Filesystem@5.0.114
