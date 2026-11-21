@@ -1,4 +1,5 @@
 - pkg:nuget/Polhem.UI.Avalonia@1.11.0
+- pkg:nuget/Polhem.UI.Avalonia@1.16.0
 - pkg:nuget/Polhem.UI.Avalonia@1.4.0
 - pkg:nuget/Polhem.UI.Avalonia@1.5.0
 - pkg:nuget/Polhem.UI.Avalonia@1.8.0

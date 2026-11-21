@@ -1,4 +1,5 @@
 - pkg:nuget/Polhem.Web.Blazor.Server@1.11.0
+- pkg:nuget/Polhem.Web.Blazor.Server@1.16.0
 - pkg:nuget/Polhem.Web.Blazor.Server@1.4.0
 - pkg:nuget/Polhem.Web.Blazor.Server@1.5.0
 - pkg:nuget/Polhem.Web.Blazor.Server@1.8.0
