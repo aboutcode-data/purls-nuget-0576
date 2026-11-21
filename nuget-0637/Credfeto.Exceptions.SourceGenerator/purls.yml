@@ -43,6 +43,9 @@
 - pkg:nuget/Credfeto.Exceptions.SourceGenerator@0.0.17.593-main
 - pkg:nuget/Credfeto.Exceptions.SourceGenerator@0.0.17.594-main
 - pkg:nuget/Credfeto.Exceptions.SourceGenerator@0.0.17.596-main
+- pkg:nuget/Credfeto.Exceptions.SourceGenerator@0.0.18.602-main
+- pkg:nuget/Credfeto.Exceptions.SourceGenerator@0.0.19.613-main
+- pkg:nuget/Credfeto.Exceptions.SourceGenerator@0.0.19.614-main
 - pkg:nuget/Credfeto.Exceptions.SourceGenerator@0.0.3.84-main
 - pkg:nuget/Credfeto.Exceptions.SourceGenerator@0.0.4.106-main
 - pkg:nuget/Credfeto.Exceptions.SourceGenerator@0.0.4.108-main
