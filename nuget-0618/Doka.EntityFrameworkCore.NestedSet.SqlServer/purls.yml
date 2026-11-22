@@ -1,2 +1,3 @@
 - pkg:nuget/Doka.EntityFrameworkCore.NestedSet.SqlServer@10.1.0
 - pkg:nuget/Doka.EntityFrameworkCore.NestedSet.SqlServer@10.2.0
+- pkg:nuget/Doka.EntityFrameworkCore.NestedSet.SqlServer@10.4.0
