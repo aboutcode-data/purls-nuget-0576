@@ -33,3 +33,7 @@
 - pkg:nuget/LayeredCraft.Cdk.Constructs@2.5.0
 - pkg:nuget/LayeredCraft.Cdk.Constructs@2.5.0-preview.24
 - pkg:nuget/LayeredCraft.Cdk.Constructs@2.5.1-preview.25
+- pkg:nuget/LayeredCraft.Cdk.Constructs@3.0.0-preview.30
+- pkg:nuget/LayeredCraft.Cdk.Constructs@3.0.0-preview.31
+- pkg:nuget/LayeredCraft.Cdk.Constructs@3.0.0-preview.32
+- pkg:nuget/LayeredCraft.Cdk.Constructs@3.0.0-preview.33
