@@ -5,6 +5,8 @@
 - pkg:nuget/Valuify@1.0.0-alpha0003
 - pkg:nuget/Valuify@1.0.0-rc.1
 - pkg:nuget/Valuify@1.1.0
+- pkg:nuget/Valuify@1.10.0
+- pkg:nuget/Valuify@1.11.0
 - pkg:nuget/Valuify@1.2.0
 - pkg:nuget/Valuify@1.2.0-rc.1
 - pkg:nuget/Valuify@1.2.1
@@ -21,3 +23,5 @@
 - pkg:nuget/Valuify@1.6.0
 - pkg:nuget/Valuify@1.8.0-rc.1
 - pkg:nuget/Valuify@1.8.0-rc.2
+- pkg:nuget/Valuify@1.9.0
+- pkg:nuget/Valuify@1.9.1
