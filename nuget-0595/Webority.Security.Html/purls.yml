@@ -1,3 +1,5 @@
 - pkg:nuget/Webority.Security.Html@0.74.0
 - pkg:nuget/Webority.Security.Html@0.79.1
 - pkg:nuget/Webority.Security.Html@0.80.0
+- pkg:nuget/Webority.Security.Html@0.80.2
+- pkg:nuget/Webority.Security.Html@0.81.0
