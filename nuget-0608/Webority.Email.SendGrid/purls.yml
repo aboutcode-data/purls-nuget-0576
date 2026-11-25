@@ -3,6 +3,7 @@
 - pkg:nuget/Webority.Email.SendGrid@0.100.1
 - pkg:nuget/Webority.Email.SendGrid@0.101.0
 - pkg:nuget/Webority.Email.SendGrid@0.101.1
+- pkg:nuget/Webority.Email.SendGrid@0.101.3
 - pkg:nuget/Webority.Email.SendGrid@0.11.0
 - pkg:nuget/Webority.Email.SendGrid@0.12.0
 - pkg:nuget/Webority.Email.SendGrid@0.13.0
