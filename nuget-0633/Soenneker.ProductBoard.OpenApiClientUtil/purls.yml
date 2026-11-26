@@ -1,3 +1,12 @@
+- pkg:nuget/Soenneker.ProductBoard.OpenApiClientUtil@11.0.202
+- pkg:nuget/Soenneker.ProductBoard.OpenApiClientUtil@11.0.206
+- pkg:nuget/Soenneker.ProductBoard.OpenApiClientUtil@11.0.207
+- pkg:nuget/Soenneker.ProductBoard.OpenApiClientUtil@11.0.214
+- pkg:nuget/Soenneker.ProductBoard.OpenApiClientUtil@11.0.218
+- pkg:nuget/Soenneker.ProductBoard.OpenApiClientUtil@11.0.219
+- pkg:nuget/Soenneker.ProductBoard.OpenApiClientUtil@11.0.222
+- pkg:nuget/Soenneker.ProductBoard.OpenApiClientUtil@11.0.224
+- pkg:nuget/Soenneker.ProductBoard.OpenApiClientUtil@11.0.225
 - pkg:nuget/Soenneker.ProductBoard.OpenApiClientUtil@4.0.1
 - pkg:nuget/Soenneker.ProductBoard.OpenApiClientUtil@4.0.105
 - pkg:nuget/Soenneker.ProductBoard.OpenApiClientUtil@4.0.125
@@ -7,6 +16,7 @@
 - pkg:nuget/Soenneker.ProductBoard.OpenApiClientUtil@4.0.152
 - pkg:nuget/Soenneker.ProductBoard.OpenApiClientUtil@4.0.155
 - pkg:nuget/Soenneker.ProductBoard.OpenApiClientUtil@4.0.16
+- pkg:nuget/Soenneker.ProductBoard.OpenApiClientUtil@4.0.173
 - pkg:nuget/Soenneker.ProductBoard.OpenApiClientUtil@4.0.2
 - pkg:nuget/Soenneker.ProductBoard.OpenApiClientUtil@4.0.3
 - pkg:nuget/Soenneker.ProductBoard.OpenApiClientUtil@4.0.38
