@@ -1,6 +1,7 @@
 - pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.MySql@1.0.0-preview
 - pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.MySql@1.0.1-preview
 - pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.MySql@1.0.129
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.MySql@1.0.131
 - pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.MySql@1.0.14-preview
 - pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.MySql@1.0.2-preview
 - pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.MySql@1.0.3-preview
