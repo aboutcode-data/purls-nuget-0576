@@ -1,1 +1,5 @@
 - pkg:nuget/Tharga.MongoDB.Mcp@2.10.12
+- pkg:nuget/Tharga.MongoDB.Mcp@2.11.3
+- pkg:nuget/Tharga.MongoDB.Mcp@2.18.1
+- pkg:nuget/Tharga.MongoDB.Mcp@2.18.2
+- pkg:nuget/Tharga.MongoDB.Mcp@2.19.2
