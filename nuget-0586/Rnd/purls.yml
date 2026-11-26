@@ -1,5 +1,6 @@
 - pkg:nuget/Rnd@10.0.0
 - pkg:nuget/Rnd@10.0.1
+- pkg:nuget/Rnd@11.0.0
 - pkg:nuget/Rnd@8.0.0
 - pkg:nuget/Rnd@8.0.0-beta.220311.3
 - pkg:nuget/Rnd@8.0.0-beta.220312.1
