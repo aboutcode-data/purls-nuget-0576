@@ -4643,4 +4643,6 @@
 - pkg:nuget/Uno.WinUI.MSAL@7.1.0-dev.574
 - pkg:nuget/Uno.WinUI.MSAL@7.1.0-dev.579
 - pkg:nuget/Uno.WinUI.MSAL@7.1.0-dev.581
+- pkg:nuget/Uno.WinUI.MSAL@7.1.0-dev.597
+- pkg:nuget/Uno.WinUI.MSAL@7.1.0-dev.601
 - pkg:nuget/Uno.WinUI.MSAL@7.1.0-dev.77
