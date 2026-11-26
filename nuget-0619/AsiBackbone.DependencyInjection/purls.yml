@@ -3,3 +3,4 @@
 - pkg:nuget/AsiBackbone.DependencyInjection@2.2.0
 - pkg:nuget/AsiBackbone.DependencyInjection@3.0.0
 - pkg:nuget/AsiBackbone.DependencyInjection@3.2.1
+- pkg:nuget/AsiBackbone.DependencyInjection@7.5.3
