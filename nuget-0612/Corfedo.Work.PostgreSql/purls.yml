@@ -1,0 +1,3 @@
+- pkg:nuget/Corfedo.Work.PostgreSql@0.1.0
+- pkg:nuget/Corfedo.Work.PostgreSql@0.10.0
+- pkg:nuget/Corfedo.Work.PostgreSql@0.8.0
