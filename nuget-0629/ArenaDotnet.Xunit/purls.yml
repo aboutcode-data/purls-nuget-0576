@@ -11,3 +11,4 @@
 - pkg:nuget/ArenaDotnet.Xunit@6.0.0-pr200-1db1389
 - pkg:nuget/ArenaDotnet.Xunit@6.2.1
 - pkg:nuget/ArenaDotnet.Xunit@6.2.1-pr223-53456ab
+- pkg:nuget/ArenaDotnet.Xunit@7.0.2-pr287-9b55ab8
