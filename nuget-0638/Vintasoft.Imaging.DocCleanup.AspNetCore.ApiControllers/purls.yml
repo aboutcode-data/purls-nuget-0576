@@ -29,6 +29,7 @@
 - pkg:nuget/Vintasoft.Imaging.DocCleanup.AspNetCore.ApiControllers@10.2.1.1
 - pkg:nuget/Vintasoft.Imaging.DocCleanup.AspNetCore.ApiControllers@10.2.3.1
 - pkg:nuget/Vintasoft.Imaging.DocCleanup.AspNetCore.ApiControllers@10.2.4.1
+- pkg:nuget/Vintasoft.Imaging.DocCleanup.AspNetCore.ApiControllers@10.2.5.1
 - pkg:nuget/Vintasoft.Imaging.DocCleanup.AspNetCore.ApiControllers@2.1.1.1
 - pkg:nuget/Vintasoft.Imaging.DocCleanup.AspNetCore.ApiControllers@2.1.1.10
 - pkg:nuget/Vintasoft.Imaging.DocCleanup.AspNetCore.ApiControllers@2.1.1.11
