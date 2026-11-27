@@ -32,3 +32,4 @@
 - pkg:nuget/Umbraco.Cms.Integrations.Search.Algolia@4.0.1
 - pkg:nuget/Umbraco.Cms.Integrations.Search.Algolia@5.0.0
 - pkg:nuget/Umbraco.Cms.Integrations.Search.Algolia@5.0.1
+- pkg:nuget/Umbraco.Cms.Integrations.Search.Algolia@8.0.0-rc1
