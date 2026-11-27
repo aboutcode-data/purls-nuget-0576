@@ -3,5 +3,8 @@
 - pkg:nuget/Taba.Client@0.3.12
 - pkg:nuget/Taba.Client@0.3.13-rc.2
 - pkg:nuget/Taba.Client@0.3.14
+- pkg:nuget/Taba.Client@0.3.18-rc.1
+- pkg:nuget/Taba.Client@0.3.18-rc.3
+- pkg:nuget/Taba.Client@0.3.22-rc.1
 - pkg:nuget/Taba.Client@0.3.6-rc.1
 - pkg:nuget/Taba.Client@0.3.9
