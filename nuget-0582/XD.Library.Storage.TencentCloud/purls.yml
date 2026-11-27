@@ -1,4 +1,5 @@
 - pkg:nuget/XD.Library.Storage.TencentCloud@8.0.108
 - pkg:nuget/XD.Library.Storage.TencentCloud@8.0.111
+- pkg:nuget/XD.Library.Storage.TencentCloud@8.0.123
 - pkg:nuget/XD.Library.Storage.TencentCloud@8.0.88
 - pkg:nuget/XD.Library.Storage.TencentCloud@8.0.99
