@@ -1,1 +1,2 @@
 - pkg:nuget/StaticNorth.Valiant.Endpoints.AspNetCore@1.1.0
+- pkg:nuget/StaticNorth.Valiant.Endpoints.AspNetCore@2.0.1
