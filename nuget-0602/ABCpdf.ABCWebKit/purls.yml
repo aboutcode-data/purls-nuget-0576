@@ -62,3 +62,5 @@
 - pkg:nuget/ABCpdf.ABCWebKit@13.3.6
 - pkg:nuget/ABCpdf.ABCWebKit@14.0.1-rc
 - pkg:nuget/ABCpdf.ABCWebKit@14.0.2
+- pkg:nuget/ABCpdf.ABCWebKit@14.0.7
+- pkg:nuget/ABCpdf.ABCWebKit@14.1.0
