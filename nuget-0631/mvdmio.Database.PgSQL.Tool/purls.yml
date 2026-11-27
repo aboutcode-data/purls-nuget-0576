@@ -3,3 +3,8 @@
 - pkg:nuget/mvdmio.Database.PgSQL.Tool@0.19.0
 - pkg:nuget/mvdmio.Database.PgSQL.Tool@0.19.2
 - pkg:nuget/mvdmio.Database.PgSQL.Tool@0.20.8
+- pkg:nuget/mvdmio.Database.PgSQL.Tool@0.33.0
+- pkg:nuget/mvdmio.Database.PgSQL.Tool@0.39.1
+- pkg:nuget/mvdmio.Database.PgSQL.Tool@0.40.0
+- pkg:nuget/mvdmio.Database.PgSQL.Tool@0.45.0
+- pkg:nuget/mvdmio.Database.PgSQL.Tool@0.46.1
