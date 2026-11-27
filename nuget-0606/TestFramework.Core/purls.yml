@@ -1,1 +1,3 @@
 - pkg:nuget/TestFramework.Core@0.1.6
+- pkg:nuget/TestFramework.Core@0.4.0
+- pkg:nuget/TestFramework.Core@0.7.0
