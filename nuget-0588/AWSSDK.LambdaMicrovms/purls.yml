@@ -3,3 +3,5 @@
 - pkg:nuget/AWSSDK.LambdaMicrovms@4.0.100.5
 - pkg:nuget/AWSSDK.LambdaMicrovms@4.0.100.8
 - pkg:nuget/AWSSDK.LambdaMicrovms@4.0.101.2
+- pkg:nuget/AWSSDK.LambdaMicrovms@4.0.101.8
+- pkg:nuget/AWSSDK.LambdaMicrovms@4.0.102
