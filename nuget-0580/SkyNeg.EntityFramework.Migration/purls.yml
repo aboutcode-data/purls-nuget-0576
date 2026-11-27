@@ -7,3 +7,4 @@
 - pkg:nuget/SkyNeg.EntityFramework.Migration@1.1.5
 - pkg:nuget/SkyNeg.EntityFramework.Migration@1.2.0
 - pkg:nuget/SkyNeg.EntityFramework.Migration@1.3.0
+- pkg:nuget/SkyNeg.EntityFramework.Migration@1.5.0
