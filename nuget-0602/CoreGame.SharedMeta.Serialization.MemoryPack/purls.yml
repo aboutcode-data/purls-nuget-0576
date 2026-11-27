@@ -7,4 +7,6 @@
 - pkg:nuget/CoreGame.SharedMeta.Serialization.MemoryPack@0.31.1
 - pkg:nuget/CoreGame.SharedMeta.Serialization.MemoryPack@0.32.1
 - pkg:nuget/CoreGame.SharedMeta.Serialization.MemoryPack@0.33.0
+- pkg:nuget/CoreGame.SharedMeta.Serialization.MemoryPack@0.42.0
+- pkg:nuget/CoreGame.SharedMeta.Serialization.MemoryPack@0.47.0
 - pkg:nuget/CoreGame.SharedMeta.Serialization.MemoryPack@0.5.1
