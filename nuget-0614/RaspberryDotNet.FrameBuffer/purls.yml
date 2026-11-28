@@ -1,2 +1,3 @@
 - pkg:nuget/RaspberryDotNet.FrameBuffer@0.3.0
 - pkg:nuget/RaspberryDotNet.FrameBuffer@1.1.1
+- pkg:nuget/RaspberryDotNet.FrameBuffer@3.0.0
