@@ -1,3 +1,6 @@
+- pkg:nuget/Neko@26.10.6271
+- pkg:nuget/Neko@26.10.6624
+- pkg:nuget/Neko@26.10.6993
 - pkg:nuget/Neko@26.3.64874
 - pkg:nuget/Neko@26.3.64881
 - pkg:nuget/Neko@26.3.65222
@@ -20,3 +23,5 @@
 - pkg:nuget/Neko@26.8.3585
 - pkg:nuget/Neko@26.8.3649
 - pkg:nuget/Neko@26.9.5273
+- pkg:nuget/Neko@26.9.6097
+- pkg:nuget/Neko@26.9.6105
