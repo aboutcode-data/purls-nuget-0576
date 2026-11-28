@@ -1,3 +1,5 @@
 - pkg:nuget/FluentGraphQL@1.0.0
 - pkg:nuget/FluentGraphQL@1.0.1
 - pkg:nuget/FluentGraphQL@1.0.2
+- pkg:nuget/FluentGraphQL@2.0.1
+- pkg:nuget/FluentGraphQL@2.0.1-g836d1c2f6d
