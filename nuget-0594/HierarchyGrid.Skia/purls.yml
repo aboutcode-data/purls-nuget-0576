@@ -60,6 +60,7 @@
 - pkg:nuget/HierarchyGrid.Skia@3.0.8
 - pkg:nuget/HierarchyGrid.Skia@3.0.9
 - pkg:nuget/HierarchyGrid.Skia@3.1.0
+- pkg:nuget/HierarchyGrid.Skia@3.10.5
 - pkg:nuget/HierarchyGrid.Skia@3.2.0
 - pkg:nuget/HierarchyGrid.Skia@3.3.0
 - pkg:nuget/HierarchyGrid.Skia@3.3.1
