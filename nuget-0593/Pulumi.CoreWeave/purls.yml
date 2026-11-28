@@ -1,6 +1,7 @@
 - pkg:nuget/Pulumi.CoreWeave@1.0.0
 - pkg:nuget/Pulumi.CoreWeave@1.0.0-alpha.1779126995
 - pkg:nuget/Pulumi.CoreWeave@1.0.0-alpha.1779127238
+- pkg:nuget/Pulumi.CoreWeave@1.0.3
 - pkg:nuget/Pulumi.CoreWeave@1.1.0-alpha.1779197934
 - pkg:nuget/Pulumi.CoreWeave@1.1.0-alpha.1779319296
 - pkg:nuget/Pulumi.CoreWeave@1.1.0-alpha.1780469837
@@ -23,3 +24,8 @@
 - pkg:nuget/Pulumi.CoreWeave@1.1.0-alpha.1788895937
 - pkg:nuget/Pulumi.CoreWeave@1.1.0-alpha.1790165459
 - pkg:nuget/Pulumi.CoreWeave@1.1.0-alpha.1790589532
+- pkg:nuget/Pulumi.CoreWeave@1.1.0-alpha.1791851443
+- pkg:nuget/Pulumi.CoreWeave@1.1.0-alpha.1792196004
+- pkg:nuget/Pulumi.CoreWeave@1.1.0-alpha.1793684874
+- pkg:nuget/Pulumi.CoreWeave@1.1.0-alpha.1794375765
+- pkg:nuget/Pulumi.CoreWeave@1.1.0-alpha.1794479432
