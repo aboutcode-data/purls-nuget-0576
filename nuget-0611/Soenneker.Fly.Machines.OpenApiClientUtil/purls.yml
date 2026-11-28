@@ -1,4 +1,8 @@
 - pkg:nuget/Soenneker.Fly.Machines.OpenApiClientUtil@11.0.231
+- pkg:nuget/Soenneker.Fly.Machines.OpenApiClientUtil@11.0.243
+- pkg:nuget/Soenneker.Fly.Machines.OpenApiClientUtil@11.0.246
+- pkg:nuget/Soenneker.Fly.Machines.OpenApiClientUtil@11.0.248
+- pkg:nuget/Soenneker.Fly.Machines.OpenApiClientUtil@11.0.250
 - pkg:nuget/Soenneker.Fly.Machines.OpenApiClientUtil@4.0.101
 - pkg:nuget/Soenneker.Fly.Machines.OpenApiClientUtil@4.0.102
 - pkg:nuget/Soenneker.Fly.Machines.OpenApiClientUtil@4.0.103
