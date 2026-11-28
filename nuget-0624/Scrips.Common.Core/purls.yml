@@ -84,3 +84,5 @@
 - pkg:nuget/Scrips.Common.Core@9.0.20
 - pkg:nuget/Scrips.Common.Core@9.0.21
 - pkg:nuget/Scrips.Common.Core@9.0.31
+- pkg:nuget/Scrips.Common.Core@9.0.34
+- pkg:nuget/Scrips.Common.Core@9.0.39
