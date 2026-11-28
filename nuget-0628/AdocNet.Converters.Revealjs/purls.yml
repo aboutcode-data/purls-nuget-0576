@@ -1,1 +1,9 @@
 - pkg:nuget/AdocNet.Converters.Revealjs@1.0.0-beta.26
+- pkg:nuget/AdocNet.Converters.Revealjs@1.0.13
+- pkg:nuget/AdocNet.Converters.Revealjs@1.0.20
+- pkg:nuget/AdocNet.Converters.Revealjs@1.0.24
+- pkg:nuget/AdocNet.Converters.Revealjs@1.0.27
+- pkg:nuget/AdocNet.Converters.Revealjs@1.0.36
+- pkg:nuget/AdocNet.Converters.Revealjs@1.0.40
+- pkg:nuget/AdocNet.Converters.Revealjs@1.0.47
+- pkg:nuget/AdocNet.Converters.Revealjs@1.0.9
