@@ -17,4 +17,7 @@
 - pkg:nuget/IronHive.Providers.GoogleAI@0.53.1
 - pkg:nuget/IronHive.Providers.GoogleAI@0.58.0
 - pkg:nuget/IronHive.Providers.GoogleAI@0.64.0
+- pkg:nuget/IronHive.Providers.GoogleAI@0.68.0
 - pkg:nuget/IronHive.Providers.GoogleAI@0.7.1
+- pkg:nuget/IronHive.Providers.GoogleAI@0.73.0
+- pkg:nuget/IronHive.Providers.GoogleAI@0.80.0
