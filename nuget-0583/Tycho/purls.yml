@@ -8,3 +8,4 @@
 - pkg:nuget/Tycho@5.0.0
 - pkg:nuget/Tycho@5.0.0-alpha
 - pkg:nuget/Tycho@5.0.0-beta
+- pkg:nuget/Tycho@6.0.0-rc.5
