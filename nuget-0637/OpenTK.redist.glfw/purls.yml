@@ -31,3 +31,5 @@
 - pkg:nuget/OpenTK.redist.glfw@3.4.0-pre20240305150527
 - pkg:nuget/OpenTK.redist.glfw@3.4.0.44
 - pkg:nuget/OpenTK.redist.glfw@3.4.0.47
+- pkg:nuget/OpenTK.redist.glfw@3.5.1-pre20261012164953
+- pkg:nuget/OpenTK.redist.glfw@3.5.1.71
