@@ -3,3 +3,4 @@
 - pkg:nuget/Rotativaio.AspNetCore@1.4.0
 - pkg:nuget/Rotativaio.AspNetCore@1.5.1
 - pkg:nuget/Rotativaio.AspNetCore@1.6.1-beta
+- pkg:nuget/Rotativaio.AspNetCore@1.6.4-beta
